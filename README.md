@@ -19,6 +19,8 @@ fundbüro is my personal collection of interesting things from the web.
 
 * [Slideout.js](https://mango.github.io/slideout/) is a touch slideout navigation menu for your mobile web apps.
 
+* [draggabilly](https://github.com/desandro/draggabilly/blob/master/README.md) makes things draggable.
+
 ### Fat components
 
 * [c3js](http://c3js.org/) is a D3-based reusable chart library.
