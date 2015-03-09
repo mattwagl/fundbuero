@@ -2,6 +2,17 @@
 
 fundbüro is my personal collection of interesting things from the web.
 
+## Base libs
+
+### General helprs
+
+* [lodash](https://lodash.com/) provides great helpers for dealing with arrays and objects.
+
+
+### Dealing with async code
+
+* [asynquence](https://github.com/getify/asynquence) promise-style async sequence flow-control
+
 ## Frontend
 
 ### Micro UI components
@@ -11,7 +22,6 @@ fundbüro is my personal collection of interesting things from the web.
 ### Fat components
 
 * [c3js](http://c3js.org/) is a D3-based reusable chart library.
-
 
 ### Tools
 
