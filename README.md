@@ -44,6 +44,9 @@ fundbüro is my personal collection of interesting things from the web.
 
 * [autoprefixer](https://github.com/postcss/autoprefixer) parses CSS and adds vendor prefixes to rules.
 * [uncss](https://github.com/giakki/uncss) removes unused styles from CSS.
+* [gulp-connect](https://github.com/avevlad/gulp-connect) is a simple preview server for gulp that supports LiveReload.
+* [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) minifies PNG, JPEG, GIF and SVG images through gulp.
+
 
 ### Tools
 
