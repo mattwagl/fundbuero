@@ -25,6 +25,10 @@ fundbüro is my personal collection of interesting things from the web.
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/) is a library built on top of D3 that is optimized for visualizing and laying out time-series data. 
 * [c3.js](http://c3js.org/) is a D3-based reusable chart library.
 
+### Physics
+
+* [TremulaJS](https://github.com/garris/TremulaJS) Picture Streams + Momentum Engine + Bézier Paths + Multi-Device. 
+
 ### App structure
 
 * [React](https://github.com/facebook/react) is a view layer based upon the concept of a virtual DOM. 
