@@ -42,5 +42,6 @@ fundbüro is my personal collection of interesting things from the web.
 ### Tools
 
 * [ai2html](http://ai2html.org/) is a script for Adobe Illustrator that converts your Illustrator document into html and css.
+* [wzrd](https://github.com/maxogden/wzrd) is a super minimal browserify development server.
 
 ## Backend
