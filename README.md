@@ -20,6 +20,11 @@ fundbüro is my personal collection of interesting things from the web.
 * [Slideout.js](https://mango.github.io/slideout/) is a touch slideout navigation menu for your mobile web apps.
 * [draggabilly](https://github.com/desandro/draggabilly/blob/master/README.md) makes things draggable.
 
+### Animation/Transitions
+
+* [Velocity.js](http://julian.com/research/velocity/) is an accelerated animation engine with the same API as jQuery's $.animate().
+* [GSAP](http://greensock.com/gsap) is a full-blown animation and tweening engine that also supports timelines.
+
 ### Graphing
 
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/) is a library built on top of D3 that is optimized for visualizing and laying out time-series data. 
@@ -33,6 +38,7 @@ fundbüro is my personal collection of interesting things from the web.
 
 * [React](https://github.com/facebook/react) is a view layer based upon the concept of a virtual DOM. 
 * [riot.js](https://github.com/muut/riotjs) is a React- like, 3.5KB user interface library.
+* [AngularJS](https://angularjs.org/)  is a library for building the framework most suited to your application development.
 
 ### Build
 
