@@ -54,3 +54,15 @@ fundbüro is my personal collection of interesting things from the web.
 * [wzrd](https://github.com/maxogden/wzrd) is a super minimal browserify development server.
 
 ## Backend
+
+## Frontend Backend Communication
+
+* [socket.io](http://socket.io/) enables real-time bidirectional event-based communication.
+* [oboe.js](https://github.com/jimhigson/oboe.js) enables streaming JSON from server to client.
+
+## Misc
+
+* [airpaste](https://github.com/mafintosh/airpaste) is a 1-1 network pipe that auto discovers other peers using mdns.
+* [airpaste](https://github.com/agnat/node_mdns) enables mdns/zeroconf/bonjour service discovery add-on for Node.js.
+
+
