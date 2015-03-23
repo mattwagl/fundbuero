@@ -19,6 +19,7 @@ fundbüro is my personal collection of interesting things from the web.
 
 * [Slideout.js](https://mango.github.io/slideout/) is a touch slideout navigation menu for your mobile web apps.
 * [draggabilly](https://github.com/desandro/draggabilly/blob/master/README.md) makes things draggable.
+* [dragscroll](https://github.com/asvd/dragscroll) is a tiny library for drag-n-drop scrolling style.
 
 ### Animation/Transitions
 
