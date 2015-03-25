@@ -48,7 +48,6 @@ fundbüro is my personal collection of interesting things from the web.
 * [gulp-connect](https://github.com/avevlad/gulp-connect) is a simple preview server for gulp that supports LiveReload.
 * [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) minifies PNG, JPEG, GIF and SVG images through gulp.
 
-
 ### Tools
 
 * [ai2html](http://ai2html.org/) is a script for Adobe Illustrator that converts your Illustrator document into html and css.
@@ -64,6 +63,14 @@ fundbüro is my personal collection of interesting things from the web.
 ## Misc
 
 * [airpaste](https://github.com/mafintosh/airpaste) is a 1-1 network pipe that auto discovers other peers using mdns.
-* [airpaste](https://github.com/agnat/node_mdns) enables mdns/zeroconf/bonjour service discovery add-on for Node.js.
+* [node_mdns](https://github.com/agnat/node_mdns) enables mdns/zeroconf/bonjour service discovery add-on for Node.js.
+
+## Desktop
+
+* [atom-shell](https://github.com/atom/atom-shell) is across-platform desktop application shell by github.
+* [atom-shell-packager](https://github.com/maxogden/atom-shell-packager) packages and distributes your atom-shell app in OS executables (.app) via JS or CLI.
+* [menubar](https://github.com/maxogden/menubar) is a high level way to create menubar desktop applications with atom-shell.
+* [nw.js](https://github.com/nwjs/nw.js) "Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies."
+
 
 
