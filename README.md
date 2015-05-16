@@ -27,6 +27,11 @@ fundbüro is my personal collection of interesting things from the web.
 * [dragscroll](https://github.com/asvd/dragscroll) is a tiny library for drag-n-drop scrolling style.
 * [layzr.js](https://github.com/callmecavs/layzr.js) is a small, fast, modern, and dependency-free library for lazy loading.
 
+### DOM
+
+* [sprint](https://github.com/bendc/sprint) is a tiny, lightning fast jQuery-like library for modern browsers.
+* [zepto.js](https://github.com/madrobby/zepto) is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API .
+* [jQuery](https://github.com/jquery/jquery) 
 
 ### Bootstrap
 
