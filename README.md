@@ -11,7 +11,12 @@ fundbüro is my personal collection of interesting things from the web.
 
 ### Dealing with async code
 
-* [asynquence](https://github.com/getify/asynquence) promise-style async sequence flow-control
+* [asynquence](https://github.com/getify/asynquence) provides promise-style async sequence flow-control.
+* [vo](https://github.com/lapwinglabs/vo) is a control flow library for minimalists.
+
+### Streams
+
+* [highland.js](https://github.com/caolan/highland) provides High-level streams library for Node.js and the browser.
 
 ## Frontend
 
@@ -42,7 +47,6 @@ fundbüro is my personal collection of interesting things from the web.
 * [Velocity.js](http://julian.com/research/velocity/) is an accelerated animation engine with the same API as jQuery's $.animate().
 * [GSAP](http://greensock.com/gsap) is a full-blown animation and tweening engine that also supports timelines.
 * [loaders](http://connoratherton.com/loaders) "Delightful and performance-focused pure css loading animations."
-
 
 ### Inspiration
 
