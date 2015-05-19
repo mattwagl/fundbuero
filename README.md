@@ -96,7 +96,7 @@ fundbüro is my personal collection of interesting things from the web.
 
 ## Desktop
 
-* [atom-shell](https://github.com/atom/atom-shell) is across-platform desktop application shell by github.
-* [atom-shell-packager](https://github.com/maxogden/atom-shell-packager) packages and distributes your atom-shell app in OS executables (.app) via JS or CLI.
-* [menubar](https://github.com/maxogden/menubar) is a high level way to create menubar desktop applications with atom-shell.
+* [electron](https://github.com/atom/electron) is across-platform desktop application shell by github.
+* [electron-packager](https://github.com/maxogden/electron-packager) packages and distributes your electron app in OS executables (.app) via JS or CLI.
+* [menubar](https://github.com/maxogden/menubar) is a high level way to create menubar desktop applications with electron.
 * [nw.js](https://github.com/nwjs/nw.js) "Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies."
