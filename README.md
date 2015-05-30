@@ -25,6 +25,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [primercss.io](http://primercss.io/) "The CSS toolkit and guidelines that power GitHub."
 * [CSS-Best-Practices](https://github.com/sezgi/CSS-Best-Practices) "Notes meant as a guide for writing clean CSS"
 * [patternbolt](https://github.com/buseca/patternbolt) is a election of SVG pattern background, packed in a single CSS or SCSS file.
+* [sass-boilterplate](https://github.com/HugoGiraudel/sass-boilerplate) A boilerplate for Sass projects using the 7-1 architecture pattern. 
 
 ### Micro Components
 
