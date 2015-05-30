@@ -7,7 +7,7 @@ fundbüro is my personal collection of interesting things from the web.
 ### General helpers
 
 * [lodash](https://lodash.com/) provides great helpers for dealing with arrays and objects.
-
+* [i18next](http://i18next.com/) is a full-featured i18n javascript library for translating your webapplication.
 
 ### Dealing with async code
 
