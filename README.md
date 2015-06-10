@@ -102,3 +102,8 @@ fundbüro is my personal collection of interesting things from the web.
 * [electron-packager](https://github.com/maxogden/electron-packager) packages and distributes your electron app in OS executables (.app) via JS or CLI.
 * [menubar](https://github.com/maxogden/menubar) is a high level way to create menubar desktop applications with electron.
 * [nw.js](https://github.com/nwjs/nw.js) "Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies."
+
+
+## Tracing / Profiling / Debugging
+* [vector](https://github.com/Netflix/vector) is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser. 
+* [statsd](https://github.com/etsy/statsd) is a simple daemon for easy stats aggregation.
