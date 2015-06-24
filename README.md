@@ -49,6 +49,7 @@ fundbüro is my personal collection of interesting things from the web.
 
 * [Velocity.js](http://julian.com/research/velocity/) is an accelerated animation engine with the same API as jQuery's $.animate().
 * [GSAP](http://greensock.com/gsap) is a full-blown animation and tweening engine that also supports timelines.
+* [dynamics.js](https://github.com/michaelvillar/dynamics.js) lets you create physics-based animations.
 * [loaders](http://connoratherton.com/loaders) "Delightful and performance-focused pure css loading animations."
 
 ### Inspiration
