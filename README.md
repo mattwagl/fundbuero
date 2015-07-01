@@ -57,8 +57,10 @@ fundbüro is my personal collection of interesting things from the web.
 * [Codrops: Creative Gooey Effects](http://tympanus.net/Tutorials/SVGLoaderGSAP/index6.html) "A set of examples that use a gooey SVG filter for creating a variety of different effects for all kinds of website components."
 * [Codrops: Loaders](http://tympanus.net/codrops/2015/03/10/creative-gooey-effects/) "Playful loaders using animation with SVG and GSAP."
 
-### Graphing
+### Charting & Graphing
 
+* [dc.js](https://github.com/dc-js/dc.js) provides Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js.
+* [epoch](https://github.com/fastly/epoch) is a general purpose, real-time visualization library based on d3.
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/) is a library built on top of D3 that is optimized for visualizing and laying out time-series data.
 * [c3.js](http://c3js.org/) is a D3-based reusable chart library.
 
