@@ -53,11 +53,6 @@ fundbüro is my personal collection of interesting things from the web.
 * [dynamics.js](https://github.com/michaelvillar/dynamics.js) lets you create physics-based animations.
 * [loaders](http://connoratherton.com/loaders) "Delightful and performance-focused pure css loading animations."
 
-### Inspiration
-
-* [Codrops: Creative Gooey Effects](http://tympanus.net/Tutorials/SVGLoaderGSAP/index6.html) "A set of examples that use a gooey SVG filter for creating a variety of different effects for all kinds of website components."
-* [Codrops: Loaders](http://tympanus.net/codrops/2015/03/10/creative-gooey-effects/) "Playful loaders using animation with SVG and GSAP."
-
 ### Charting & Graphing
 
 * [dc.js](https://github.com/dc-js/dc.js) provides Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js.
@@ -78,6 +73,11 @@ fundbüro is my personal collection of interesting things from the web.
 
 ### React
 * [boron](https://github.com/yuanyan/boron)  is a collection of dialog animations with React.js.
+
+### Inspiration
+
+* [Codrops: Creative Gooey Effects](http://tympanus.net/Tutorials/SVGLoaderGSAP/index6.html) "A set of examples that use a gooey SVG filter for creating a variety of different effects for all kinds of website components."
+* [Codrops: Loaders](http://tympanus.net/codrops/2015/03/10/creative-gooey-effects/) "Playful loaders using animation with SVG and GSAP."
 
 ## Backend
 
@@ -100,6 +100,7 @@ fundbüro is my personal collection of interesting things from the web.
 
 ## Misc
 
+* [pdfmake](https://github.com/bpampuch/pdfmake) provides client/server side PDF printing in pure JavaScript.
 * [airpaste](https://github.com/mafintosh/airpaste) is a 1-1 network pipe that auto discovers other peers using mdns.
 * [node_mdns](https://github.com/agnat/node_mdns) enables mdns/zeroconf/bonjour service discovery add-on for Node.js.
 
