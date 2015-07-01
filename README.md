@@ -34,6 +34,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [draggabilly](https://github.com/desandro/draggabilly/blob/master/README.md) makes things draggable.
 * [dragscroll](https://github.com/asvd/dragscroll) is a tiny library for drag-n-drop scrolling style.
 * [layzr.js](https://github.com/callmecavs/layzr.js) is a small, fast, modern, and dependency-free library for lazy loading.
+* [PhotoSwipe](https://github.com/dimsemenov/photoswipe) is an image gallery for mobile and desktop, modular, framework independent.
 
 ### DOM
 
