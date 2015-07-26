@@ -46,6 +46,13 @@ fundbüro is my personal collection of interesting things from the web.
 
 * [bootstrap-easy-sidebar](https://github.com/GroundXaero/bootstrap-easy-sidebar) is sidebar for bootstrap designed around theme integration and flexibility. 
 
+### Mobile
+
+* [ionic](http://ionicframework.com/) is a beautiful, open source front-end SDK for developing amazing mobile apps with web technologies.
+* [TouchstoneJS](http://touchstonejs.io/) is a React.js powered UI framework for
+developing beautiful hybrid mobile apps.
+
+
 ### Animation/Transitions
 
 * [Velocity.js](http://julian.com/research/velocity/) is an accelerated animation engine with the same API as jQuery's $.animate().
