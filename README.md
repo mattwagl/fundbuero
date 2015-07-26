@@ -81,7 +81,8 @@ developing beautiful hybrid mobile apps.
 
 ### React
 * [boron](https://github.com/yuanyan/boron) is a collection of dialog animations with React.js.
-* [react-tween-state](https://github.com/chenglou/react-tween-state) is a tweening solution for React.js. 
+* [react-tween-state](https://github.com/chenglou/react-tween-state) is a tweening solution for React.js.
+* [belle](https://github.com/nikgraf/belle) is a collection of configurable React Components.
 
 ### Inspiration
 
