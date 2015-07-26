@@ -72,7 +72,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [AngularJS](https://angularjs.org/)  is a library for building the framework most suited to your application development.
 
 ### React
-* [boron](https://github.com/yuanyan/boron)  is a collection of dialog animations with React.js.
+* [boron](https://github.com/yuanyan/boron) is a collection of dialog animations with React.js.
 
 ### Inspiration
 
@@ -97,6 +97,11 @@ fundbüro is my personal collection of interesting things from the web.
 
 * [ai2html](http://ai2html.org/) is a script for Adobe Illustrator that converts your Illustrator document into html and css.
 * [wzrd](https://github.com/maxogden/wzrd) is a super minimal browserify development server.
+
+## Storytelling
+
+* [reveal.js](https://github.com/bpampuch/pdfmake) is the HTML Presentation Framework.
+* [Spectacle](https://github.com/FormidableLabs/spectacle) is a a React based Presentation Library.
 
 ## Misc
 
