@@ -70,9 +70,11 @@ fundbüro is my personal collection of interesting things from the web.
 * [react-primer-draft](https://github.com/mikechau/react-primer-draft) is a primer for building web applications with React.
 * [riot.js](https://github.com/muut/riotjs) is a React- like, 3.5KB user interface library.
 * [AngularJS](https://angularjs.org/)  is a library for building the framework most suited to your application development.
+* [Redux](https://github.com/gaearon/redux) provides predictable state management for JavaScript apps. 
 
 ### React
 * [boron](https://github.com/yuanyan/boron) is a collection of dialog animations with React.js.
+* [react-tween-state](https://github.com/chenglou/react-tween-state) is a tweening solution for React.js. 
 
 ### Inspiration
 
