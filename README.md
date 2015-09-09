@@ -36,6 +36,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [layzr.js](https://github.com/callmecavs/layzr.js) is a small, fast, modern, and dependency-free library for lazy loading.
 * [PhotoSwipe](https://github.com/dimsemenov/photoswipe) is an image gallery for mobile and desktop, modular, framework independent.
 * [minigrid](https://github.com/henriquea/minigrid) is minimal 2kb zero dependency cascading grid layout.
+* [FieldKit](https://github.com/square/field-kit) lets you take control of your text fields.
 
 ### DOM
 
