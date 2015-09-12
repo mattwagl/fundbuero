@@ -75,6 +75,7 @@ developing beautiful hybrid mobile apps.
 
 ### App structure
 
+ 
 * [React](https://github.com/facebook/react) is a view layer based upon the concept of a virtual DOM.
 * [react-primer-draft](https://github.com/mikechau/react-primer-draft) is a primer for building web applications with React.
 * [riot.js](https://github.com/muut/riotjs) is a React- like, 3.5KB user interface library.
@@ -82,6 +83,7 @@ developing beautiful hybrid mobile apps.
 * [Redux](https://github.com/gaearon/redux) provides predictable state management for JavaScript apps. 
 
 ### React
+* [Wrapping DOM libs](https://github.com/ryanflorence/react-training/blob/gh-pages/lessons/05-wrapping-dom-libs.md) explains how to make React work with traditional DOM libs. 
 * [boron](https://github.com/yuanyan/boron) is a collection of dialog animations with React.js.
 * [react-tween-state](https://github.com/chenglou/react-tween-state) is a tweening solution for React.js.
 * [belle](https://github.com/nikgraf/belle) is a collection of configurable React Components.
