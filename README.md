@@ -74,7 +74,6 @@ developing beautiful hybrid mobile apps.
 * [TremulaJS](https://github.com/garris/TremulaJS) Picture Streams + Momentum Engine + Bézier Paths + Multi-Device.
 
 ### App structure
-
  
 * [React](https://github.com/facebook/react) is a view layer based upon the concept of a virtual DOM.
 * [react-primer-draft](https://github.com/mikechau/react-primer-draft) is a primer for building web applications with React.
@@ -83,6 +82,7 @@ developing beautiful hybrid mobile apps.
 * [Redux](https://github.com/gaearon/redux) provides predictable state management for JavaScript apps. 
 
 ### React
+
 * [Wrapping DOM libs](https://github.com/ryanflorence/react-training/blob/gh-pages/lessons/05-wrapping-dom-libs.md) explains how to make React work with traditional DOM libs. 
 * [boron](https://github.com/yuanyan/boron) is a collection of dialog animations with React.js.
 * [react-tween-state](https://github.com/chenglou/react-tween-state) is a tweening solution for React.js.
@@ -99,6 +99,12 @@ developing beautiful hybrid mobile apps.
 
 * [socket.io](http://socket.io/) enables real-time bidirectional event-based communication.
 * [oboe.js](https://github.com/jimhigson/oboe.js) enables streaming JSON from server to client.
+
+## Data
+
+* [sql.js](https://github.com/kripken/sql.js) is SQLite compiled to JavaScript through Emscripten.
+* [PouchDB](https://github.com/pouchdb/pouchdb) is a pocket-sized database.
+* [NeDB](https://github.com/louischatriot/nedb) is a MongoDB compatible datastore written in JavaScript. 
 
 ## Build
 
