@@ -37,6 +37,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [PhotoSwipe](https://github.com/dimsemenov/photoswipe) is an image gallery for mobile and desktop, modular, framework independent.
 * [minigrid](https://github.com/henriquea/minigrid) is minimal 2kb zero dependency cascading grid layout.
 * [FieldKit](https://github.com/square/field-kit) lets you take control of your text fields.
+* [Jets.js](http://nexts.github.io/Jets.js/) is a native CSS search engine.
 
 ### DOM
 
