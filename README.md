@@ -38,6 +38,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [minigrid](https://github.com/henriquea/minigrid) is minimal 2kb zero dependency cascading grid layout.
 * [FieldKit](https://github.com/square/field-kit) lets you take control of your text fields.
 * [Jets.js](http://nexts.github.io/Jets.js/) is a native CSS search engine.
+* [tether.js](http://github.hubspot.com/tether/) is a library for efficiently making an absolutely positioned element stay next to another element on the page.
 
 ### DOM
 
