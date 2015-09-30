@@ -60,6 +60,7 @@ developing beautiful hybrid mobile apps.
 ### Animation/Transitions
 
 * [Velocity.js](http://julian.com/research/velocity/) is an accelerated animation engine with the same API as jQuery's $.animate().
+* [velocity-react](https://github.com/twitter-fabric/velocity-react) React components for Velocity.js.
 * [GSAP](http://greensock.com/gsap) is a full-blown animation and tweening engine that also supports timelines.
 * [dynamics.js](https://github.com/michaelvillar/dynamics.js) lets you create physics-based animations.
 * [loaders](http://connoratherton.com/loaders) "Delightful and performance-focused pure css loading animations."
