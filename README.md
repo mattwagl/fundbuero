@@ -40,6 +40,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [Jets.js](http://nexts.github.io/Jets.js/) is a native CSS search engine.
 * [tether.js](http://github.hubspot.com/tether/) is a library for efficiently making an absolutely positioned element stay next to another element on the page.
 * [clipboard.js](https://github.com/zenorocha/clipboard.js) provides modern copy to clipboard. No Flash.
+* [ag-grid](https://github.com/ceolter/ag-grid) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components. 
 
 ### DOM
 
