@@ -92,6 +92,7 @@ developing beautiful hybrid mobile apps.
 * [boron](https://github.com/yuanyan/boron) is a collection of dialog animations with React.js.
 * [react-tween-state](https://github.com/chenglou/react-tween-state) is a tweening solution for React.js.
 * [belle](https://github.com/nikgraf/belle) is a collection of configurable React Components.
+* [react-date-range](https://github.com/Adphorus/react-date-range) is a React component for choosing dates and date ranges.
 
 ### Inspiration
 
