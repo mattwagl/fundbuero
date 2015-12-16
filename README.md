@@ -73,6 +73,7 @@ developing beautiful hybrid mobile apps.
 * [epoch](https://github.com/fastly/epoch) is a general purpose, real-time visualization library based on d3.
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/) is a library built on top of D3 that is optimized for visualizing and laying out time-series data.
 * [c3.js](http://c3js.org/) is a D3-based reusable chart library.
+* [Labella.js](https://github.com/twitter/labella.js) enables placing labels on a timeline without overlap.
 
 ### Physics
 
@@ -93,6 +94,7 @@ developing beautiful hybrid mobile apps.
 * [react-tween-state](https://github.com/chenglou/react-tween-state) is a tweening solution for React.js.
 * [belle](https://github.com/nikgraf/belle) is a collection of configurable React Components.
 * [react-date-range](https://github.com/Adphorus/react-date-range) is a React component for choosing dates and date ranges.
+* [enzyme](https://github.com/airbnb/enzyme/) provides JavaScript Testing utilities for React.
 
 ### Inspiration
 
