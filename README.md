@@ -47,6 +47,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [sprint](https://github.com/bendc/sprint) is a tiny, lightning fast jQuery-like library for modern browsers.
 * [zepto.js](https://github.com/madrobby/zepto) is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API .
 * [jQuery](https://github.com/jquery/jquery) 
+* [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) provides examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.  
 
 ### Bootstrap
 
