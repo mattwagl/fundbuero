@@ -71,6 +71,7 @@ developing beautiful hybrid mobile apps.
 * [velocity-react](https://github.com/twitter-fabric/velocity-react) React components for Velocity.js.
 * [GSAP](http://greensock.com/gsap) is a full-blown animation and tweening engine that also supports timelines.
 * [dynamics.js](https://github.com/michaelvillar/dynamics.js) lets you create physics-based animations.
+* [raf](https://github.com/chrisdickinson/raf) is a requestAnimationFrame polyfill.
 * [loaders](http://connoratherton.com/loaders) "Delightful and performance-focused pure css loading animations."
 
 ### Charting & Graphing
