@@ -32,11 +32,15 @@ fundbüro is my personal collection of interesting things from the web.
 * [free-style](https://github.com/blakeembrey/free-style) makes CSS easier and more maintainable by using inline style objects.
 
 
+### Input & Interactions
+* [draggabilly](https://github.com/desandro/draggabilly/blob/master/README.md) makes things draggable.
+* [dragscroll](https://github.com/asvd/dragscroll) is a tiny library for drag-n-drop scrolling style.
+* [hammer.js](https://github.com/hammerjs/hammer.js) is a JavaScript library for multi-touch gestures.
+* [pressure.js](https://github.com/yamartino/pressure) is a JavaScript library for handling both Force Touch and 3D Touch on the web.
+
 ### Micro Components
 
 * [Slideout.js](https://mango.github.io/slideout/) is a touch slideout navigation menu for your mobile web apps.
-* [draggabilly](https://github.com/desandro/draggabilly/blob/master/README.md) makes things draggable.
-* [dragscroll](https://github.com/asvd/dragscroll) is a tiny library for drag-n-drop scrolling style.
 * [layzr.js](https://github.com/callmecavs/layzr.js) is a small, fast, modern, and dependency-free library for lazy loading.
 * [PhotoSwipe](https://github.com/dimsemenov/photoswipe) is an image gallery for mobile and desktop, modular, framework independent.
 * [minigrid](https://github.com/henriquea/minigrid) is minimal 2kb zero dependency cascading grid layout.
