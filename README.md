@@ -140,7 +140,11 @@ developing beautiful hybrid mobile apps.
 ## Storytelling
 
 * [reveal.js](https://github.com/bpampuch/pdfmake) is the HTML Presentation Framework.
-* [Spectacle](https://github.com/FormidableLabs/spectacle) is a a React based Presentation Library.
+* [Spectacle](https://github.com/FormidableLabs/spectacle) is a React based Presentation Library.
+
+## Mapping
+
+* [turf.js](https://github.com/Turfjs/turf) is a modular geospatial engine written in JavaScript.
 
 ## Misc
 
