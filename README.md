@@ -37,7 +37,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [zepto.js](https://github.com/madrobby/zepto) is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API .
 * [jQuery](https://github.com/jquery/jquery) 
 * [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) provides examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.  
-* [fastom](https://github.com/wilsonpage/fastdom) eliminates layout thrashing by batching DOM measurement and mutation tasks.
+* [fastdom](https://github.com/wilsonpage/fastdom) eliminates layout thrashing by batching DOM measurement and mutation tasks.
 
 ### Input & Interactions
 
