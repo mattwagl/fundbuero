@@ -73,7 +73,6 @@ fundbüro is my personal collection of interesting things from the web.
 * [TouchstoneJS](http://touchstonejs.io/) is a React.js powered UI framework for
 developing beautiful hybrid mobile apps.
 
-
 ### Animation/Transitions
 
 * [Velocity.js](http://julian.com/research/velocity/) is an accelerated animation engine with the same API as jQuery's $.animate().
@@ -81,6 +80,7 @@ developing beautiful hybrid mobile apps.
 * [GSAP](http://greensock.com/gsap) is a full-blown animation and tweening engine that also supports timelines.
 * [dynamics.js](https://github.com/michaelvillar/dynamics.js) lets you create physics-based animations.
 * [raf](https://github.com/chrisdickinson/raf) is a requestAnimationFrame polyfill.
+* [mo.js](https://github.com/legomushroom/mojs) is a motion graphics toolbelt for the web.
 * [loaders](http://connoratherton.com/loaders) "Delightful and performance-focused pure css loading animations."
 
 ### Charting & Graphing
