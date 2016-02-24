@@ -31,8 +31,16 @@ fundbüro is my personal collection of interesting things from the web.
 * [sass-boilterplate](https://github.com/HugoGiraudel/sass-boilerplate) A boilerplate for Sass projects using the 7-1 architecture pattern. 
 * [free-style](https://github.com/blakeembrey/free-style) makes CSS easier and more maintainable by using inline style objects.
 
+### DOM
+
+* [sprint](https://github.com/bendc/sprint) is a tiny, lightning fast jQuery-like library for modern browsers.
+* [zepto.js](https://github.com/madrobby/zepto) is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API .
+* [jQuery](https://github.com/jquery/jquery) 
+* [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) provides examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.  
+* [fastom](https://github.com/wilsonpage/fastdom) eliminates layout thrashing by batching DOM measurement and mutation tasks.
 
 ### Input & Interactions
+
 * [draggabilly](https://github.com/desandro/draggabilly/blob/master/README.md) makes things draggable.
 * [dragscroll](https://github.com/asvd/dragscroll) is a tiny library for drag-n-drop scrolling style.
 * [hammer.js](https://github.com/hammerjs/hammer.js) is a JavaScript library for multi-touch gestures.
@@ -42,24 +50,20 @@ fundbüro is my personal collection of interesting things from the web.
 
 * [Slideout.js](https://mango.github.io/slideout/) is a touch slideout navigation menu for your mobile web apps.
 * [layzr.js](https://github.com/callmecavs/layzr.js) is a small, fast, modern, and dependency-free library for lazy loading.
-* [PhotoSwipe](https://github.com/dimsemenov/photoswipe) is an image gallery for mobile and desktop, modular, framework independent.
 * [minigrid](https://github.com/henriquea/minigrid) is minimal 2kb zero dependency cascading grid layout.
 * [FieldKit](https://github.com/square/field-kit) lets you take control of your text fields.
 * [Jets.js](http://nexts.github.io/Jets.js/) is a native CSS search engine.
 * [tether.js](http://github.hubspot.com/tether/) is a library for efficiently making an absolutely positioned element stay next to another element on the page.
 * [clipboard.js](https://github.com/zenorocha/clipboard.js) provides modern copy to clipboard. No Flash.
+
+### Webapp Components
+
 * [ag-grid](https://github.com/ceolter/ag-grid) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components. 
 
-### DOM
+### Website Components
 
-* [sprint](https://github.com/bendc/sprint) is a tiny, lightning fast jQuery-like library for modern browsers.
-* [zepto.js](https://github.com/madrobby/zepto) is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API .
-* [jQuery](https://github.com/jquery/jquery) 
-* [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) provides examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.  
-* [fastom](https://github.com/wilsonpage/fastdom) eliminates layout thrashing by batching DOM measurement and mutation tasks.
-
-### Bootstrap
-
+* [PhotoSwipe](https://github.com/dimsemenov/photoswipe) is an image gallery for mobile and desktop, modular, framework independent.
+* [okayNav](https://github.com/VPenkov/okayNav) is a responsive navigation plugin für jQuery.
 * [bootstrap-easy-sidebar](https://github.com/GroundXaero/bootstrap-easy-sidebar) is sidebar for bootstrap designed around theme integration and flexibility. 
 
 ### Mobile
