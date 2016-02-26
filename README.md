@@ -163,6 +163,7 @@ developing beautiful hybrid mobile apps.
 * [electron](https://github.com/atom/electron) is across-platform desktop application shell by github.
 * [nativefier](https://github.com/jiahaog/nativefier) wraps any web page natively without even thinking, across Windows, OSX and Linux.
 * [electron-packager](https://github.com/maxogden/electron-packager) packages and distributes your electron app in OS executables (.app) via JS or CLI.
+* [jolteon](https://github.com/vulpino/jolteon) is a Babel + Electron + React + Browserify + SASS application stack.
 * [menubar](https://github.com/maxogden/menubar) is a high level way to create menubar desktop applications with electron.
 * [nw.js](https://github.com/nwjs/nw.js) "Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies."
 
