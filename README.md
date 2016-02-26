@@ -117,8 +117,6 @@ developing beautiful hybrid mobile apps.
 * [Codrops: Creative Gooey Effects](http://tympanus.net/Tutorials/SVGLoaderGSAP/index6.html) "A set of examples that use a gooey SVG filter for creating a variety of different effects for all kinds of website components."
 * [Codrops: Loaders](http://tympanus.net/codrops/2015/03/10/creative-gooey-effects/) "Playful loaders using animation with SVG and GSAP."
 
-## Backend
-
 ## Frontend Backend Communication
 
 * [socket.io](http://socket.io/) enables real-time bidirectional event-based communication.
@@ -146,6 +144,7 @@ developing beautiful hybrid mobile apps.
 
 * [reveal.js](https://github.com/bpampuch/pdfmake) is the HTML Presentation Framework.
 * [Spectacle](https://github.com/FormidableLabs/spectacle) is a React based Presentation Library.
+* [decktape](https://github.com/astefanutti/decktape) is an PDF exporter for HTML presentation frameworks.
 
 ## Mapping
 
