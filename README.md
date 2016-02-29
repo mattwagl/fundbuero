@@ -112,6 +112,10 @@ developing beautiful hybrid mobile apps.
 * [react-date-range](https://github.com/Adphorus/react-date-range) is a React component for choosing dates and date ranges.
 * [enzyme](https://github.com/airbnb/enzyme/) provides JavaScript Testing utilities for React.
 
+### Stores 
+
+* [scour](https://github.com/rstacruz/scour) is a general-purpose library for dealing with JSON trees.
+
 ### Inspiration
 
 * [Codrops: Creative Gooey Effects](http://tympanus.net/Tutorials/SVGLoaderGSAP/index6.html) "A set of examples that use a gooey SVG filter for creating a variety of different effects for all kinds of website components."
