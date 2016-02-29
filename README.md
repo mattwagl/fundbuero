@@ -101,7 +101,6 @@ developing beautiful hybrid mobile apps.
 * [react-primer-draft](https://github.com/mikechau/react-primer-draft) is a primer for building web applications with React.
 * [riot.js](https://github.com/muut/riotjs) is a React- like, 3.5KB user interface library.
 * [AngularJS](https://angularjs.org/)  is a library for building the framework most suited to your application development.
-* [Redux](https://github.com/gaearon/redux) provides predictable state management for JavaScript apps. 
 
 ### React
 
@@ -112,9 +111,12 @@ developing beautiful hybrid mobile apps.
 * [react-date-range](https://github.com/Adphorus/react-date-range) is a React component for choosing dates and date ranges.
 * [enzyme](https://github.com/airbnb/enzyme/) provides JavaScript Testing utilities for React.
 
-### Stores 
+### Stores & State Container
 
+* [Redux](https://github.com/reactjs/redux) provides predictable state management for JavaScript apps. 
 * [scour](https://github.com/rstacruz/scour) is a general-purpose library for dealing with JSON trees.
+* [baobab](https://github.com/Yomguithereal/baobab) is a JavaScript persistent and optionally immutable data tree with cursors.
+
 
 ### Inspiration
 
