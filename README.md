@@ -156,12 +156,6 @@ developing beautiful hybrid mobile apps.
 
 * [turf.js](https://github.com/Turfjs/turf) is a modular geospatial engine written in JavaScript.
 
-## Misc
-
-* [pdfmake](https://github.com/bpampuch/pdfmake) provides client/server side PDF printing in pure JavaScript.
-* [airpaste](https://github.com/mafintosh/airpaste) is a 1-1 network pipe that auto discovers other peers using mdns.
-* [node_mdns](https://github.com/agnat/node_mdns) enables mdns/zeroconf/bonjour service discovery add-on for Node.js.
-* [tern.js](http://ternjs.net/) is a stand-alone code-analysis engine for JavaScript.
 
 ## Desktop
 
@@ -172,11 +166,22 @@ developing beautiful hybrid mobile apps.
 * [menubar](https://github.com/maxogden/menubar) is a high level way to create menubar desktop applications with electron.
 * [nw.js](https://github.com/nwjs/nw.js) "Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies."
 
-
 ## Tracing / Profiling / Debugging
 * [vector](https://github.com/Netflix/vector) is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser. 
 * [statsd](https://github.com/etsy/statsd) is a simple daemon for easy stats aggregation.
 
+## Misc
+
+* [pdfmake](https://github.com/bpampuch/pdfmake) provides client/server side PDF printing in pure JavaScript.
+* [airpaste](https://github.com/mafintosh/airpaste) is a 1-1 network pipe that auto discovers other peers using mdns.
+* [node_mdns](https://github.com/agnat/node_mdns) enables mdns/zeroconf/bonjour service discovery add-on for Node.js.
+* [tern.js](http://ternjs.net/) is a stand-alone code-analysis engine for JavaScript.
+
+## CLI
+
+
+* [ora](https://github.com/sindresorhus/ora) is an elegant terminal spinner.
+* [cli-spinners](https://github.com/sindresorhus/cli-spinners) is a collection of spinners for use in the terminal.
 
 ## Typo
 
