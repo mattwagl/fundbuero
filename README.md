@@ -110,6 +110,9 @@ developing beautiful hybrid mobile apps.
 * [belle](https://github.com/nikgraf/belle) is a collection of configurable React Components.
 * [react-date-range](https://github.com/Adphorus/react-date-range) is a React component for choosing dates and date ranges.
 * [enzyme](https://github.com/airbnb/enzyme/) provides JavaScript Testing utilities for React.
+* [formsy-react](https://github.com/christianalfoni/formsy-react#how-to-use) is a form input builder and validator for React.
+
+
 
 ### Stores & State Container
 
