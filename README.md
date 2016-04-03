@@ -113,7 +113,7 @@ developing beautiful hybrid mobile apps.
 * [react-date-range](https://github.com/Adphorus/react-date-range) is a React component for choosing dates and date ranges.
 * [enzyme](https://github.com/airbnb/enzyme/) provides JavaScript Testing utilities for React.
 * [formsy-react](https://github.com/christianalfoni/formsy-react#how-to-use) is a form input builder and validator for React.
-
+* [recompose](https://github.com/acdlite/recompose) is a React utility belt for function components and higher-order components.
 
 
 ### Stores & State Container
