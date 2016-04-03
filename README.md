@@ -49,6 +49,7 @@ fundbüro is my personal collection of interesting things from the web.
 
 ### Micro Components
 
+* [balloon.css](https://github.com/kazzkiq/balloon.css) provides simple tooltips made of pure CSS.
 * [Slideout.js](https://mango.github.io/slideout/) is a touch slideout navigation menu for your mobile web apps.
 * [layzr.js](https://github.com/callmecavs/layzr.js) is a small, fast, modern, and dependency-free library for lazy loading.
 * [minigrid](https://github.com/henriquea/minigrid) is minimal 2kb zero dependency cascading grid layout.
