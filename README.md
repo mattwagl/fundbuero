@@ -118,6 +118,7 @@ developing beautiful hybrid mobile apps.
 
 ### Stores & State Container
 
+* [PureState](https://github.com/MaiaVictor/PureState) is the stupidest state management library that works. 
 * [Redux](https://github.com/reactjs/redux) provides predictable state management for JavaScript apps. 
 * [freezer](https://github.com/arqex/freezer) an immutable tree data structure that is always updated from the root, making easier to think in a reactive way.
 * [scour](https://github.com/rstacruz/scour) is a general-purpose library for dealing with JSON trees.
