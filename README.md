@@ -114,7 +114,8 @@ developing beautiful hybrid mobile apps.
 * [enzyme](https://github.com/airbnb/enzyme/) provides JavaScript Testing utilities for React.
 * [formsy-react](https://github.com/christianalfoni/formsy-react#how-to-use) is a form input builder and validator for React.
 * [recompose](https://github.com/acdlite/recompose) is a React utility belt for function components and higher-order components.
-
+* [react-motion](https://github.com/chenglou/react-motion) is a spring that solves your animation problems.
+* [react-router-transition](https://github.com/maisano/react-router-transition) are transitions built for react-router, powered by react-motion.
 
 ### Stores & State Container
 
