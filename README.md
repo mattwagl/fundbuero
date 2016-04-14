@@ -2,6 +2,11 @@
 
 fundbüro is my personal collection of interesting things from the web.
 
+## Basics & Learning
+
+* [Data Structures in JavaScript]http://blog.benoitvallon.com/category/data-structures-in-javascript/) shows how to implement basic data structures plain JavaScript.
+
+
 ## Base libs
 
 ### General helpers
