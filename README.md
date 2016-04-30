@@ -191,6 +191,7 @@ developing beautiful hybrid mobile apps.
 * [airpaste](https://github.com/mafintosh/airpaste) is a 1-1 network pipe that auto discovers other peers using mdns.
 * [node_mdns](https://github.com/agnat/node_mdns) enables mdns/zeroconf/bonjour service discovery add-on for Node.js.
 * [tern.js](http://ternjs.net/) is a stand-alone code-analysis engine for JavaScript.
+* [twemoji](https://github.com/twitter/twemoji) provides Twitter Emojis for everyone. 
 
 ## CLI
 
