@@ -186,6 +186,7 @@ developing beautiful hybrid mobile apps.
 
 ## Misc
 
+* [HEAD](https://github.com/joshbuchea/HEAD) is a list of everything that goes in the <head> of your document.
 * [pdfmake](https://github.com/bpampuch/pdfmake) provides client/server side PDF printing in pure JavaScript.
 * [airpaste](https://github.com/mafintosh/airpaste) is a 1-1 network pipe that auto discovers other peers using mdns.
 * [node_mdns](https://github.com/agnat/node_mdns) enables mdns/zeroconf/bonjour service discovery add-on for Node.js.
