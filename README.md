@@ -131,7 +131,6 @@ developing beautiful hybrid mobile apps.
 * [scour](https://github.com/rstacruz/scour) is a general-purpose library for dealing with JSON trees.
 * [baobab](https://github.com/Yomguithereal/baobab) is a JavaScript persistent and optionally immutable data tree with cursors.
 
-
 ### Inspiration
 
 * [Codrops: Creative Gooey Effects](http://tympanus.net/Tutorials/SVGLoaderGSAP/index6.html) "A set of examples that use a gooey SVG filter for creating a variety of different effects for all kinds of website components."
@@ -185,6 +184,10 @@ developing beautiful hybrid mobile apps.
 
 ## IoT
 * [awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) is a curated list of awesome open source IoT frameworks, libraries and software.
+
+## Language & Speech
+
+* [nlp_compromise](https://github.com/nlp-compromise/nlp_compromise) is a cool way to use natural language in JavaScript.
 
 ## Misc
 
