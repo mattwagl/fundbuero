@@ -170,7 +170,6 @@ developing beautiful hybrid mobile apps.
 
 * [turf.js](https://github.com/Turfjs/turf) is a modular geospatial engine written in JavaScript.
 
-
 ## Desktop
 
 * [electron](https://github.com/atom/electron) is across-platform desktop application shell by github.
@@ -184,6 +183,9 @@ developing beautiful hybrid mobile apps.
 * [vector](https://github.com/Netflix/vector) is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser. 
 * [statsd](https://github.com/etsy/statsd) is a simple daemon for easy stats aggregation.
 
+## IoT
+* [awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) is a curated list of awesome open source IoT frameworks, libraries and software.
+
 ## Misc
 
 * [HEAD](https://github.com/joshbuchea/HEAD) is a list of everything that goes in the <head> of your document.
@@ -194,7 +196,6 @@ developing beautiful hybrid mobile apps.
 * [twemoji](https://github.com/twitter/twemoji) provides Twitter Emojis for everyone. 
 
 ## CLI
-
 
 * [ora](https://github.com/sindresorhus/ora) is an elegant terminal spinner.
 * [cli-spinners](https://github.com/sindresorhus/cli-spinners) is a collection of spinners for use in the terminal.
