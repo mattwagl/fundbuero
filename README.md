@@ -146,6 +146,7 @@ developing beautiful hybrid mobile apps.
 * [sql.js](https://github.com/kripken/sql.js) is SQLite compiled to JavaScript through Emscripten.
 * [PouchDB](https://github.com/pouchdb/pouchdb) is a pocket-sized database.
 * [NeDB](https://github.com/louischatriot/nedb) is a MongoDB compatible datastore written in JavaScript. 
+* [Yjs](https://github.com/y-js/yjs) is a framework for real-time p2p shared editing on any data.
 
 ## Build
 
