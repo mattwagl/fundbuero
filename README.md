@@ -87,6 +87,7 @@ developing beautiful hybrid mobile apps.
 * [velocity-react](https://github.com/twitter-fabric/velocity-react) React components for Velocity.js.
 * [GSAP](http://greensock.com/gsap) is a full-blown animation and tweening engine that also supports timelines.
 * [dynamics.js](https://github.com/michaelvillar/dynamics.js) lets you create physics-based animations.
+* [anime.js](https://github.com/juliangarnier/anime) is a flexible yet lightweight JavaScript animation library..
 * [raf](https://github.com/chrisdickinson/raf) is a requestAnimationFrame polyfill.
 * [mo.js](https://github.com/legomushroom/mojs) is a motion graphics toolbelt for the web.
 * [loaders](http://connoratherton.com/loaders) "Delightful and performance-focused pure css loading animations."
@@ -122,6 +123,8 @@ developing beautiful hybrid mobile apps.
 * [recompose](https://github.com/acdlite/recompose) is a React utility belt for function components and higher-order components.
 * [react-motion](https://github.com/chenglou/react-motion) is a spring that solves your animation problems.
 * [react-router-transition](https://github.com/maisano/react-router-transition) are transitions built for react-router, powered by react-motion.
+* [server-side-rendering](https://github.com/dimaip/server-side-rendering) is an interactive guide to server-side rendering with Webpack, React, React.
+* [why-did-you-update](https://github.com/garbles/why-did-you-update) puts your console on blast when React is making unnecessary updates.
 
 ### Stores & State Container
 
