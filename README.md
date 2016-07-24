@@ -121,6 +121,7 @@ developing beautiful hybrid mobile apps.
 * [react-date-range](https://github.com/Adphorus/react-date-range) is a React component for choosing dates and date ranges.
 * [enzyme](https://github.com/airbnb/enzyme/) provides JavaScript Testing utilities for React.
 * [formsy-react](https://github.com/christianalfoni/formsy-react#how-to-use) is a form input builder and validator for React.
+* [react-virtualized]( https://bvaughn.github.io/react-virtualized/) provides React components for efficiently rendering large lists and tabular data.
 * [recompose](https://github.com/acdlite/recompose) is a React utility belt for function components and higher-order components.
 * [react-motion](https://github.com/chenglou/react-motion) is a spring that solves your animation problems.
 * [react-router-transition](https://github.com/maisano/react-router-transition) are transitions built for react-router, powered by react-motion.
