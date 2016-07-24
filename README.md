@@ -68,8 +68,8 @@ fundbüro is my personal collection of interesting things from the web.
 ### Webapp Components
 
 * [ag-grid](https://github.com/ceolter/ag-grid) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components. 
-* [Draft.js](https://facebook.github.io/draft-js/) is a rich Text Editor Framework for React
-
+* [Draft.js](https://facebook.github.io/draft-js/) is a rich Text Editor Framework for React.
+* [slate.js](https://github.com/ianstormtaylor/slate) is a completely customizable framework for building rich text editors. 
 ### Website Components
 
 * [PhotoSwipe](https://github.com/dimsemenov/photoswipe) is an image gallery for mobile and desktop, modular, framework independent.
