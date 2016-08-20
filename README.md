@@ -37,6 +37,11 @@ fundbüro is my personal collection of interesting things from the web.
 * [layout.css](https://github.com/lapwinglabs/layout.css) is a wrapper around flexbox to make doing flexbox layouts simple and declarative. Inspired by polymer.
 * [sass-boilterplate](https://github.com/HugoGiraudel/sass-boilerplate) A boilerplate for Sass projects using the 7-1 architecture pattern. 
 * [free-style](https://github.com/blakeembrey/free-style) makes CSS easier and more maintainable by using inline style objects.
+* 
+
+### Icons
+
+* [Bytesize Icons](https://github.com/danklammer/bytesize-icons) is a tiny style-controlled SVG iconset.
 
 ### DOM
 
