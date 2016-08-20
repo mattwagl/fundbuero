@@ -134,6 +134,8 @@ developing beautiful hybrid mobile apps.
 * [react-router-transition](https://github.com/maisano/react-router-transition) are transitions built for react-router, powered by react-motion.
 * [server-side-rendering](https://github.com/dimaip/server-side-rendering) is an interactive guide to server-side rendering with Webpack, React, React.
 * [why-did-you-update](https://github.com/garbles/why-did-you-update) puts your console on blast when React is making unnecessary updates.
+* [react-dates](https://github.com/airbnb/react-dates) is an accessible, easily internationalizable, mobile-friendly datepicker library for the web
+* 
 
 ### Stores & State Container
 
