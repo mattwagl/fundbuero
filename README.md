@@ -58,6 +58,10 @@ fundbüro is my personal collection of interesting things from the web.
 * [hammer.js](https://github.com/hammerjs/hammer.js) is a JavaScript library for multi-touch gestures.
 * [pressure.js](https://github.com/yamartino/pressure) is a JavaScript library for handling both Force Touch and 3D Touch on the web.
 
+### Drawing
+
+* [konva.js](https://github.com/konvajs/konva) is a 2d html5 canvas framework for desktop and mobile applications.
+
 ### Micro Components
 
 * [balloon.css](https://github.com/kazzkiq/balloon.css) provides simple tooltips made of pure CSS.
