@@ -128,6 +128,7 @@ developing beautiful hybrid mobile apps.
 
 * [Wrapping DOM libs](https://github.com/ryanflorence/react-training/blob/gh-pages/lessons/05-wrapping-dom-libs.md) explains how to make React work with traditional DOM libs. 
 * [server-side-rendering](https://github.com/dimaip/server-side-rendering) is an interactive guide to server-side rendering with Webpack, React, React.
+* [react-awesome-components](https://github.com/brillout/awesome-react-components/) is catalog of React components.
 
 #### React.Helpers
 
