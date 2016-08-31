@@ -96,6 +96,7 @@ developing beautiful hybrid mobile apps.
 ### Animation/Transitions
 
 * [Velocity.js](http://julian.com/research/velocity/) is an accelerated animation engine with the same API as jQuery's $.animate().
+* [reaction-motion](https://github.com/chenglou/react-motion) is a spring that solves your animation problems.
 * [velocity-react](https://github.com/twitter-fabric/velocity-react) React components for Velocity.js.
 * [GSAP](http://greensock.com/gsap) is a full-blown animation and tweening engine that also supports timelines.
 * [dynamics.js](https://github.com/michaelvillar/dynamics.js) lets you create physics-based animations.
@@ -143,8 +144,9 @@ developing beautiful hybrid mobile apps.
 
 ### Stores & State Container
 
-* [PureState](https://github.com/MaiaVictor/PureState) is the stupidest state management library that works. 
+* [mobx](https://github.com/mobxjs/mobx) provides simple, scalable state management. .
 * [Redux](https://github.com/reactjs/redux) provides predictable state management for JavaScript apps. 
+* [PureState](https://github.com/MaiaVictor/PureState) is the stupidest state management library that works. 
 * [freezer](https://github.com/arqex/freezer) an immutable tree data structure that is always updated from the root, making easier to think in a reactive way.
 * [scour](https://github.com/rstacruz/scour) is a general-purpose library for dealing with JSON trees.
 * [baobab](https://github.com/Yomguithereal/baobab) is a JavaScript persistent and optionally immutable data tree with cursors.
