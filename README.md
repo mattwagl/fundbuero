@@ -127,20 +127,34 @@ developing beautiful hybrid mobile apps.
 ### React
 
 * [Wrapping DOM libs](https://github.com/ryanflorence/react-training/blob/gh-pages/lessons/05-wrapping-dom-libs.md) explains how to make React work with traditional DOM libs. 
+* [server-side-rendering](https://github.com/dimaip/server-side-rendering) is an interactive guide to server-side rendering with Webpack, React, React.
+
+#### React.Helpers
+
+* [recompose](https://github.com/acdlite/recompose) is a React utility belt for function components and higher-order components.
+
+#### React.Components
+
 * [boron](https://github.com/yuanyan/boron) is a collection of dialog animations with React.js.
 * [react-tween-state](https://github.com/chenglou/react-tween-state) is a tweening solution for React.js.
 * [belle](https://github.com/nikgraf/belle) is a collection of configurable React Components.
 * [react-date-range](https://github.com/Adphorus/react-date-range) is a React component for choosing dates and date ranges.
-* [enzyme](https://github.com/airbnb/enzyme/) provides JavaScript Testing utilities for React.
-* [formsy-react](https://github.com/christianalfoni/formsy-react#how-to-use) is a form input builder and validator for React.
 * [react-virtualized]( https://bvaughn.github.io/react-virtualized/) provides React components for efficiently rendering large lists and tabular data.
-* [recompose](https://github.com/acdlite/recompose) is a React utility belt for function components and higher-order components.
 * [react-motion](https://github.com/chenglou/react-motion) is a spring that solves your animation problems.
 * [react-router-transition](https://github.com/maisano/react-router-transition) are transitions built for react-router, powered by react-motion.
-* [server-side-rendering](https://github.com/dimaip/server-side-rendering) is an interactive guide to server-side rendering with Webpack, React, React.
 * [why-did-you-update](https://github.com/garbles/why-did-you-update) puts your console on blast when React is making unnecessary updates.
 * [react-dates](https://github.com/airbnb/react-dates) is an accessible, easily internationalizable, mobile-friendly datepicker library for the web
-* 
+
+#### React.Forms
+
+* [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) is a React component for building Web forms from JSONSchema.
+* [formsy-react](https://github.com/christianalfoni/formsy-react#how-to-use) is a form input builder and validator for React.
+* [redux-form](https://github.com/erikras/redux-form) is a Higher Order Component using react-redux to keep form state in a Redux store.
+
+#### React.Testing
+
+* [enzyme](https://github.com/airbnb/enzyme/) provides JavaScript Testing utilities for React.
+
 
 ### Stores & State Container
 
