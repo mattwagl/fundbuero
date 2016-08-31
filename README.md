@@ -117,10 +117,10 @@ developing beautiful hybrid mobile apps.
 
 * [TremulaJS](https://github.com/garris/TremulaJS) Picture Streams + Momentum Engine + Bézier Paths + Multi-Device.
 
-### App structure
+### UI Libraries and Frameworks
  
 * [React](https://github.com/facebook/react) is a view layer based upon the concept of a virtual DOM.
-* [react-primer-draft](https://github.com/mikechau/react-primer-draft) is a primer for building web applications with React.
+* [vue.js](https://github.com/vuejs/vue/) is sSimple yet powerful library for building modern web interfaces. 
 * [riot.js](https://github.com/muut/riotjs) is a React- like, 3.5KB user interface library.
 * [AngularJS](https://angularjs.org/)  is a library for building the framework most suited to your application development.
 
