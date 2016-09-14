@@ -104,6 +104,7 @@ developing beautiful hybrid mobile apps.
 * [raf](https://github.com/chrisdickinson/raf) is a requestAnimationFrame polyfill.
 * [mo.js](https://github.com/legomushroom/mojs) is a motion graphics toolbelt for the web.
 * [loaders](http://connoratherton.com/loaders) "Delightful and performance-focused pure css loading animations."
+* [granim.js](https://github.com/sarcadass/granim.js) sreates fluid and interactive gradients animations.
 
 ### Charting & Graphing
 
