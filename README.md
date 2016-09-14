@@ -156,7 +156,6 @@ developing beautiful hybrid mobile apps.
 
 * [enzyme](https://github.com/airbnb/enzyme/) provides JavaScript Testing utilities for React.
 
-
 ### Stores & State Container
 
 * [mobx](https://github.com/mobxjs/mobx) provides simple, scalable state management. .
@@ -238,6 +237,10 @@ developing beautiful hybrid mobile apps.
 
 * [ora](https://github.com/sindresorhus/ora) is an elegant terminal spinner.
 * [cli-spinners](https://github.com/sindresorhus/cli-spinners) is a collection of spinners for use in the terminal.
+
+# Design
+
+* [awesome-design](https://github.com/gztchan/awesome-design) is a collection of UI/UX design resources for developers & designers.
 
 ## Typo
 
