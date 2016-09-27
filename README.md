@@ -234,7 +234,7 @@ developing beautiful hybrid mobile apps.
 
 ## Misc
 
-* [HEAD](https://github.com/joshbuchea/HEAD) is a list of everything that goes in the <head> of your document.
+* [HEAD](https://github.com/joshbuchea/HEAD) is a list of everything that goes in the head of your document.
 * [pdfmake](https://github.com/bpampuch/pdfmake) provides client/server side PDF printing in pure JavaScript.
 * [airpaste](https://github.com/mafintosh/airpaste) is a 1-1 network pipe that auto discovers other peers using mdns.
 * [node_mdns](https://github.com/agnat/node_mdns) enables mdns/zeroconf/bonjour service discovery add-on for Node.js.
@@ -252,4 +252,11 @@ developing beautiful hybrid mobile apps.
 
 ## Typo
 
+* [Asap](https://fonts.google.com/specimen/Asap)  is a contemporary sans-serif family with subtle rounded corners.
 * [hack](http://sourcefoundry.org/hack/) is a typeface designed for source code. 
+* [Cairo](https://fonts.google.com/specimen/Cairo) is a contemporary Arabic and Latin typeface family.
+* [Maven Pro](https://fonts.google.com/specimen/Maven+Pro) is a sans-serif typeface with unique curvature and flowing rhythm.
+* [Titillium](https://fonts.google.com/specimen/Titillium+Web) was born inside the Accademia di Belle Arti di Urbino as a didactic project Course Type design of the Master of Visual Design Campi Visivi.
+
+
+
