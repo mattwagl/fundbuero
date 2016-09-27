@@ -62,6 +62,10 @@ fundbüro is my personal collection of interesting things from the web.
 
 * [konva.js](https://github.com/konvajs/konva) is a 2d html5 canvas framework for desktop and mobile applications.
 
+### Media
+
+* [FitVids](https://github.com/davatron5000/FitVids.js) automates the Intrinsic Ratio Method by Thierry Koblentz to achieve fluid width videos in your responsive web design.
+
 ### Micro Components
 
 * [balloon.css](https://github.com/kazzkiq/balloon.css) provides simple tooltips made of pure CSS.
