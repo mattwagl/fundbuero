@@ -134,6 +134,7 @@ developing beautiful hybrid mobile apps.
 #### React.Helpers
 
 * [recompose](https://github.com/acdlite/recompose) is a React utility belt for function components and higher-order components.
+* [react-helmet](https://github.com/nfl/react-helmet) is a document head manager for React.
 
 #### React.Components
 
