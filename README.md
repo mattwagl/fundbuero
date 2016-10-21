@@ -173,6 +173,11 @@ developing beautiful hybrid mobile apps.
 * [scour](https://github.com/rstacruz/scour) is a general-purpose library for dealing with JSON trees.
 * [baobab](https://github.com/Yomguithereal/baobab) is a JavaScript persistent and optionally immutable data tree with cursors.
 
+### Hacks & Tricks
+
+* [Preventing body scroll for modals in iOS](https://benfrain.com/preventing-body-scroll-for-modals-in-ios/)
+* [Animate stroke-dasharray in Edge](https://github.com/MicrosoftEdge/Status/issues/117#issuecomment-177585291)
+
 ### Inspiration
 
 * [Codrops: Creative Gooey Effects](http://tympanus.net/Tutorials/SVGLoaderGSAP/index6.html) "A set of examples that use a gooey SVG filter for creating a variety of different effects for all kinds of website components."
