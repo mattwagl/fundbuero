@@ -139,6 +139,7 @@ developing beautiful hybrid mobile apps.
 
 * [recompose](https://github.com/acdlite/recompose) is a React utility belt for function components and higher-order components.
 * [react-helmet](https://github.com/nfl/react-helmet) is a document head manager for React.
+* [repng](https://github.com/jxnblk/repng) converts React components to PNG.
 
 #### React.Components
 
