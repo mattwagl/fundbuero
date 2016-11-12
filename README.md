@@ -154,12 +154,16 @@ developing beautiful hybrid mobile apps.
 * [react-game-kit](https://github.com/FormidableLabs/react-game-kit) is a component library for making games with React & React Native.
 * [https://github.com/glittershark/reactable](https://github.com/FormidableLabs/react-game-kit) provides fast, flexible, and simple data tables.
 
-
 #### React.Forms
 
 * [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) is a React component for building Web forms from JSONSchema.
 * [formsy-react](https://github.com/christianalfoni/formsy-react#how-to-use) is a form input builder and validator for React.
 * [redux-form](https://github.com/erikras/redux-form) is a Higher Order Component using react-redux to keep form state in a Redux store.
+
+#### React.UI.Frameworks
+
+* [material-ui](https://github.com/callemall/material-ui) provides React Components that Implement Google's Material Design.
+* [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) provides React components for building experiences for Office and Office 365.
 
 #### React.Testing
 
