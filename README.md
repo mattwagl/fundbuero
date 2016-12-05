@@ -244,6 +244,7 @@ developing beautiful hybrid mobile apps.
 ## Language & Speech
 
 * [nlp_compromise](https://github.com/nlp-compromise/nlp_compromise) is a cool way to use natural language in JavaScript.
+* [tesseract.js](https://github.com/naptha/tesseract.js) provides pure Javascript OCR for 62 Languages.
 
 ## Misc
 
