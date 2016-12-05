@@ -58,6 +58,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [dragscroll](https://github.com/asvd/dragscroll) is a tiny library for drag-n-drop scrolling style.
 * [hammer.js](https://github.com/hammerjs/hammer.js) is a JavaScript library for multi-touch gestures.
 * [pressure.js](https://github.com/yamartino/pressure) is a JavaScript library for handling both Force Touch and 3D Touch on the web.
+* [zingtouch](https://github.com/zingchart/zingtouch) is a JavaScript touch gesture detection library for the modern web.
 
 ### Drawing
 
