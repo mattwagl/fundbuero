@@ -14,6 +14,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [lodash](https://lodash.com/) provides great helpers for dealing with arrays and objects.
 * [i18next](http://i18next.com/) is a full-featured i18n javascript library for translating your webapplication.
 * [strman](https://github.com/dleitee/strman) is a JavaScript string manipulation library without npm dependencies.
+* [date-fns](https://github.com/date-fns/date-fns) is a modern JavaScript date utility library.
 
 ### Dealing with async code
 
