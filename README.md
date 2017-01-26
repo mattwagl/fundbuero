@@ -81,6 +81,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [tether.js](http://github.hubspot.com/tether/) is a library for efficiently making an absolutely positioned element stay next to another element on the page.
 * [clipboard.js](https://github.com/zenorocha/clipboard.js) provides modern copy to clipboard. No Flash.
 * [in-view](https://github.com/camwiegert/in-view) notifies you when a DOM element enters or exits the viewport.
+* [localForage](https://github.com/localForage/localForage) provides offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API. 
 
 ### Webapp Components
 
@@ -88,11 +89,12 @@ fundbüro is my personal collection of interesting things from the web.
 * [ag-grid](https://github.com/ceolter/ag-grid) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components. 
 * [Draft.js](https://facebook.github.io/draft-js/) is a rich Text Editor Framework for React.
 
+
 ### Website Components
 
 * [PhotoSwipe](https://github.com/dimsemenov/photoswipe) is an image gallery for mobile and desktop, modular, framework independent.
 * [okayNav](https://github.com/VPenkov/okayNav) is a responsive navigation plugin für jQuery.
-* [bootstrap-easy-sidebar](https://github.com/GroundXaero/bootstrap-easy-sidebar) is sidebar for bootstrap designed around theme integration and flexibility. 
+* [bootstrap-easy-sidebar](https://github.com/GroundXaero/bootstrap-easy-sidebar) is sidebar for bootstrap designed around theme integration and flexibility.
 
 ### Mobile
 
