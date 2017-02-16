@@ -127,7 +127,11 @@ developing beautiful hybrid mobile apps.
 
 * [TremulaJS](https://github.com/garris/TremulaJS) Picture Streams + Momentum Engine + Bézier Paths + Multi-Device.
 
-### UI Libraries and Frameworks
+### Drawing and Rendering frameworks
+
+* [Pixi.js](https://github.com/pixijs/pixi.js) is a super fast HTML 5 2D rendering engine that uses webGL with canvas fallback 
+
+### UI libraries and frameworks
  
 * [React](https://github.com/facebook/react) is a view layer based upon the concept of a virtual DOM.
 * [vue.js](https://github.com/vuejs/vue/) is sSimple yet powerful library for building modern web interfaces. 
