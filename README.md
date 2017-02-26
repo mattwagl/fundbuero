@@ -273,6 +273,7 @@ developing beautiful hybrid mobile apps.
 # Design
 
 * [awesome-design](https://github.com/gztchan/awesome-design) is a collection of UI/UX design resources for developers & designers.
+* [webgradients.com]https://webgradients.com/) is a free collection of 180 linear gradients that you can use as content backdrops.
 
 ## Typo
 
