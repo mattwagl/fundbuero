@@ -281,5 +281,7 @@ developing beautiful hybrid mobile apps.
 * [Maven Pro](https://fonts.google.com/specimen/Maven+Pro) is a sans-serif typeface with unique curvature and flowing rhythm.
 * [Titillium](https://fonts.google.com/specimen/Titillium+Web) was born inside the Accademia di Belle Arti di Urbino as a didactic project Course Type design of the Master of Visual Design Campi Visivi.
 
+# Discussions
 
+* [Interview Algorithm Questions in Javascript()](https://github.com/kennymkchan/interview-questions-in-javascript)
 
