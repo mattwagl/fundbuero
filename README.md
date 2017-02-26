@@ -105,6 +105,7 @@ developing beautiful hybrid mobile apps.
 ### Animation/Transitions
 
 * [Velocity.js](http://julian.com/research/velocity/) is an accelerated animation engine with the same API as jQuery's $.animate().
+* [Rebound.js](https://github.com/facebook/rebound-js) provides spring dynamics in JavaScript.
 * [reaction-motion](https://github.com/chenglou/react-motion) is a spring that solves your animation problems.
 * [velocity-react](https://github.com/twitter-fabric/velocity-react) React components for Velocity.js.
 * [GSAP](http://greensock.com/gsap) is a full-blown animation and tweening engine that also supports timelines.
