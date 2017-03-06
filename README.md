@@ -256,6 +256,7 @@ developing beautiful hybrid mobile apps.
 
 * [nlp_compromise](https://github.com/nlp-compromise/nlp_compromise) is a cool way to use natural language in JavaScript.
 * [tesseract.js](https://github.com/naptha/tesseract.js) provides pure Javascript OCR for 62 Languages.
+* [annyang](https://github.com/TalAter/annyang) is a tiny SpeechRecognition library that lets your users control your site with voice commands.
 
 ## Misc
 
