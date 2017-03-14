@@ -221,6 +221,11 @@ developing beautiful hybrid mobile apps.
 * [gulp-connect](https://github.com/avevlad/gulp-connect) is a simple preview server for gulp that supports LiveReload.
 * [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) minifies PNG, JPEG, GIF and SVG images through gulp.
 
+## Testing
+
+* [nightmare](https://github.com/segmentio/nightmare) is a high-level browser automation library.
+* [webdriverio](https://github.com/webdriverio/webdriverio/) is a webdriver (browser automation) module for Node.js.
+
 ## Tools
 
 * [ai2html](http://ai2html.org/) is a script for Adobe Illustrator that converts your Illustrator document into html and css.
