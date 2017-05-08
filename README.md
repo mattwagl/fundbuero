@@ -145,7 +145,8 @@ developing beautiful hybrid mobile apps.
 ### UI libraries and frameworks
  
 * [React](https://github.com/facebook/react) is a view layer based upon the concept of a virtual DOM.
-* [vue.js](https://github.com/vuejs/vue/) is sSimple yet powerful library for building modern web interfaces. 
+* [vue.js](https://github.com/vuejs/vue/) is a simple yet powerful library for building modern web interfaces.
+* [choo](https://github.com/yoshuawuyts/choo) is a sturdy 4kb frontend framework.
 * [riot.js](https://github.com/muut/riotjs) is a React- like, 3.5KB user interface library.
 * [AngularJS](https://angularjs.org/)  is a library for building the framework most suited to your application development.
 
