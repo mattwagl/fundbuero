@@ -152,6 +152,7 @@ developing beautiful hybrid mobile apps.
 * [react-helmet](https://github.com/nfl/react-helmet) is a document head manager for React.
 * [repng](https://github.com/jxnblk/repng) converts React components to PNG.
 * [react-loadable](https://github.com/thejameskyle/react-loadable) is a higher order component for loading components with promises.
+* [react-perimeter](https://github.com/aweary/react-perimeter) creates an invisible perimeter around an element and respond when its breached. 
 
 #### React.Components
 
