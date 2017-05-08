@@ -252,6 +252,7 @@ developing beautiful hybrid mobile apps.
 
 * [ai2html](http://ai2html.org/) is a script for Adobe Illustrator that converts your Illustrator document into html and css.
 * [wzrd](https://github.com/maxogden/wzrd) is a super minimal browserify development server.
+* [sizzy](https://sizzy.co/) is a tool for developing responsive websites crazy-fast.
 
 ## Storytelling
 
