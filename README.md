@@ -29,21 +29,29 @@ fundbüro is my personal collection of interesting things from the web.
 
 ## Frontend
 
-### Styling / Theming / CSS
+### Styling
+
+* [patternbolt](https://github.com/buseca/patternbolt) is a election of SVG pattern background, packed in a single CSS or SCSS file.
+* [Bytesize Icons](https://github.com/danklammer/bytesize-icons) is a tiny style-controlled SVG iconset.
+
+### Styling with CSS
 
 * [base-files](https://github.com/jonikorpi/base-files) is a plain CSS starter kit.
 * [primercss.io](http://primercss.io/) "The CSS toolkit and guidelines that power GitHub."
 * [CSS-Best-Practices](https://github.com/sezgi/CSS-Best-Practices) "Notes meant as a guide for writing clean CSS"
 * [milligram](https://github.com/milligram/milligram) is a a minimalist CSS framework.
-* [patternbolt](https://github.com/buseca/patternbolt) is a election of SVG pattern background, packed in a single CSS or SCSS file.
 * [grd](https://github.com/1000ch/grd) is a CSS grid framework using Flexbox. Only 512 bytes (Gzipped).
 * [layout.css](https://github.com/lapwinglabs/layout.css) is a wrapper around flexbox to make doing flexbox layouts simple and declarative. Inspired by polymer.
-* [free-style](https://github.com/blakeembrey/free-style) makes CSS easier and more maintainable by using inline style objects.
 * [tachyons](https://github.com/tachyons-css/tachyons/) provides Functional CSS for humans. 
 
-### Icons
+### Styling with JS
 
-* [Bytesize Icons](https://github.com/danklammer/bytesize-icons) is a tiny style-controlled SVG iconset.
+* [css-in-js](https://github.com/MicheleBertoli/css-in-js) is a CSS in JS techniques comparison. 
+* [free-style](https://github.com/blakeembrey/free-style) makes CSS easier and more maintainable by using inline style objects.
+* [glamor](https://github.com/threepointone/glamor) provides inline css for react et al.
+* [glamorous](https://github.com/paypal/glamorous) provides React component styling solved with an elegant (inspired) API, small footprint, and great performance (via glamor).
+* [styled-components](https://github.com/styled-components/styled-components) provide visual primitives for the component age.
+* [jss](http://cssinjs.org/) is an abstraction over CSS.
 
 ### DOM
 
