@@ -60,6 +60,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [jQuery](https://github.com/jquery/jquery) 
 * [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) provides examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.  
 * [fastdom](https://github.com/wilsonpage/fastdom) eliminates layout thrashing by batching DOM measurement and mutation tasks.
+* [vdom](https://github.com/Matt-Esch/vdom) provides a DOM create and patch algorithm for vtree.
 
 ### Input & Interactions
 
