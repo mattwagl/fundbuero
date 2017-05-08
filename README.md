@@ -209,6 +209,11 @@ developing beautiful hybrid mobile apps.
 * [scour](https://github.com/rstacruz/scour) is a general-purpose library for dealing with JSON trees.
 * [baobab](https://github.com/Yomguithereal/baobab) is a JavaScript persistent and optionally immutable data tree with cursors.
 
+
+### Data Fetching
+
+* [ladda](https://github.com/ladda-js/ladda) is a JavaScript data fetching layer with caching.
+
 ### Hacks & Tricks
 
 * [Preventing body scroll for modals in iOS](https://benfrain.com/preventing-body-scroll-for-modals-in-ios/)
