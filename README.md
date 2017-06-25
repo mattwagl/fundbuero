@@ -43,11 +43,11 @@ fundbüro is my personal collection of interesting things from the web.
 * [milligram](https://github.com/milligram/milligram) is a a minimalist CSS framework.
 * [grd](https://github.com/1000ch/grd) is a CSS grid framework using Flexbox. Only 512 bytes (Gzipped).
 * [layout.css](https://github.com/lapwinglabs/layout.css) is a wrapper around flexbox to make doing flexbox layouts simple and declarative. Inspired by polymer.
-* [tachyons](https://github.com/tachyons-css/tachyons/) provides Functional CSS for humans. 
+* [tachyons](https://github.com/tachyons-css/tachyons/) provides Functional CSS for humans.
 
 ### Styling with JS
 
-* [css-in-js](https://github.com/MicheleBertoli/css-in-js) is a CSS in JS techniques comparison. 
+* [css-in-js](https://github.com/MicheleBertoli/css-in-js) is a CSS in JS techniques comparison.
 * [free-style](https://github.com/blakeembrey/free-style) makes CSS easier and more maintainable by using inline style objects.
 * [glamor](https://github.com/threepointone/glamor) provides inline css for react et al.
 * [glamorous](https://github.com/paypal/glamorous) provides React component styling solved with an elegant (inspired) API, small footprint, and great performance (via glamor).
@@ -58,7 +58,7 @@ fundbüro is my personal collection of interesting things from the web.
 
 * [sprint](https://github.com/bendc/sprint) is a tiny, lightning fast jQuery-like library for modern browsers.
 * [zepto.js](https://github.com/madrobby/zepto) is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API .
-* [jQuery](https://github.com/jquery/jquery) 
+* [jQuery](https://github.com/jquery/jquery)
 * [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) provides examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.  
 * [fastdom](https://github.com/wilsonpage/fastdom) eliminates layout thrashing by batching DOM measurement and mutation tasks.
 * [vdom](https://github.com/Matt-Esch/vdom) provides a DOM create and patch algorithm for vtree.
@@ -93,12 +93,12 @@ fundbüro is my personal collection of interesting things from the web.
 * [popper.js](https://github.com/FezVrasta/popper.js) is a positioning engine, its purpose is to calculate the position of an element.
 * [clipboard.js](https://github.com/zenorocha/clipboard.js) provides modern copy to clipboard. No Flash.
 * [in-view](https://github.com/camwiegert/in-view) notifies you when a DOM element enters or exits the viewport.
-* [localForage](https://github.com/localForage/localForage) provides offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API. 
+* [localForage](https://github.com/localForage/localForage) provides offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
 ### Webapp Components
 
 * [slate.js](https://github.com/ianstormtaylor/slate) is a completely customizable framework for building rich text editors.
-* [ag-grid](https://github.com/ceolter/ag-grid) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components. 
+* [ag-grid](https://github.com/ceolter/ag-grid) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components.
 * [Draft.js](https://facebook.github.io/draft-js/) is a rich Text Editor Framework for React.
 
 
@@ -142,10 +142,10 @@ developing beautiful hybrid mobile apps.
 
 ### Drawing and Rendering frameworks
 
-* [Pixi.js](https://github.com/pixijs/pixi.js) is a super fast HTML 5 2D rendering engine that uses webGL with canvas fallback 
+* [Pixi.js](https://github.com/pixijs/pixi.js) is a super fast HTML 5 2D rendering engine that uses webGL with canvas fallback
 
 ### UI libraries and frameworks
- 
+
 * [React](https://github.com/facebook/react) is a view layer based upon the concept of a virtual DOM.
 * [vue.js](https://github.com/vuejs/vue/) is a simple yet powerful library for building modern web interfaces.
 * [choo](https://github.com/yoshuawuyts/choo) is a sturdy 4kb frontend framework.
@@ -155,7 +155,7 @@ developing beautiful hybrid mobile apps.
 ### React
 
 * [nwb](https://github.com/insin/nwb) provides a toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration.
-* [Wrapping DOM libs](https://github.com/ryanflorence/react-training/blob/gh-pages/lessons/05-wrapping-dom-libs.md) explains how to make React work with traditional DOM libs. 
+* [Wrapping DOM libs](https://github.com/ryanflorence/react-training/blob/gh-pages/lessons/05-wrapping-dom-libs.md) explains how to make React work with traditional DOM libs.
 * [server-side-rendering](https://github.com/dimaip/server-side-rendering) is an interactive guide to server-side rendering with Webpack, React, React.
 * [react-bits](https://github.com/vasanthk/react-bits/) is a compilation of React Patterns, techniques, tips and tricks.
 * [react-awesome-components](https://github.com/brillout/awesome-react-components/) is catalog of React components.
@@ -167,7 +167,7 @@ developing beautiful hybrid mobile apps.
 * [react-helmet](https://github.com/nfl/react-helmet) is a document head manager for React.
 * [repng](https://github.com/jxnblk/repng) converts React components to PNG.
 * [react-loadable](https://github.com/thejameskyle/react-loadable) is a higher order component for loading components with promises.
-* [react-perimeter](https://github.com/aweary/react-perimeter) creates an invisible perimeter around an element and respond when its breached. 
+* [react-perimeter](https://github.com/aweary/react-perimeter) creates an invisible perimeter around an element and respond when its breached.
 
 #### React.Components
 
@@ -205,8 +205,8 @@ developing beautiful hybrid mobile apps.
 ### Stores & State Container
 
 * [mobx](https://github.com/mobxjs/mobx) provides simple, scalable state management. .
-* [Redux](https://github.com/reactjs/redux) provides predictable state management for JavaScript apps. 
-* [PureState](https://github.com/MaiaVictor/PureState) is the stupidest state management library that works. 
+* [Redux](https://github.com/reactjs/redux) provides predictable state management for JavaScript apps.
+* [PureState](https://github.com/MaiaVictor/PureState) is the stupidest state management library that works.
 * [freezer](https://github.com/arqex/freezer) an immutable tree data structure that is always updated from the root, making easier to think in a reactive way.
 * [scour](https://github.com/rstacruz/scour) is a general-purpose library for dealing with JSON trees.
 * [baobab](https://github.com/Yomguithereal/baobab) is a JavaScript persistent and optionally immutable data tree with cursors.
@@ -235,7 +235,7 @@ developing beautiful hybrid mobile apps.
 
 * [sql.js](https://github.com/kripken/sql.js) is SQLite compiled to JavaScript through Emscripten.
 * [PouchDB](https://github.com/pouchdb/pouchdb) is a pocket-sized database.
-* [NeDB](https://github.com/louischatriot/nedb) is a MongoDB compatible datastore written in JavaScript. 
+* [NeDB](https://github.com/louischatriot/nedb) is a MongoDB compatible datastore written in JavaScript.
 * [Yjs](https://github.com/y-js/yjs) is a framework for real-time p2p shared editing on any data.
 
 ## Build
@@ -255,6 +255,7 @@ developing beautiful hybrid mobile apps.
 * [ai2html](http://ai2html.org/) is a script for Adobe Illustrator that converts your Illustrator document into html and css.
 * [wzrd](https://github.com/maxogden/wzrd) is a super minimal browserify development server.
 * [sizzy](https://sizzy.co/) is a tool for developing responsive websites crazy-fast.
+* [insomnia](https://github.com/getinsomnia/insomnia) is a cross-platform REST client, built on top of Electron.
 
 ## Storytelling
 
@@ -276,7 +277,7 @@ developing beautiful hybrid mobile apps.
 * [nw.js](https://github.com/nwjs/nw.js) "Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies."
 
 ## Tracing / Profiling / Debugging
-* [vector](https://github.com/Netflix/vector) is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser. 
+* [vector](https://github.com/Netflix/vector) is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser.
 * [statsd](https://github.com/etsy/statsd) is a simple daemon for easy stats aggregation.
 
 ## IoT
@@ -295,7 +296,7 @@ developing beautiful hybrid mobile apps.
 * [airpaste](https://github.com/mafintosh/airpaste) is a 1-1 network pipe that auto discovers other peers using mdns.
 * [node_mdns](https://github.com/agnat/node_mdns) enables mdns/zeroconf/bonjour service discovery add-on for Node.js.
 * [tern.js](http://ternjs.net/) is a stand-alone code-analysis engine for JavaScript.
-* [twemoji](https://github.com/twitter/twemoji) provides Twitter Emojis for everyone. 
+* [twemoji](https://github.com/twitter/twemoji) provides Twitter Emojis for everyone.
 
 ## CLI
 
@@ -310,7 +311,7 @@ developing beautiful hybrid mobile apps.
 ## Typo
 
 * [Asap](https://fonts.google.com/specimen/Asap)  is a contemporary sans-serif family with subtle rounded corners.
-* [hack](http://sourcefoundry.org/hack/) is a typeface designed for source code. 
+* [hack](http://sourcefoundry.org/hack/) is a typeface designed for source code.
 * [Cairo](https://fonts.google.com/specimen/Cairo) is a contemporary Arabic and Latin typeface family.
 * [Maven Pro](https://fonts.google.com/specimen/Maven+Pro) is a sans-serif typeface with unique curvature and flowing rhythm.
 * [Titillium](https://fonts.google.com/specimen/Titillium+Web) was born inside the Accademia di Belle Arti di Urbino as a didactic project Course Type design of the Master of Visual Design Campi Visivi.
@@ -318,4 +319,3 @@ developing beautiful hybrid mobile apps.
 # Discussions
 
 * [Interview Algorithm Questions in Javascript()](https://github.com/kennymkchan/interview-questions-in-javascript)
-
