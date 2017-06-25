@@ -226,6 +226,16 @@ developing beautiful hybrid mobile apps.
 * [Codrops: Creative Gooey Effects](http://tympanus.net/Tutorials/SVGLoaderGSAP/index6.html) "A set of examples that use a gooey SVG filter for creating a variety of different effects for all kinds of website components."
 * [Codrops: Loaders](http://tympanus.net/codrops/2015/03/10/creative-gooey-effects/) "Playful loaders using animation with SVG and GSAP."
 
+
+## Building and bundling
+
+* [webpack](https://github.com/webpack/webpack) is bundler for javascript and friends.
+* [rollup](https://github.com/rollup/rollup) is an ES6 module bundler.
+* [browserify](https://github.com/substack/node-browserify) provides browser-side require() the node.js way.
+* [budo](https://github.com/mattdesl/budo) is a dev server for rapid prototyping.
+* [bankai](https://github.com/yoshuawuyts/bankai) is a streaming {js,html,css} compiler.
+
+
 ## Frontend Backend Communication
 
 * [socket.io](http://socket.io/) enables real-time bidirectional event-based communication.
