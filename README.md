@@ -235,6 +235,9 @@ developing beautiful hybrid mobile apps.
 * [budo](https://github.com/mattdesl/budo) is a dev server for rapid prototyping.
 * [bankai](https://github.com/yoshuawuyts/bankai) is a streaming {js,html,css} compiler.
 
+### webpack
+
+* [lqip-loader](https://github.com/zouhir/lqip-loader) provides low quality image placeholders (LQIP) for webpack.
 
 ## Frontend Backend Communication
 
