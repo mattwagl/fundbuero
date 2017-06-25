@@ -127,6 +127,8 @@ developing beautiful hybrid mobile apps.
 * [mo.js](https://github.com/legomushroom/mojs) is a motion graphics toolbelt for the web.
 * [loaders](http://connoratherton.com/loaders) "Delightful and performance-focused pure css loading animations."
 * [granim.js](https://github.com/sarcadass/granim.js) creates fluid and interactive gradients animations.
+* [flubber](https://github.com/veltman/flubber) provides tools for smoother shape animations.
+
 
 ### Charting & Graphing
 
