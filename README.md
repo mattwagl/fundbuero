@@ -71,10 +71,11 @@ fundbüro is my personal collection of interesting things from the web.
 * [pressure.js](https://github.com/yamartino/pressure) is a JavaScript library for handling both Force Touch and 3D Touch on the web.
 * [zingtouch](https://github.com/zingchart/zingtouch) is a JavaScript touch gesture detection library for the modern web.
 
-### Drawing
+### Drawing & Imaging
 
 * [konva.js](https://github.com/konvajs/konva) is a 2d html5 canvas framework for desktop and mobile applications.
 * [Simple Proof-Of-Concept](https://twitter.com/ryanflorence/status/809539837820706818) of a React drawing app by Ryan Florence. https://gist.github.com/ryanflorence/a4cb023508ded9772545948eeaaaecb3
+* [grafijs](http://grafijs.org/) is a JavaScript Image Processing Library.
 
 ### Media
 
@@ -183,7 +184,7 @@ developing beautiful hybrid mobile apps.
 * [why-did-you-update](https://github.com/garbles/why-did-you-update) puts your console on blast when React is making unnecessary updates.
 * [react-dates](https://github.com/airbnb/react-dates) is an accessible, easily internationalizable, mobile-friendly datepicker library for the web
 * [react-game-kit](https://github.com/FormidableLabs/react-game-kit) is a component library for making games with React & React Native.
-* [https://github.com/glittershark/reactable](https://github.com/FormidableLabs/react-game-kit) provides fast, flexible, and simple data tables.
+* [reactable](https://github.com/glittershark/reactable) provides fast, flexible, and simple data tables.
 * [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) is a set of higher-order components to turn any list into an animated, touch-friendly, sortable list. 
 * [react-draggable](https://github.com/mzabriskie/react-draggable) is a draggable component. 
 
