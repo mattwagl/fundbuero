@@ -185,6 +185,7 @@ developing beautiful hybrid mobile apps.
 * [react-game-kit](https://github.com/FormidableLabs/react-game-kit) is a component library for making games with React & React Native.
 * [https://github.com/glittershark/reactable](https://github.com/FormidableLabs/react-game-kit) provides fast, flexible, and simple data tables.
 * [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) is a set of higher-order components to turn any list into an animated, touch-friendly, sortable list. 
+* [react-draggable](https://github.com/mzabriskie/react-draggable) is a draggable component. 
 
 #### React.Forms
 
