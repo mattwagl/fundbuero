@@ -152,8 +152,8 @@ developing beautiful hybrid mobile apps.
 * [React](https://github.com/facebook/react) is a view layer based upon the concept of a virtual DOM.
 * [vue.js](https://github.com/vuejs/vue/) is a simple yet powerful library for building modern web interfaces.
 * [choo](https://github.com/yoshuawuyts/choo) is a sturdy 4kb frontend framework.
-* [riot.js](https://github.com/muut/riotjs) is a React- like, 3.5KB user interface library.
-* [AngularJS](https://angularjs.org/)  is a library for building the framework most suited to your application development.
+* [riot.js](https://github.com/muut/riotjs) is a React-like, 3.5KB user interface library.
+* [AngularJS](https://angularjs.org/) is a library for building the framework most suited to your application development.
 
 ### React
 
@@ -163,6 +163,7 @@ developing beautiful hybrid mobile apps.
 * [react-bits](https://github.com/vasanthk/react-bits/) is a compilation of React Patterns, techniques, tips and tricks.
 * [react-awesome-components](https://github.com/brillout/awesome-react-components/) is catalog of React components.
 * [react-sketchapp](https://github.com/airbnb/react-sketchapp/) renders React components to Sketch.
+* [real-world-react](https://github.com/jeromedalbert/real-world-react) collects real world React apps and their open source codebases for developers to learn from .
 
 #### React.Helpers
 
