@@ -199,7 +199,7 @@ developing beautiful hybrid mobile apps.
 * [formsy-react](https://github.com/christianalfoni/formsy-react#how-to-use) is a form input builder and validator for React.
 * [redux-form](https://github.com/erikras/redux-form) is a Higher Order Component using react-redux to keep form state in a Redux store.
 * [formstate](https://github.com/formstate/formstate) provides form state so simple that you will fall in love.
-
+* [formik](https://github.com/jaredpalmer/formik) provides forms in React, without tears.
 
 #### React.UI.Frameworks
 
