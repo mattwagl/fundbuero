@@ -184,6 +184,7 @@ developing beautiful hybrid mobile apps.
 * [react-dates](https://github.com/airbnb/react-dates) is an accessible, easily internationalizable, mobile-friendly datepicker library for the web
 * [react-game-kit](https://github.com/FormidableLabs/react-game-kit) is a component library for making games with React & React Native.
 * [https://github.com/glittershark/reactable](https://github.com/FormidableLabs/react-game-kit) provides fast, flexible, and simple data tables.
+* [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) is a set of higher-order components to turn any list into an animated, touch-friendly, sortable list. 
 
 #### React.Forms
 
