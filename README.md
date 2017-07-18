@@ -224,6 +224,7 @@ developing beautiful hybrid mobile apps.
 ### Data Fetching
 
 * [ladda](https://github.com/ladda-js/ladda) is a JavaScript data fetching layer with caching.
+* [sheetsee.js](http://jlord.us/sheetsee.js/) is a client-side library for connecting Google Spreadsheets to a website and visualizing the information in tables and maps.
 
 ### Hacks & Tricks
 
