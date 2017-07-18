@@ -172,6 +172,11 @@ developing beautiful hybrid mobile apps.
 * [react-loadable](https://github.com/thejameskyle/react-loadable) is a higher order component for loading components with promises.
 * [react-perimeter](https://github.com/aweary/react-perimeter) creates an invisible perimeter around an element and respond when its breached.
 
+#### React.Routing
+
+* [react-router](https://github.com/ReactTraining/react-router) provides declarative routing for React.
+* [Animated page transitions with React Router 4, ReactTransitionGroup and Animated](https://hackernoon.com/animated-page-transitions-with-react-router-4-reacttransitiongroup-and-animated-1ca17bd97a1a) is an article by Martin Haagensli about animating routes.
+
 #### React.Components
 
 * [boron](https://github.com/yuanyan/boron) is a collection of dialog animations with React.js.
