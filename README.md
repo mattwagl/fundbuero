@@ -200,6 +200,10 @@ developing beautiful hybrid mobile apps.
 * [blueprint](http://blueprintjs.com/) is a React-based UI toolkit for the web.
 * [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) is the official Semantic-UI-React integration.
 
+#### React.Performance
+
+* [Creating More Efficient React Views with Windowing](https://www.youtube.com/watch?v=t4tuhg7b50I&app=desktop) is a talk by Brian Vaughn about performance optimizations and the windowing technique.
+
 #### React.Testing
 
 * [enzyme](https://github.com/airbnb/enzyme/) provides JavaScript Testing utilities for React.
