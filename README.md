@@ -226,7 +226,6 @@ developing beautiful hybrid mobile apps.
 * [scour](https://github.com/rstacruz/scour) is a general-purpose library for dealing with JSON trees.
 * [baobab](https://github.com/Yomguithereal/baobab) is a JavaScript persistent and optionally immutable data tree with cursors.
 
-
 ### Data Fetching
 
 * [ladda](https://github.com/ladda-js/ladda) is a JavaScript data fetching layer with caching.
@@ -241,7 +240,6 @@ developing beautiful hybrid mobile apps.
 
 * [Codrops: Creative Gooey Effects](http://tympanus.net/Tutorials/SVGLoaderGSAP/index6.html) "A set of examples that use a gooey SVG filter for creating a variety of different effects for all kinds of website components."
 * [Codrops: Loaders](http://tympanus.net/codrops/2015/03/10/creative-gooey-effects/) "Playful loaders using animation with SVG and GSAP."
-
 
 ## Building and bundling
 
@@ -331,6 +329,10 @@ developing beautiful hybrid mobile apps.
 
 * [ora](https://github.com/sindresorhus/ora) is an elegant terminal spinner.
 * [cli-spinners](https://github.com/sindresorhus/cli-spinners) is a collection of spinners for use in the terminal.
+
+## Print
+
+* [Gutenberg](https://github.com/BafS/Gutenberg) is a modern framework to print the web correctly.
 
 # Design
 
