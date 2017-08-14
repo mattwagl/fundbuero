@@ -23,6 +23,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [async](https://github.com/caolan/async) provides async utilities for node and the browser.
 * [asynquence](https://github.com/getify/asynquence) provides promise-style async sequence flow-control.
 * [vo](https://github.com/lapwinglabs/vo) is a control flow library for minimalists.
+* [promise-frites](https://github.com/webPapaya/promise-frites) provides promise utilities.
 
 ### Streams
 
