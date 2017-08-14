@@ -99,6 +99,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [in-view](https://github.com/camwiegert/in-view) notifies you when a DOM element enters or exits the viewport.
 * [localForage](https://github.com/localForage/localForage) provides offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) is a tiny vanilla JS plugin to display large data sets easily.
+* [fitty](https://github.com/rikschennink/fitty) makes text fit perfectly.
 
 ### Webapp Components
 
