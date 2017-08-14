@@ -28,6 +28,7 @@ fundbüro is my personal collection of interesting things from the web.
 ### Streams
 
 * [highland.js](https://github.com/caolan/highland) provides High-level streams library for Node.js and the browser.
+* [pull-stream](https://github.com/pull-stream/pull-stream) provides a minimal streams.
 
 ## Frontend
 
