@@ -100,6 +100,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [localForage](https://github.com/localForage/localForage) provides offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) is a tiny vanilla JS plugin to display large data sets easily.
 * [fitty](https://github.com/rikschennink/fitty) makes text fit perfectly.
+* [scroll](https://github.com/michaelrhodes/scroll) provides a function that animates an element’s scrollTop/scrollLeft positions.
 
 ### Webapp Components
 
