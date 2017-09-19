@@ -146,6 +146,7 @@ developing beautiful hybrid mobile apps.
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/) is a library built on top of D3 that is optimized for visualizing and laying out time-series data.
 * [c3.js](http://c3js.org/) is a D3-based reusable chart library.
 * [Labella.js](https://github.com/twitter/labella.js) enables placing labels on a timeline without overlap.
+* [nivo](https://github.com/plouc/nivo) provides a rich set of dataviz components, built on top of d3 and React.
 
 ### Physics
 
