@@ -101,6 +101,8 @@ fundbüro is my personal collection of interesting things from the web.
 * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) is a tiny vanilla JS plugin to display large data sets easily.
 * [fitty](https://github.com/rikschennink/fitty) makes text fit perfectly.
 * [scroll](https://github.com/michaelrhodes/scroll) provides a function that animates an element’s scrollTop/scrollLeft positions.
+* [lozad.js](https://github.com/ApoorvSaxena/lozad.js) is a highly performant, light ~0.5kb and configurable lazy loader with no dependencies for images, iframes and more.
+
 
 ### Webapp Components
 
