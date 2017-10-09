@@ -108,10 +108,13 @@ fundbüro is my personal collection of interesting things from the web.
 
 ### Webapp Components
 
-* [slate.js](https://github.com/ianstormtaylor/slate) is a completely customizable framework for building rich text editors.
 * [ag-grid](https://github.com/ceolter/ag-grid) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components.
-* [Draft.js](https://facebook.github.io/draft-js/) is a rich Text Editor Framework for React.
 
+#### Editors
+
+* [slate.js](https://github.com/ianstormtaylor/slate) is a completely customizable framework for building rich text editors.
+* [Draft.js](https://facebook.github.io/draft-js/) is a rich Text Editor Framework for React.
+* [mobiledoc-kit](https://github.com/bustle/mobiledoc-kit) is a toolkit for building WYSIWYG editors with Mobiledoc.
 
 ### Website Components
 
