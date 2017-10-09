@@ -7,6 +7,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [Data Structures in JavaScript](http://blog.benoitvallon.com/category/data-structures-in-javascript/) shows how to implement basic data structures plain JavaScript.
 * [Help I'm stuck in an event loop](https://www.youtube.com/watch?v=6MXRNXXgP_0&feature=youtu.b) is a talk by Philip Roberts that explains how the JavaScript event loop works.
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) is a book series on JavaScript.
+* [A brief history of prototypes](https://github.com/zkat/talks/blob/master/2017-09-nordicjs/presentation.pdf) is talk by Katerina Marchá about the origins of prototype-based programming.
 
 ## Base libs
 
