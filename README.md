@@ -304,6 +304,7 @@ developing beautiful hybrid mobile apps.
 ## Mapping
 
 * [turf.js](https://github.com/Turfjs/turf) is a modular geospatial engine written in JavaScript.
+* [ngraph.path](https://github.com/anvaka/ngraph.path) provides path finding in a graph.
 
 ## Desktop
 
