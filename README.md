@@ -208,6 +208,7 @@ developing beautiful hybrid mobile apps.
 * [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) is a set of higher-order components to turn any list into an animated, touch-friendly, sortable list. 
 * [react-draggable](https://github.com/mzabriskie/react-draggable) is a draggable component.
 * [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) provides beautiful, accessible drag and drop for lists.
+* [downshift](https://github.com/paypal/downshift) provides primitives to build simple, flexible, WAI-ARIA compliant React autocomplete/dropdown/select/combobox components.
 
 #### React.Forms
 
