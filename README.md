@@ -306,6 +306,7 @@ developing beautiful hybrid mobile apps.
 * [reveal.js](https://github.com/hakimel/reveal.js/) is the HTML Presentation Framework.
 * [Spectacle](https://github.com/FormidableLabs/spectacle) is a React based Presentation Library.
 * [decktape](https://github.com/astefanutti/decktape) is an PDF exporter for HTML presentation frameworks.
+* [lagom.js](https://github.com/reimertz/lagom) is a simplistic presentation generator.
 
 ## Mapping
 
