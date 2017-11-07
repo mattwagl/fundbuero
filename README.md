@@ -48,6 +48,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [grd](https://github.com/1000ch/grd) is a CSS grid framework using Flexbox. Only 512 bytes (Gzipped).
 * [layout.css](https://github.com/lapwinglabs/layout.css) is a wrapper around flexbox to make doing flexbox layouts simple and declarative. Inspired by polymer.
 * [tachyons](https://github.com/tachyons-css/tachyons/) provides Functional CSS for humans.
+* [tailwindcss](https://github.com/tailwindcss/tailwindcss) is a utility-first CSS framework for rapid UI development.
 
 ### Styling with JS
 
