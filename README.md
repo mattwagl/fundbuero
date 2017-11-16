@@ -287,15 +287,17 @@ developing beautiful hybrid mobile apps.
 * [NeDB](https://github.com/louischatriot/nedb) is a MongoDB compatible datastore written in JavaScript.
 * [Yjs](https://github.com/y-js/yjs) is a framework for real-time p2p shared editing on any data.
 
-## Build
+## Building and Bundling
 
+* [webpack](https://github.com/webpack/webpack) is a bundler for JavaScript and friends.
+* [rollup](https://github.com/rollup/rollup) is a module bundler for JavaScript.
 * [autoprefixer](https://github.com/postcss/autoprefixer) parses CSS and adds vendor prefixes to rules.
 * [uncss](https://github.com/giakki/uncss) removes unused styles from CSS.
-* [gulp-connect](https://github.com/avevlad/gulp-connect) is a simple preview server for gulp that supports LiveReload.
-* [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) minifies PNG, JPEG, GIF and SVG images through gulp.
+* [imagemin](https://github.com/imagemin/imagemin) minifies PNG, JPEG, GIF and SVG images.
 
-## Testing
+## Browser Testing & Automation 
 
+* [puppeteer](https://github.com/GoogleChrome/puppeteer) provides a high-level API to control headless Chrome.
 * [nightmare](https://github.com/segmentio/nightmare) is a high-level browser automation library.
 * [webdriverio](https://github.com/webdriverio/webdriverio/) is a webdriver (browser automation) module for Node.js.
 
@@ -323,7 +325,6 @@ developing beautiful hybrid mobile apps.
 * [electron](https://github.com/atom/electron) is across-platform desktop application shell by github.
 * [nativefier](https://github.com/jiahaog/nativefier) wraps any web page natively without even thinking, across Windows, OSX and Linux.
 * [electron-packager](https://github.com/maxogden/electron-packager) packages and distributes your electron app in OS executables (.app) via JS or CLI.
-* [jolteon](https://github.com/vulpino/jolteon) is a Babel + Electron + React + Browserify + SASS application stack.
 * [menubar](https://github.com/maxogden/menubar) is a high level way to create menubar desktop applications with electron.
 * [nw.js](https://github.com/nwjs/nw.js) "Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies."
 
@@ -334,11 +335,17 @@ developing beautiful hybrid mobile apps.
 ## IoT
 * [awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) is a curated list of awesome open source IoT frameworks, libraries and software.
 
+## WebRTC / P2P
+
+* [simple-peer](https://github.com/feross/simple-peer) provides simple WebRTC video/voice and data channels for the browser and Node.js.
+
+
 ## Language & Speech
 
 * [nlp_compromise](https://github.com/nlp-compromise/nlp_compromise) is a cool way to use natural language in JavaScript.
 * [tesseract.js](https://github.com/naptha/tesseract.js) provides pure Javascript OCR for 62 Languages.
 * [annyang](https://github.com/TalAter/annyang) is a tiny SpeechRecognition library that lets your users control your site with voice commands.
+* [github.com/words](https://github.com/words) is a collection of linguistic javascript modules.
 
 ## Misc
 
