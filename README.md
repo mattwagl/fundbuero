@@ -19,6 +19,8 @@ fundbüro is my personal collection of interesting things from the web.
 * [date-fns](https://github.com/date-fns/date-fns) is a modern JavaScript date utility library.
 * [common-tags](https://github.com/declandewet/common-tags) provide useful template literal tags for dealing with strings in ES2015+.
 * [just](https://github.com/angus-c/just) is a library of dependency-free utilities that do just do one thing.
+* [superstruct](https://github.com/ianstormtaylor/superstruct) provides a simple and composable way to validate data in JavaScript. 
+
 
 ### Dealing with async code
 
