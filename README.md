@@ -182,7 +182,7 @@ developing beautiful hybrid mobile apps.
 * [vue.js](https://github.com/vuejs/vue/) is a simple yet powerful library for building modern web interfaces.
 * [choo](https://github.com/yoshuawuyts/choo) is a sturdy 4kb frontend framework.
 * [riot.js](https://github.com/muut/riotjs) is a React-like, 3.5KB user interface library.
-* [AngularJS](https://angularjs.org/) is a library for building the framework most suited to your application development.
+* [hyperHTML](https://github.com/WebReflection/hyperHTML) is a fast & light virtual DOM alternative. 
 
 ### React
 
