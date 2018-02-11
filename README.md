@@ -239,6 +239,7 @@ developing beautiful hybrid mobile apps.
 #### React.Performance
 
 * [Creating More Efficient React Views with Windowing](https://www.youtube.com/watch?v=t4tuhg7b50I&app=desktop) is a talk by Brian Vaughn about performance optimizations and the windowing technique.
+* [Debugging React performance with React 16 and Chrome Devtools](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad) Ben Schwarz
 
 #### React.Testing
 
