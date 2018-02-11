@@ -114,6 +114,10 @@ fundbüro is my personal collection of interesting things from the web.
 * [genie.js](https://github.com/kentcdodds/genie) is a keyboard control for web applications inspired by Alfred.
 * [scrollama](https://github.com/russellgoldenberg/scrollama) is a helper for Scrollytelling with IntersectionObserver.
 
+### Grid Layouts
+
+* [muuri](https://github.com/haltu/muuri) provides responsive, sortable, filterable and draggable grid layouts.
+
 ### Webapp Components
 
 * [ag-grid](https://github.com/ceolter/ag-grid) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components.
