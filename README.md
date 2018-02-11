@@ -179,11 +179,15 @@ developing beautiful hybrid mobile apps.
 
 * [nwb](https://github.com/insin/nwb) provides a toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration.
 * [Wrapping DOM libs](https://github.com/ryanflorence/react-training/blob/gh-pages/lessons/05-wrapping-dom-libs.md) explains how to make React work with traditional DOM libs.
-* [server-side-rendering](https://github.com/dimaip/server-side-rendering) is an interactive guide to server-side rendering with Webpack, React, React.
-* [react-bits](https://github.com/vasanthk/react-bits/) is a compilation of React Patterns, techniques, tips and tricks.
 * [react-awesome-components](https://github.com/brillout/awesome-react-components/) is catalog of React components.
 * [react-sketchapp](https://github.com/airbnb/react-sketchapp/) renders React components to Sketch.
 * [real-world-react](https://github.com/jeromedalbert/real-world-react) collects real world React apps and their open source codebases for developers to learn from .
+
+#### React.Concepts
+
+* [server-side-rendering](https://github.com/dimaip/server-side-rendering) is an interactive guide to server-side rendering with Webpack, React, React.
+* [react-bits](https://github.com/vasanthk/react-bits/) is a compilation of React Patterns, techniques, tips and tricks.
+* [Send Props to Children in React](https://jaketrent.com/post/send-props-to-children-react/) explains how to iterate over children to send props to them.
 
 #### React.Helpers
 
