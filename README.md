@@ -9,7 +9,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) is a book series on JavaScript.
 * [A brief history of prototypes](https://github.com/zkat/talks/blob/master/2017-09-nordicjs/presentation.pdf) is talk by Katerina Marchá about the origins of prototype-based programming.
 * [Do you want a better understanding of Buffer in Node.js?](https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8) is an article by Justice Mba that explains what Buffers are.
-
+* [math-as-code](https://github.com/Jam3/math-as-code) is a cheat-sheet for mathematical notation in code form.
 
 ## Base libs
 
