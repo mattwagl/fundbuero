@@ -323,6 +323,7 @@ developing beautiful hybrid mobile apps.
 
 * [turf.js](https://github.com/Turfjs/turf) is a modular geospatial engine written in JavaScript.
 * [ngraph.path](https://github.com/anvaka/ngraph.path) provides path finding in a graph.
+* [geo-maps](https://github.com/simonepri/geo-maps) provides high Quality GeoJSON maps programmatically generated.
 
 ## Desktop
 
