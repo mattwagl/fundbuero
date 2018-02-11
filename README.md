@@ -228,6 +228,7 @@ developing beautiful hybrid mobile apps.
 * [react-draggable](https://github.com/mzabriskie/react-draggable) is a draggable component.
 * [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) provides beautiful, accessible drag and drop for lists.
 * [downshift](https://github.com/paypal/downshift) provides primitives to build simple, flexible, WAI-ARIA compliant React autocomplete/dropdown/select/combobox components.
+* [react-content-loader](http://danilowoz.com/react-content-loader/) uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded.
 
 #### React.Forms
 
