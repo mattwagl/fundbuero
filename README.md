@@ -110,6 +110,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [scroll](https://github.com/michaelrhodes/scroll) provides a function that animates an element’s scrollTop/scrollLeft positions.
 * [lozad.js](https://github.com/ApoorvSaxena/lozad.js) is a highly performant, light ~0.5kb and configurable lazy loader with no dependencies for images, iframes and more.
 * [genie.js](https://github.com/kentcdodds/genie) is a keyboard control for web applications inspired by Alfred.
+* [scrollama](https://github.com/russellgoldenberg/scrollama) is a helper for Scrollytelling with IntersectionObserver.
 
 ### Webapp Components
 
