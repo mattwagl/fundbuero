@@ -23,13 +23,13 @@ fundbüro is my personal collection of interesting things from the web.
 * [just](https://github.com/angus-c/just) is a library of dependency-free utilities that do just do one thing.
 * [superstruct](https://github.com/ianstormtaylor/superstruct) provides a simple and composable way to validate data in JavaScript. 
 
-
 ### Dealing with async code
 
 * [async](https://github.com/caolan/async) provides async utilities for node and the browser.
 * [asynquence](https://github.com/getify/asynquence) provides promise-style async sequence flow-control.
 * [vo](https://github.com/lapwinglabs/vo) is a control flow library for minimalists.
 * [promise-frites](https://github.com/webPapaya/promise-frites) provides promise utilities.
+* [callbag](https://github.com/staltz/callbag-basics) is a tiny and fast reactive/iterable programming library.
 
 ### Streams
 
