@@ -291,6 +291,10 @@ developing beautiful hybrid mobile apps.
 
 * [lqip-loader](https://github.com/zouhir/lqip-loader) provides low quality image placeholders (LQIP) for webpack.
 
+## Automation
+
+* [hygen](https://github.com/jondot/hygen) is a simple, fast, and scalable code generator that lives in your project.
+
 ## Frontend Backend Communication
 
 * [socket.io](http://socket.io/) enables real-time bidirectional event-based communication.
