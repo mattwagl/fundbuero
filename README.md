@@ -96,6 +96,7 @@ fundbüro is my personal collection of interesting things from the web.
 ### Media
 
 * [FitVids](https://github.com/davatron5000/FitVids.js) automates the Intrinsic Ratio Method by Thierry Koblentz to achieve fluid width videos in your responsive web design.
+* [howler.js](https://github.com/goldfire/howler.js) is a JavaScript audio library for the modern web.
 
 ### Micro Components
 
