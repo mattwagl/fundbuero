@@ -247,6 +247,7 @@ developing beautiful hybrid mobile apps.
 * [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) provides React components for building experiences for Office and Office 365.
 * [blueprint](http://blueprintjs.com/) is a React-based UI toolkit for the web.
 * [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) is the official Semantic-UI-React integration.
+* [arwes](https://github.com/romelperez/arwes) is a futuristic sci-fi and cyberpunk GUI framework for web apps.
 
 #### React.Performance
 
