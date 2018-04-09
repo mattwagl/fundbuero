@@ -323,6 +323,7 @@ developing beautiful hybrid mobile apps.
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) provides a high-level API to control headless Chrome.
 * [nightmare](https://github.com/segmentio/nightmare) is a high-level browser automation library.
 * [webdriverio](https://github.com/webdriverio/webdriverio/) is a webdriver (browser automation) module for Node.js.
+* [pixelmatch](https://github.com/mapbox/pixelmatch) is a small, simple and fast JavaScript pixel-level image comparison library.
 
 ## Machine Learning & AI
 
