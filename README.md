@@ -324,6 +324,7 @@ developing beautiful hybrid mobile apps.
 * [nightmare](https://github.com/segmentio/nightmare) is a high-level browser automation library.
 * [webdriverio](https://github.com/webdriverio/webdriverio/) is a webdriver (browser automation) module for Node.js.
 * [pixelmatch](https://github.com/mapbox/pixelmatch) is a small, simple and fast JavaScript pixel-level image comparison library.
+* [sharp](https://github.com/lovell/sharp) provides high performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images.
 
 ## Machine Learning & AI
 
