@@ -293,6 +293,7 @@ developing beautiful hybrid mobile apps.
 ### webpack
 
 * [lqip-loader](https://github.com/zouhir/lqip-loader) provides low quality image placeholders (LQIP) for webpack.
+* [error-overlay-webpack-plugin](https://github.com/smooth-code/error-overlay-webpack-plugin) displays an error overlay in your application.
 
 ## Automation
 
