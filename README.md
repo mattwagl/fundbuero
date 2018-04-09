@@ -23,6 +23,8 @@ fundbüro is my personal collection of interesting things from the web.
 * [common-tags](https://github.com/declandewet/common-tags) provide useful template literal tags for dealing with strings in ES2015+.
 * [just](https://github.com/angus-c/just) is a library of dependency-free utilities that do just do one thing.
 * [superstruct](https://github.com/ianstormtaylor/superstruct) provides a simple and composable way to validate data in JavaScript. 
+* [dlv](https://github.com/developit/dlv) provides safe deep property access in 128 bytes. See also [idx](https://github.com/facebookincubator/idx) or [lodash/get](https://lodash.com/docs#get).
+
 
 ### Dealing with async code
 
