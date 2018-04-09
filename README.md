@@ -118,6 +118,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [lozad.js](https://github.com/ApoorvSaxena/lozad.js) is a highly performant, light ~0.5kb and configurable lazy loader with no dependencies for images, iframes and more.
 * [genie.js](https://github.com/kentcdodds/genie) is a keyboard control for web applications inspired by Alfred.
 * [scrollama](https://github.com/russellgoldenberg/scrollama) is a helper for Scrollytelling with IntersectionObserver.
+* [driver.js](https://github.com/kamranahmedse/driver.js) is a light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page.
 
 ### Grid Layouts
 
