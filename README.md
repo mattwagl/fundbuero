@@ -286,19 +286,6 @@ developing beautiful hybrid mobile apps.
 * [Codrops: Creative Gooey Effects](http://tympanus.net/Tutorials/SVGLoaderGSAP/index6.html) "A set of examples that use a gooey SVG filter for creating a variety of different effects for all kinds of website components."
 * [Codrops: Loaders](http://tympanus.net/codrops/2015/03/10/creative-gooey-effects/) "Playful loaders using animation with SVG and GSAP."
 
-## Building and bundling
-
-* [webpack](https://github.com/webpack/webpack) is bundler for javascript and friends.
-* [rollup](https://github.com/rollup/rollup) is an ES6 module bundler.
-* [browserify](https://github.com/substack/node-browserify) provides browser-side require() the node.js way.
-* [budo](https://github.com/mattdesl/budo) is a dev server for rapid prototyping.
-* [bankai](https://github.com/yoshuawuyts/bankai) is a streaming {js,html,css} compiler.
-
-### webpack
-
-* [lqip-loader](https://github.com/zouhir/lqip-loader) provides low quality image placeholders (LQIP) for webpack.
-* [error-overlay-webpack-plugin](https://github.com/smooth-code/error-overlay-webpack-plugin) displays an error overlay in your application.
-
 ## Automation
 
 * [hygen](https://github.com/jondot/hygen) is a simple, fast, and scalable code generator that lives in your project.
@@ -319,15 +306,27 @@ developing beautiful hybrid mobile apps.
 
 * [webpack](https://github.com/webpack/webpack) is a bundler for JavaScript and friends.
 * [rollup](https://github.com/rollup/rollup) is a module bundler for JavaScript.
+* [browserify](https://github.com/substack/node-browserify) provides browser-side require() the node.js way.
+* [budo](https://github.com/mattdesl/budo) is a dev server for rapid prototyping.
+* [bankai](https://github.com/yoshuawuyts/bankai) is a streaming {js,html,css} compiler.
 * [autoprefixer](https://github.com/postcss/autoprefixer) parses CSS and adds vendor prefixes to rules.
 * [uncss](https://github.com/giakki/uncss) removes unused styles from CSS.
 * [imagemin](https://github.com/imagemin/imagemin) minifies PNG, JPEG, GIF and SVG images.
+
+### webpack
+
+* [lqip-loader](https://github.com/zouhir/lqip-loader) provides low quality image placeholders (LQIP) for webpack.
+* [error-overlay-webpack-plugin](https://github.com/smooth-code/error-overlay-webpack-plugin) displays an error overlay in your application.
 
 ## Browser Testing & Automation 
 
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) provides a high-level API to control headless Chrome.
 * [nightmare](https://github.com/segmentio/nightmare) is a high-level browser automation library.
 * [webdriverio](https://github.com/webdriverio/webdriverio/) is a webdriver (browser automation) module for Node.js.
+
+## Machine Learning & AI
+
+* [brain.js](https://github.com/BrainJS/brain.js) provides neural networks in JavaScript.
 
 ## Tools
 
