@@ -392,6 +392,7 @@ developing beautiful hybrid mobile apps.
 ## Desktop
 
 * [electron](https://github.com/atom/electron) is across-platform desktop application shell by github.
+* [muon](https://github.com/brave/muon) is a framework that leverages the full power of Chromium including extensions support, and allows you to build browsers and browser like applications with HTML, CSS, and JavaScript.
 * [nativefier](https://github.com/jiahaog/nativefier) wraps any web page natively without even thinking, across Windows, OSX and Linux.
 * [electron-packager](https://github.com/maxogden/electron-packager) packages and distributes your electron app in OS executables (.app) via JS or CLI.
 * [menubar](https://github.com/maxogden/menubar) is a high level way to create menubar desktop applications with electron.
