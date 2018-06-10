@@ -235,6 +235,8 @@ developing beautiful hybrid mobile apps.
 * [loadable-components](https://github.com/thejameskyle/react-loadable) makes React code splitting easy.
 * [react-loadable](https://github.com/thejameskyle/react-loadable) is a higher order component for loading components with promises.
 * [react-perimeter](https://github.com/aweary/react-perimeter) creates an invisible perimeter around an element and respond when its breached.
+* [react-scrolllock](https://jossmac.github.io/react-scrolllock) prevents scroll on body.
+* [why-did-you-update](https://github.com/garbles/why-did-you-update) puts your console on blast when React is making unnecessary updates.
 
 #### React.Routing
 
@@ -250,13 +252,12 @@ developing beautiful hybrid mobile apps.
 * [reactable](https://github.com/glittershark/reactable) provides fast, flexible, and simple data tables.
 * [react-select](https://deploy-preview-2289--react-select.netlify.com/home) is a flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete and async support.
 
-#### React.Components
+#### React.Meta-Components
 
 * [boron](https://github.com/yuanyan/boron) is a collection of dialog animations with React.js.
 * [react-tween-state](https://github.com/chenglou/react-tween-state) is a tweening solution for React.js.
 * [react-virtualized]( https://bvaughn.github.io/react-virtualized/) provides React components for efficiently rendering large lists and tabular data.
 * [react-spring](https://github.com/drcmda/react-spring) is helping react-motion and animated to become best friends.
-* [why-did-you-update](https://github.com/garbles/why-did-you-update) puts your console on blast when React is making unnecessary updates.
 * [react-game-kit](https://github.com/FormidableLabs/react-game-kit) is a component library for making games with React & React Native.
 * [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) is a set of higher-order components to turn any list into an animated, touch-friendly, sortable list. 
 * [react-draggable](https://github.com/mzabriskie/react-draggable) is a draggable component.
