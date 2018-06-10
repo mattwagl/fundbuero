@@ -245,6 +245,13 @@ developing beautiful hybrid mobile apps.
 * [Animated page transitions with React Router 4, ReactTransitionGroup and Animated](https://hackernoon.com/animated-page-transitions-with-react-router-4-reacttransitiongroup-and-animated-1ca17bd97a1a) is an article by Martin Haagensli about animating routes.
 * [react-router-transition](https://github.com/maisano/react-router-transition) are transitions built for react-router, powered by react-motion.
 
+#### React.Interactions
+
+* [react-draggable](https://github.com/mzabriskie/react-draggable) is a draggable component.
+* [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) provides beautiful, accessible drag and drop for lists.
+* [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) is a set of higher-order components to turn any list into an animated, touch-friendly, sortable list. 
+* [react-with-gesture](https://github.com/drcmda/react-with-gesture) is a little helper for component-tied mouse/touch gestures.
+
 #### React.UI-Components
 
 * [belle](https://github.com/nikgraf/belle) is a collection of configurable React Components.
@@ -260,9 +267,6 @@ developing beautiful hybrid mobile apps.
 * [react-virtualized]( https://bvaughn.github.io/react-virtualized/) provides React components for efficiently rendering large lists and tabular data.
 * [react-spring](https://github.com/drcmda/react-spring) is helping react-motion and animated to become best friends.
 * [react-game-kit](https://github.com/FormidableLabs/react-game-kit) is a component library for making games with React & React Native.
-* [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) is a set of higher-order components to turn any list into an animated, touch-friendly, sortable list. 
-* [react-draggable](https://github.com/mzabriskie/react-draggable) is a draggable component.
-* [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) provides beautiful, accessible drag and drop for lists.
 * [downshift](https://github.com/paypal/downshift) provides primitives to build simple, flexible, WAI-ARIA compliant React autocomplete/dropdown/select/combobox components.
 * [react-content-loader](http://danilowoz.com/react-content-loader/) uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded.
 
