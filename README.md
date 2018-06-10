@@ -294,6 +294,11 @@ developing beautiful hybrid mobile apps.
 * [ladda](https://github.com/ladda-js/ladda) is a JavaScript data fetching layer with caching.
 * [sheetsee.js](http://jlord.us/sheetsee.js/) is a client-side library for connecting Google Spreadsheets to a website and visualizing the information in tables and maps.
 
+### Static site generators
+
+* [gatsby](https://github.com/gatsbyjs/gatsby) is a blazing fast static site generator for React.
+* [react-static](https://github.com/nozzle/react-static) is a progressive static site generator for React.
+
 ### Hacks & Tricks
 
 * [Preventing body scroll for modals in iOS](https://benfrain.com/preventing-body-scroll-for-modals-in-ios/)
