@@ -185,6 +185,7 @@ developing beautiful hybrid mobile apps.
 * [Labella.js](https://github.com/twitter/labella.js) enables placing labels on a timeline without overlap.
 * [nivo](https://github.com/plouc/nivo) provides a rich set of dataviz components, built on top of d3 and React.
 * [vx](https://github.com/hshoff/vx) react + d3 = vx | visualization components.
+* [sparkline](https://github.com/fnando/sparkline) generate SVG sparklines with JavaScript without any external dependency.
 
 ### Physics
 
