@@ -192,6 +192,12 @@ developing beautiful hybrid mobile apps.
 * [riot.js](https://github.com/muut/riotjs) is a React-like, 3.5KB user interface library.
 * [hyperHTML](https://github.com/WebReflection/hyperHTML) is a fast & light virtual DOM alternative. 
 
+### Design Systems
+
+* [seek-style-guide/](http://seek-oss.github.io/seek-style-guide/) is the living style guide for SEEK, powered by React, webpack, CSS Modules and Less. 
+* [gestalt](https://github.com/pinterest/gestalt) is a set of components that supports Pinterest’s design language. 
+* [carbon-design-system](https://github.com/carbon-design-system) is the design system for IBM Cloud products.
+
 ### React
 
 * [nwb](https://github.com/insin/nwb) provides a toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration.
