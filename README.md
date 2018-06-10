@@ -163,18 +163,18 @@ developing beautiful hybrid mobile apps.
 ### Animation/Transitions
 
 * [Velocity.js](http://julian.com/research/velocity/) is an accelerated animation engine with the same API as jQuery's $.animate().
+  * [velocity-react](https://github.com/twitter-fabric/velocity-react) React components for Velocity.js.
+* [anime.js](https://github.com/juliangarnier/anime) is a flexible yet lightweight JavaScript animation library.
+* [popmotion](https://popmotion.io/) is a functional, flexible JavaScript motion library.
+  * [popmotion/pose](https://popmotion.io/pose/) is a declarative motion system for HTML, SVG, React & React Native. 
+* [mo.js](https://github.com/legomushroom/mojs) is a motion graphics toolbelt for the web.
 * [Rebound.js](https://github.com/facebook/rebound-js) provides spring dynamics in JavaScript.
 * [reaction-motion](https://github.com/chenglou/react-motion) is a spring that solves your animation problems.
-* [velocity-react](https://github.com/twitter-fabric/velocity-react) React components for Velocity.js.
 * [GSAP](http://greensock.com/gsap) is a full-blown animation and tweening engine that also supports timelines.
 * [dynamics.js](https://github.com/michaelvillar/dynamics.js) lets you create physics-based animations.
-* [anime.js](https://github.com/juliangarnier/anime) is a flexible yet lightweight JavaScript animation library..
 * [raf](https://github.com/chrisdickinson/raf) is a requestAnimationFrame polyfill.
-* [mo.js](https://github.com/legomushroom/mojs) is a motion graphics toolbelt for the web.
 * [loaders](http://connoratherton.com/loaders) "Delightful and performance-focused pure css loading animations."
 * [granim.js](https://github.com/sarcadass/granim.js) creates fluid and interactive gradients animations.
-* [flubber](https://github.com/veltman/flubber) provides tools for smoother shape animations.
-
 
 ### Charting & Graphing
 
