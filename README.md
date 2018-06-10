@@ -169,6 +169,7 @@ developing beautiful hybrid mobile apps.
   * [popmotion/pose](https://popmotion.io/pose/) is a declarative motion system for HTML, SVG, React & React Native. 
 * [mo.js](https://github.com/legomushroom/mojs) is a motion graphics toolbelt for the web.
 * [Rebound.js](https://github.com/facebook/rebound-js) provides spring dynamics in JavaScript.
+* [react-spring](https://github.com/drcmda/react-spring) is helping react-motion and animated to become best friends.
 * [reaction-motion](https://github.com/chenglou/react-motion) is a spring that solves your animation problems.
 * [GSAP](http://greensock.com/gsap) is a full-blown animation and tweening engine that also supports timelines.
 * [dynamics.js](https://github.com/michaelvillar/dynamics.js) lets you create physics-based animations.
@@ -244,7 +245,7 @@ developing beautiful hybrid mobile apps.
 * [belle](https://github.com/nikgraf/belle) is a collection of configurable React Components.
 * [react-date-range](https://github.com/Adphorus/react-date-range) is a React component for choosing dates and date ranges.
 * [react-virtualized]( https://bvaughn.github.io/react-virtualized/) provides React components for efficiently rendering large lists and tabular data.
-* [react-motion](https://github.com/chenglou/react-motion) is a spring that solves your animation problems.
+* [react-spring](https://github.com/drcmda/react-spring) is helping react-motion and animated to become best friends.
 * [react-router-transition](https://github.com/maisano/react-router-transition) are transitions built for react-router, powered by react-motion.
 * [why-did-you-update](https://github.com/garbles/why-did-you-update) puts your console on blast when React is making unnecessary updates.
 * [react-dates](https://github.com/airbnb/react-dates) is an accessible, easily internationalizable, mobile-friendly datepicker library for the web
