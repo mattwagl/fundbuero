@@ -38,6 +38,9 @@ fundbüro is my personal collection of interesting things from the web.
 
 * [highland.js](https://github.com/caolan/highland) provides High-level streams library for Node.js and the browser.
 * [pull-stream](https://github.com/pull-stream/pull-stream) provides a minimal streams.
+* [pump](https://github.com/mafintosh/pump) pipes streams together and closes all of them if one of them closes.
+* [pumpify](https://github.com/mafintosh/pumpify) combines an array of streams into a single duplex stream.
+* [mississippi](https://github.com/mafintosh/pumpify) is a collection of useful stream utility modules for writing better code using streams.
 
 ## Frontend
 
