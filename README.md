@@ -237,6 +237,7 @@ developing beautiful hybrid mobile apps.
 * [react-perimeter](https://github.com/aweary/react-perimeter) creates an invisible perimeter around an element and respond when its breached.
 * [react-scrolllock](https://jossmac.github.io/react-scrolllock) prevents scroll on body.
 * [why-did-you-update](https://github.com/garbles/why-did-you-update) puts your console on blast when React is making unnecessary updates.
+* [exenv](https://github.com/JedWatson/exenv) provides React's ExecutionEnvironment module extracted for use in other packages & components.
 
 #### React.Routing
 
