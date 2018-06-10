@@ -216,7 +216,6 @@ developing beautiful hybrid mobile apps.
 * [Wrapping DOM libs](https://github.com/ryanflorence/react-training/blob/gh-pages/lessons/05-wrapping-dom-libs.md) explains how to make React work with traditional DOM libs.
 * [react-awesome-components](https://github.com/brillout/awesome-react-components/) is catalog of React components.
 * [react-sketchapp](https://github.com/airbnb/react-sketchapp/) renders React components to Sketch.
-* [real-world-react](https://github.com/jeromedalbert/real-world-react) collects real world React apps and their open source codebases for developers to learn from .
 
 #### React.Concepts
 
@@ -237,20 +236,24 @@ developing beautiful hybrid mobile apps.
 
 * [react-router](https://github.com/ReactTraining/react-router) provides declarative routing for React.
 * [Animated page transitions with React Router 4, ReactTransitionGroup and Animated](https://hackernoon.com/animated-page-transitions-with-react-router-4-reacttransitiongroup-and-animated-1ca17bd97a1a) is an article by Martin Haagensli about animating routes.
+* [react-router-transition](https://github.com/maisano/react-router-transition) are transitions built for react-router, powered by react-motion.
+
+#### React.UI-Components
+
+* [belle](https://github.com/nikgraf/belle) is a collection of configurable React Components.
+* [react-dates](https://github.com/airbnb/react-dates) is an accessible, easily internationalizable, mobile-friendly datepicker library for the web
+* [react-date-range](https://github.com/Adphorus/react-date-range) is a React component for choosing dates and date ranges.
+* [reactable](https://github.com/glittershark/reactable) provides fast, flexible, and simple data tables.
+* [react-select](https://deploy-preview-2289--react-select.netlify.com/home) is a flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete and async support.
 
 #### React.Components
 
 * [boron](https://github.com/yuanyan/boron) is a collection of dialog animations with React.js.
 * [react-tween-state](https://github.com/chenglou/react-tween-state) is a tweening solution for React.js.
-* [belle](https://github.com/nikgraf/belle) is a collection of configurable React Components.
-* [react-date-range](https://github.com/Adphorus/react-date-range) is a React component for choosing dates and date ranges.
 * [react-virtualized]( https://bvaughn.github.io/react-virtualized/) provides React components for efficiently rendering large lists and tabular data.
 * [react-spring](https://github.com/drcmda/react-spring) is helping react-motion and animated to become best friends.
-* [react-router-transition](https://github.com/maisano/react-router-transition) are transitions built for react-router, powered by react-motion.
 * [why-did-you-update](https://github.com/garbles/why-did-you-update) puts your console on blast when React is making unnecessary updates.
-* [react-dates](https://github.com/airbnb/react-dates) is an accessible, easily internationalizable, mobile-friendly datepicker library for the web
 * [react-game-kit](https://github.com/FormidableLabs/react-game-kit) is a component library for making games with React & React Native.
-* [reactable](https://github.com/glittershark/reactable) provides fast, flexible, and simple data tables.
 * [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) is a set of higher-order components to turn any list into an animated, touch-friendly, sortable list. 
 * [react-draggable](https://github.com/mzabriskie/react-draggable) is a draggable component.
 * [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) provides beautiful, accessible drag and drop for lists.
