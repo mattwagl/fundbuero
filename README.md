@@ -66,7 +66,8 @@ fundbüro is my personal collection of interesting things from the web.
 * [glamorous](https://github.com/paypal/glamorous) provides React component styling solved with an elegant (inspired) API, small footprint, and great performance (via glamor).
 * [styled-components](https://github.com/styled-components/styled-components) provide visual primitives for the component age.
 * [jss](http://cssinjs.org/) is an abstraction over CSS.
-
+* [react-with-styles](https://github.com/airbnb/react-with-styles) let's you use CSS-in-JavaScript with themes for React without being tightly coupled to one implementation.
+ 
 ### DOM
 
 * [sprint](https://github.com/bendc/sprint) is a tiny, lightning fast jQuery-like library for modern browsers.
