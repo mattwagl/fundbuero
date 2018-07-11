@@ -159,7 +159,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [okayNav](https://github.com/VPenkov/okayNav) is a responsive navigation plugin für jQuery.
 * [bootstrap-easy-sidebar](https://github.com/GroundXaero/bootstrap-easy-sidebar) is sidebar for bootstrap designed around theme integration and flexibility.
 
-### Mobile
+### Mobile UI Components
 
 * [ionic](http://ionicframework.com/) is a beautiful, open source front-end SDK for developing amazing mobile apps with web technologies.
 * [TouchstoneJS](http://touchstonejs.io/) is a React.js powered UI framework for
@@ -214,6 +214,11 @@ developing beautiful hybrid mobile apps.
 * [seek-style-guide/](http://seek-oss.github.io/seek-style-guide/) is the living style guide for SEEK, powered by React, webpack, CSS Modules and Less. 
 * [gestalt](https://github.com/pinterest/gestalt) is a set of components that supports Pinterest’s design language. 
 * [carbon-design-system](https://github.com/carbon-design-system) is the design system for IBM Cloud products.
+
+### Universal Rendering 
+
+* [Next.js](https://github.com/zeit/next.js/) is a lightweight framework for static and server‑rendered applications. 
+* [razzle](https://github.com/jaredpalmer/razzle) enables server-rendered universal JavaScript applications with no configuration.
 
 ### React
 
