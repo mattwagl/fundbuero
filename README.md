@@ -166,7 +166,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [TouchstoneJS](http://touchstonejs.io/) is a React.js powered UI framework for
 developing beautiful hybrid mobile apps.
 
-### Animation/Transitions
+### Animation
 
 * [Velocity.js](http://julian.com/research/velocity/) is an accelerated animation engine with the same API as jQuery's $.animate().
   * [velocity-react](https://github.com/twitter-fabric/velocity-react) React components for Velocity.js.
@@ -175,8 +175,6 @@ developing beautiful hybrid mobile apps.
   * [popmotion/pose](https://popmotion.io/pose/) is a declarative motion system for HTML, SVG, React & React Native. 
 * [mo.js](https://github.com/legomushroom/mojs) is a motion graphics toolbelt for the web.
 * [Rebound.js](https://github.com/facebook/rebound-js) provides spring dynamics in JavaScript.
-* [react-spring](https://github.com/drcmda/react-spring) is helping react-motion and animated to become best friends.
-* [reaction-motion](https://github.com/chenglou/react-motion) is a spring that solves your animation problems.
 * [GSAP](http://greensock.com/gsap) is a full-blown animation and tweening engine that also supports timelines.
 * [dynamics.js](https://github.com/michaelvillar/dynamics.js) lets you create physics-based animations.
 * [raf](https://github.com/chrisdickinson/raf) is a requestAnimationFrame polyfill.
@@ -267,15 +265,23 @@ developing beautiful hybrid mobile apps.
 * [reactable](https://github.com/glittershark/reactable) provides fast, flexible, and simple data tables.
 * [react-select](https://deploy-preview-2289--react-select.netlify.com/home) is a flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete and async support.
 
+
+#### React.Animation
+
+* [react-motion](https://github.com/chenglou/react-motion) is a spring that solves your animation problems.
+* [react-spring](https://github.com/drcmda/react-spring) is helping react-motion and animated to become best friends.
+
 #### React.Meta-Components
 
 * [boron](https://github.com/yuanyan/boron) is a collection of dialog animations with React.js.
-* [react-tween-state](https://github.com/chenglou/react-tween-state) is a tweening solution for React.js.
-* [react-virtualized]( https://bvaughn.github.io/react-virtualized/) provides React components for efficiently rendering large lists and tabular data.
-* [react-spring](https://github.com/drcmda/react-spring) is helping react-motion and animated to become best friends.
 * [react-game-kit](https://github.com/FormidableLabs/react-game-kit) is a component library for making games with React & React Native.
 * [downshift](https://github.com/paypal/downshift) provides primitives to build simple, flexible, WAI-ARIA compliant React autocomplete/dropdown/select/combobox components.
 * [react-content-loader](http://danilowoz.com/react-content-loader/) uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded.
+
+#### React.Windowing
+
+* [react-virtualized]( https://bvaughn.github.io/react-virtualized/) provides React components for efficiently rendering large lists and tabular data.
+* [react-window](https://github.com/bvaughn/react-window/) provides React components for efficiently rendering large lists and tabular data.
 
 #### React.Forms
 
