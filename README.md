@@ -418,8 +418,12 @@ developing beautiful hybrid mobile apps.
 ## IoT
 * [awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) is a curated list of awesome open source IoT frameworks, libraries and software.
 
-## WebRTC / P2P
+## P2P / WebRTC 
 
+* [hypercore](https://github.com/mafintosh/hypercore) is a secure, distributed append-only log.
+* [hyperdrive](https://github.com/mafintosh/hyperdrive) is a secure, real time distributed file system.
+* [hypertrie](https://github.com/mafintosh/hypertrie) is a distributed single writer key/value store.
+* [dat](https://datproject.org/) is a distributed data community.
 * [simple-peer](https://github.com/feross/simple-peer) provides simple WebRTC video/voice and data channels for the browser and Node.js.
 
 
