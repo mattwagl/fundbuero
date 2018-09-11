@@ -13,6 +13,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [math-as-code](https://github.com/Jam3/math-as-code) is a cheat-sheet for mathematical notation in code form.
 * [Write tests. Not too many. Mostly integration.](https://www.youtube.com/watch?v=Fha2bVoC8SE&list=PLZ66c9_z3umNSrKSb5cmpxdXZcIPNvKGw) is a talk by Kent C. Dodds about testing best practices.
 * [Understanding the Almighty Reducer](https://css-tricks.com/understanding-the-almighty-reducer/) is an article by Sarah Drasner that beautifully explains the `reduce` function.
+* [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1) is an article by Antin Harasymiv that provides a peek under of the Google Photos Web UI.
 
 ## Base libs
 
