@@ -301,6 +301,7 @@ developing beautiful hybrid mobile apps.
 * [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) is the official Semantic-UI-React integration.
 * [arwes](https://github.com/romelperez/arwes) is a futuristic sci-fi and cyberpunk GUI framework for web apps.
 * [reakit](https://github.com/reakit/reakit) is a toolkit for building interactive UIs with React.
+* [evergreen](https://github.com/segmentio/evergreen) is a React UI Framework by Segment.
 
 https://github.com/reakit/reakit
 #### React.Performance
