@@ -300,7 +300,9 @@ developing beautiful hybrid mobile apps.
 * [blueprint](http://blueprintjs.com/) is a React-based UI toolkit for the web.
 * [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) is the official Semantic-UI-React integration.
 * [arwes](https://github.com/romelperez/arwes) is a futuristic sci-fi and cyberpunk GUI framework for web apps.
+* [reakit](https://github.com/reakit/reakit) is a toolkit for building interactive UIs with React.
 
+https://github.com/reakit/reakit
 #### React.Performance
 
 * [Creating More Efficient React Views with Windowing](https://www.youtube.com/watch?v=t4tuhg7b50I&app=desktop) is a talk by Brian Vaughn about performance optimizations and the windowing technique.
