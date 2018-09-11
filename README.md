@@ -198,9 +198,10 @@ developing beautiful hybrid mobile apps.
 * [TremulaJS](https://github.com/garris/TremulaJS) Picture Streams + Momentum Engine + Bézier Paths + Multi-Device.
 * [Proton](https://github.com/a-jie/Proton) is a particle engine for JavaScript.
 
-### Drawing and Rendering frameworks
+### Gaming, Drawing and Creative Coding
 
-* [Pixi.js](https://github.com/pixijs/pixi.js) is a super fast HTML 5 2D rendering engine that uses webGL with canvas fallback
+* [Pixi.js](https://github.com/pixijs/pixi.js) is a super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
+* [pts](https://github.com/williamngan/pts) is a library for visualization and creative-coding.
 
 ### UI libraries and frameworks
 
