@@ -407,6 +407,7 @@ https://github.com/reakit/reakit
 * [Spectacle](https://github.com/FormidableLabs/spectacle) is a React based Presentation Library.
 * [decktape](https://github.com/astefanutti/decktape) is an PDF exporter for HTML presentation frameworks.
 * [lagom.js](https://github.com/reimertz/lagom) is a simplistic presentation generator.
+* [mdx-deck](https://github.com/jxnblk/mdx-deck) enables MDX-based presentation decks.
 
 ## Mapping
 
