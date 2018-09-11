@@ -195,6 +195,7 @@ developing beautiful hybrid mobile apps.
 ### Physics
 
 * [TremulaJS](https://github.com/garris/TremulaJS) Picture Streams + Momentum Engine + Bézier Paths + Multi-Device.
+* [Proton](https://github.com/a-jie/Proton) is a particle engine for JavaScript.
 
 ### Drawing and Rendering frameworks
 
