@@ -280,6 +280,7 @@ developing beautiful hybrid mobile apps.
 * [react-game-kit](https://github.com/FormidableLabs/react-game-kit) is a component library for making games with React & React Native.
 * [downshift](https://github.com/paypal/downshift) provides primitives to build simple, flexible, WAI-ARIA compliant React autocomplete/dropdown/select/combobox components.
 * [react-content-loader](http://danilowoz.com/react-content-loader/) uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded.
+* [react-powerplug](https://github.com/renatorib/react-powerplug) is a set of pluggable renderless components and helpers that provides different types of state and logics so you can use with your dumb components. 
 
 #### React.Windowing
 
