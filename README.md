@@ -48,6 +48,7 @@ fundbüro is my personal collection of interesting things from the web.
 ### Dates & Time
 
 * [moment.js](https://github.com/moment/moment/) is a JavaScript date library for parsing, validating, manipulating, and formatting dates.
+* [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) provides a list of date-fns or native functions which you can use to replace moment.js.
 * [date-fns](https://github.com/date-fns/date-fns) provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js.
 * [Day.js](https://github.com/iamkun/dayjs) is a 2KB immutable date library alternative to Moment.js with the same modern API.
 
