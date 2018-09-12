@@ -208,7 +208,10 @@ developing beautiful hybrid mobile apps.
 ### Gaming, Drawing and Creative Coding
 
 * [Pixi.js](https://github.com/pixijs/pixi.js) is a super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
+* [p5.js](https://github.com/processing/p5.js) is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing.
 * [pts](https://github.com/williamngan/pts) is a library for visualization and creative-coding.
+* [canvas-sketch](https://github.com/mattdesl/canvas-sketch) is a (beta) framework for making generative artwork in JavaScript and the browser.
+
 
 ### UI libraries and frameworks
 
