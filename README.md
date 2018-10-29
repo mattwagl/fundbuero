@@ -207,6 +207,7 @@ developing beautiful hybrid mobile apps.
 * [nivo](https://github.com/plouc/nivo) provides a rich set of dataviz components, built on top of d3 and React.
 * [vx](https://github.com/hshoff/vx) react + d3 = vx | visualization components.
 * [sparkline](https://github.com/fnando/sparkline) generate SVG sparklines with JavaScript without any external dependency.
+* [muze](https://github.com/chartshq/muze) provides composable data visualisation library for web with a data-first approach.
 
 ### Physics
 
