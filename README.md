@@ -265,6 +265,7 @@ developing beautiful hybrid mobile apps.
 * [why-did-you-update](https://github.com/garbles/why-did-you-update) puts your console on blast when React is making unnecessary updates.
 * [exenv](https://github.com/JedWatson/exenv) provides React's ExecutionEnvironment module extracted for use in other packages & components.
 * [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) provides custom scrollbars as React component.
+* [libreact](https://github.com/streamich/libreact) is a collection of useful React components.
 
 #### React.Routing
 
