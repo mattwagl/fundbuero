@@ -334,6 +334,7 @@ https://github.com/reakit/reakit
 * [freezer](https://github.com/arqex/freezer) an immutable tree data structure that is always updated from the root, making easier to think in a reactive way.
 * [scour](https://github.com/rstacruz/scour) is a general-purpose library for dealing with JSON trees.
 * [baobab](https://github.com/Yomguithereal/baobab) is a JavaScript persistent and optionally immutable data tree with cursors.
+* [immer](https://github.com/mweststrate/immer) creates the next immutable state by mutating the current one.
 
 ### Data Fetching
 
