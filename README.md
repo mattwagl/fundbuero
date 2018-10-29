@@ -327,8 +327,9 @@ developing beautiful hybrid mobile apps.
 * [arwes](https://github.com/romelperez/arwes) is a futuristic sci-fi and cyberpunk GUI framework for web apps.
 * [reakit](https://github.com/reakit/reakit) is a toolkit for building interactive UIs with React.
 * [evergreen](https://github.com/segmentio/evergreen) is a React UI Framework by Segment.
+* [reakit](https://github.com/reakit/reakit) is a toolkit for building really interactive UIs with React.
+* [react-ui-kits](https://github.com/lucianomlima/react-ui-kits) is a list of UI Kits available for React and React Native.
 
-https://github.com/reakit/reakit
 #### React.Performance
 
 * [Creating More Efficient React Views with Windowing](https://www.youtube.com/watch?v=t4tuhg7b50I&app=desktop) is a talk by Brian Vaughn about performance optimizations and the windowing technique.
