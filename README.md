@@ -15,6 +15,14 @@ fundbüro is my personal collection of interesting things from the web.
 * [Understanding the Almighty Reducer](https://css-tricks.com/understanding-the-almighty-reducer/) is an article by Sarah Drasner that beautifully explains the `reduce` function.
 * [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1) is an article by Antin Harasymiv that provides a peek under of the Google Photos Web UI.
 
+## Architecture
+
+### Domain-Driven Design
+
+* [Lose Koppelung durch Messaging und Domain Events – Teil 1](https://ricofritzsche.wordpress.com/2013/08/04/lose-koppelung-durch-messaging-und-domain-events-teil-1/).
+* [Lose Koppelung durch Messaging und Domain Events – Teil 2](https://ricofritzsche.wordpress.com/2013/08/06/lose-koppelung-durch-messaging-und-domain-events-teil-2/).
+
+
 ## Base libs
 
 ### General helpers
