@@ -371,10 +371,11 @@ https://github.com/reakit/reakit
 
 * [hygen](https://github.com/jondot/hygen) is a simple, fast, and scalable code generator that lives in your project.
 
-## Frontend Backend Communication
+## Frontend-Backend-Communication
 
 * [socket.io](http://socket.io/) enables real-time bidirectional event-based communication.
 * [oboe.js](https://github.com/jimhigson/oboe.js) enables streaming JSON from server to client.
+* [aedes](https://github.com/mcollina/aedes) is a barebone MQTT broker that can run on any stream server, the node way.
 
 ## Data
 
