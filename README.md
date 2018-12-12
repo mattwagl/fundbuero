@@ -248,6 +248,11 @@ developing beautiful hybrid mobile apps.
 * [react-awesome-components](https://github.com/brillout/awesome-react-components/) is catalog of React components.
 * [react-sketchapp](https://github.com/airbnb/react-sketchapp/) renders React components to Sketch.
 
+#### React.Basics
+
+* [Interarctive React lifecycle diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) by [github.com/wojtekmaj](https://github.com/wojtekmaj)
+* [Beautfiul React lifecycle diagram](https://twitter.com/dceddia/status/999670221165203457) by [@dceddia](https://twitter.com/dceddia)
+
 #### React.Concepts
 
 * [server-side-rendering](https://github.com/dimaip/server-side-rendering) is an interactive guide to server-side rendering with Webpack, React, React.
@@ -289,7 +294,6 @@ developing beautiful hybrid mobile apps.
 * [react-date-range](https://github.com/Adphorus/react-date-range) is a React component for choosing dates and date ranges.
 * [reactable](https://github.com/glittershark/reactable) provides fast, flexible, and simple data tables.
 * [react-select](https://deploy-preview-2289--react-select.netlify.com/home) is a flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete and async support.
-
 
 #### React.Animation
 
