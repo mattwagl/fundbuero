@@ -393,11 +393,17 @@ developing beautiful hybrid mobile apps.
 
 ## Building and Bundling
 
+### Bundler & Compiler
+
 * [webpack](https://github.com/webpack/webpack) is a bundler for JavaScript and friends.
-* [rollup](https://github.com/rollup/rollup) is a module bundler for JavaScript.
-* [browserify](https://github.com/substack/node-browserify) provides browser-side require() the node.js way.
+* [rollup](https://github.com/rollup/rollup) is a module bundler for JavaScript for libraries.
+* [Parcel.js](https://parceljs.org/) is a bundler focused on web applications.
+* [browserify](https://github.com/substack/node-browserify) is a bundler focused on Node.js compatibility.
 * [budo](https://github.com/mattdesl/budo) is a dev server for rapid prototyping.
 * [bankai](https://github.com/yoshuawuyts/bankai) is a streaming {js,html,css} compiler.
+
+### Optimize & Minify
+
 * [autoprefixer](https://github.com/postcss/autoprefixer) parses CSS and adds vendor prefixes to rules.
 * [uncss](https://github.com/giakki/uncss) removes unused styles from CSS.
 * [imagemin](https://github.com/imagemin/imagemin) minifies PNG, JPEG, GIF and SVG images.
@@ -406,6 +412,12 @@ developing beautiful hybrid mobile apps.
 
 * [lqip-loader](https://github.com/zouhir/lqip-loader) provides low quality image placeholders (LQIP) for webpack.
 * [error-overlay-webpack-plugin](https://github.com/smooth-code/error-overlay-webpack-plugin) displays an error overlay in your application.
+
+#### webpack.Simplifier
+
+* [webpack-encore](https://github.com/symfony/webpack-encore) provides a simple but powerful API for processing & compiling assets built around Webpack.
+* [jetpack](https://github.com/KidkArolis/jetpack) is webpack made more convenient.
+
 
 ## Browser Testing & Automation 
 
