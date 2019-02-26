@@ -88,6 +88,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [styled-components](https://github.com/styled-components/styled-components) provide visual primitives for the component age.
 * [jss](http://cssinjs.org/) is an abstraction over CSS.
 * [react-with-styles](https://github.com/airbnb/react-with-styles) let's you use CSS-in-JavaScript with themes for React without being tightly coupled to one implementation.
+* [polished](https://polished.js.org/) provides Sass-style helper functions for writing styles in JavaScript.
  
 ### DOM
 
