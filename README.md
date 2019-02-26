@@ -45,6 +45,11 @@ fundbüro is my personal collection of interesting things from the web.
 * [promise-frites](https://github.com/webPapaya/promise-frites) provides promise utilities.
 * [callbag](https://github.com/staltz/callbag-basics) is a tiny and fast reactive/iterable programming library.
 
+### Rate limiting and queueing
+
+* [deque](https://github.com/petkaantonov/deque) is an extremely fast double-ended queue implementation.
+* [async-sema](https://github.com/zeit/async-sema) is a semaphore using `async` and `await`.
+
 ### Streams
 
 * [highland.js](https://github.com/caolan/highland) provides High-level streams library for Node.js and the browser.
