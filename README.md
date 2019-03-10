@@ -435,6 +435,10 @@ developing beautiful hybrid mobile apps.
 * [pixelmatch](https://github.com/mapbox/pixelmatch) is a small, simple and fast JavaScript pixel-level image comparison library.
 * [sharp](https://github.com/lovell/sharp) provides high performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images.
 
+## Deployment
+
+* [fastlane](https://fastlane.tools/) builds and releases mobile apps.
+
 ## Machine Learning & AI
 
 * [brain.js](https://github.com/BrainJS/brain.js) provides neural networks in JavaScript.
