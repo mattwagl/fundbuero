@@ -11,6 +11,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [A brief history of prototypes](https://github.com/zkat/talks/blob/master/2017-09-nordicjs/presentation.pdf) is talk by Katerina Marchá about the origins of prototype-based programming.
 * [Do you want a better understanding of Buffer in Node.js?](https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8) is an article by Justice Mba that explains what Buffers are.
 * [math-as-code](https://github.com/Jam3/math-as-code) is a cheat-sheet for mathematical notation in code form.
+* [blog.yoshuawuyts.com/graphs](https://blog.yoshuawuyts.com/graphs/) is an article by Yoshua Wuyts about the different types of graphs.
 * [Write tests. Not too many. Mostly integration.](https://www.youtube.com/watch?v=Fha2bVoC8SE&list=PLZ66c9_z3umNSrKSb5cmpxdXZcIPNvKGw) is a talk by Kent C. Dodds about testing best practices.
 * [Understanding the Almighty Reducer](https://css-tricks.com/understanding-the-almighty-reducer/) is an article by Sarah Drasner that beautifully explains the `reduce` function.
 * [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1) is an article by Antin Harasymiv that provides a peek under of the Google Photos Web UI.
