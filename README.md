@@ -352,6 +352,10 @@ developing beautiful hybrid mobile apps.
 
 * [enzyme](https://github.com/airbnb/enzyme/) provides JavaScript Testing utilities for React.
 
+#### React.RealWorldApplications
+
+* [dpla-frontend](https://github.com/dpla/dpla-frontend): React application for the Digital Public Library of America website.
+
 ### Stores & State Container
 
 * [mobx](https://github.com/mobxjs/mobx) provides simple, scalable state management. .
