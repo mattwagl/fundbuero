@@ -35,7 +35,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [just](https://github.com/angus-c/just) is a library of dependency-free utilities that do just do one thing.
 * [superstruct](https://github.com/ianstormtaylor/superstruct) provides a simple and composable way to validate data in JavaScript. 
 * [dlv](https://github.com/developit/dlv) provides safe deep property access in 128 bytes. See also [idx](https://github.com/facebookincubator/idx) or [lodash/get](https://lodash.com/docs#get).
-
+* [emuto](https://github.com/kantord/emuto) transforms and queries data structures like JSON, text, csv, tsv, and dsv.
 
 ### Dealing with async code
 
