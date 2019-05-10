@@ -267,7 +267,7 @@ developing beautiful hybrid mobile apps.
 * [recompose](https://github.com/acdlite/recompose) is a React utility belt for function components and higher-order components.
 * [react-helmet](https://github.com/nfl/react-helmet) is a document head manager for React.
 * [repng](https://github.com/jxnblk/repng) converts React components to PNG.
-* [loadable-components](https://github.com/thejameskyle/react-loadable) makes React code splitting easy.
+* [loadable-components](https://github.com/smooth-code/loadable-components) is React code splitting made easy.
 * [react-loadable](https://github.com/thejameskyle/react-loadable) is a higher order component for loading components with promises.
 * [react-perimeter](https://github.com/aweary/react-perimeter) creates an invisible perimeter around an element and respond when its breached.
 * [react-scrolllock](https://jossmac.github.io/react-scrolllock) prevents scroll on body.
