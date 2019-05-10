@@ -477,6 +477,7 @@ developing beautiful hybrid mobile apps.
 * [muon](https://github.com/brave/muon) is a framework that leverages the full power of Chromium including extensions support, and allows you to build browsers and browser like applications with HTML, CSS, and JavaScript.
 * [nativefier](https://github.com/jiahaog/nativefier) wraps any web page natively without even thinking, across Windows, OSX and Linux.
 * [electron-packager](https://github.com/maxogden/electron-packager) packages and distributes your electron app in OS executables (.app) via JS or CLI.
+* [electron-forge](https://github.com/electron-userland/electron-forge) is a complete tool for creating, publishing, and installing modern Electron applications.
 * [menubar](https://github.com/maxogden/menubar) is a high level way to create menubar desktop applications with electron.
 * [nw.js](https://github.com/nwjs/nw.js) "Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies."
 
