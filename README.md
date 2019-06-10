@@ -32,6 +32,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [i18next](http://i18next.com/) is a full-featured i18n javascript library for translating your webapplication.
 * [strman](https://github.com/dleitee/strman) is a JavaScript string manipulation library without npm dependencies.
 * [date-fns](https://github.com/date-fns/date-fns) is a modern JavaScript date utility library.
+* [tinydate](https://github.com/lukeed/tinydate) is a tiny (340B) reusable date formatter. Extremely fast! 
 * [common-tags](https://github.com/declandewet/common-tags) provide useful template literal tags for dealing with strings in ES2015+.
 * [just](https://github.com/angus-c/just) is a library of dependency-free utilities that do just do one thing.
 * [superstruct](https://github.com/ianstormtaylor/superstruct) provides a simple and composable way to validate data in JavaScript. 
