@@ -86,6 +86,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [tachyons](https://github.com/tachyons-css/tachyons/) provides Functional CSS for humans.
 * [tailwindcss](https://github.com/tailwindcss/tailwindcss) is a utility-first CSS framework for rapid UI development.
 * [css-gridish](https://github.com/IBM/css-gridish) automatically builds your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension.
+* [Pure CSS scrolling shadows with background-attachment: local](http://lea.verou.me/2012/04/background-attachment-local/) is an article by Ley Verou about creating scroll shadows with CSS only.
 
 ### Styling with JS
 
