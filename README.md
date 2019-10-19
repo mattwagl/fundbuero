@@ -409,12 +409,13 @@ developing beautiful hybrid mobile apps.
 * [oboe.js](https://github.com/jimhigson/oboe.js) enables streaming JSON from server to client.
 * [aedes](https://github.com/mcollina/aedes) is a barebone MQTT broker that can run on any stream server, the node way.
 
-## Data
+## Databases
 
 * [sql.js](https://github.com/kripken/sql.js) is SQLite compiled to JavaScript through Emscripten.
 * [PouchDB](https://github.com/pouchdb/pouchdb) is a pocket-sized database.
 * [NeDB](https://github.com/louischatriot/nedb) is a MongoDB compatible datastore written in JavaScript.
 * [Yjs](https://github.com/y-js/yjs) is a framework for real-time p2p shared editing on any data.
+* [Nano-SQL](https://github.com/ClickSimply/Nano-SQL) is a universal database layer for the client, server & mobile devices.
 
 ## Building and Bundling
 
