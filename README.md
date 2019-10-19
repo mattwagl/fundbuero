@@ -393,6 +393,12 @@ developing beautiful hybrid mobile apps.
 * [Codrops: Creative Gooey Effects](http://tympanus.net/Tutorials/SVGLoaderGSAP/index6.html) "A set of examples that use a gooey SVG filter for creating a variety of different effects for all kinds of website components."
 * [Codrops: Loaders](http://tympanus.net/codrops/2015/03/10/creative-gooey-effects/) "Playful loaders using animation with SVG and GSAP."
 
+## Sandboxing
+
+* [How to build a plugin system on the web and also sleep well at night](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/) is an article by the Figma Team how to build a plugin system using Realms.
+* [realms-shim](https://github.com/Agoric/realms-shim) is a spec-compliant shim for Realms TC39 Proposal.
+
+
 ## Automation
 
 * [hygen](https://github.com/jondot/hygen) is a simple, fast, and scalable code generator that lives in your project.
