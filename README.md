@@ -308,7 +308,9 @@ developing beautiful hybrid mobile apps.
 * [react-dates](https://github.com/airbnb/react-dates) is an accessible, easily internationalizable, mobile-friendly datepicker library for the web
 * [react-date-range](https://github.com/Adphorus/react-date-range) is a React component for choosing dates and date ranges.
 * [reactable](https://github.com/glittershark/reactable) provides fast, flexible, and simple data tables.
-* [react-select](https://deploy-preview-2289--react-select.netlify.com/home) is a flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete and async support.
+* [react-select](https://github.com/jedwatson/react-select) is a flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete and async support.
+* [react-laag](https://github.com/everweij/react-laag) provides primitives to build things like tooltips, dropdown menu's and popovers in React
+
 
 #### React.Animation
 
