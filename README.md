@@ -248,6 +248,7 @@ developing beautiful hybrid mobile apps.
 * [choo](https://github.com/yoshuawuyts/choo) is a sturdy 4kb frontend framework.
 * [riot.js](https://github.com/muut/riotjs) is a React-like, 3.5KB user interface library.
 * [hyperHTML](https://github.com/WebReflection/hyperHTML) is a fast & light virtual DOM alternative. 
+* [heresy](https://github.com/WebReflection/heresy) provides React-like Custom Elements via V1 API builtin extends. 
 
 ### Design Systems
 
