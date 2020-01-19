@@ -476,6 +476,8 @@ developing beautiful hybrid mobile apps.
 * [wzrd](https://github.com/maxogden/wzrd) is a super minimal browserify development server.
 * [sizzy](https://sizzy.co/) is a tool for developing responsive websites crazy-fast.
 * [insomnia](https://github.com/getinsomnia/insomnia) is a cross-platform REST client, built on top of Electron.
+* [rclone](https://github.com/rclone/rclone) is rsync for cloud storage.
+
 
 ## Storytelling
 
