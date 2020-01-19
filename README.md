@@ -208,7 +208,7 @@ developing beautiful hybrid mobile apps.
 * [loaders](http://connoratherton.com/loaders) "Delightful and performance-focused pure css loading animations."
 * [granim.js](https://github.com/sarcadass/granim.js) creates fluid and interactive gradients animations.
 
-### Charting & Graphing
+### Charting
 
 * [dc.js](https://github.com/dc-js/dc.js) provides Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js.
 * [epoch](https://github.com/fastly/epoch) is a general purpose, real-time visualization library based on d3.
@@ -221,6 +221,9 @@ developing beautiful hybrid mobile apps.
 * [muze](https://github.com/chartshq/muze) provides composable data visualisation library for web with a data-first approach.
 * [vega & vega-lite](https://vega.github.io/) Vega is a declarative format for creating, saving, and sharing visualization designs. With Vega, visualizations are described in JSON, and generate interactive views using either HTML5 Canvas or SVG.
 
+### Graphs and Flows
+
+* [flowy](https://github.com/alyssaxuu/flowy) is a minimal javascript library to create flowcharts.
 
 ### Physics
 
