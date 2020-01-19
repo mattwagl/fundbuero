@@ -39,6 +39,7 @@ fundbüro is my personal collection of interesting things from the web.
 * [dlv](https://github.com/developit/dlv) provides safe deep property access in 128 bytes. See also [idx](https://github.com/facebookincubator/idx) or [lodash/get](https://lodash.com/docs#get).
 * [emuto](https://github.com/kantord/emuto) transforms and queries data structures like JSON, text, csv, tsv, and dsv.
 * [big.js](https://github.com/MikeMcl/big.js) is a small, fast JavaScript library for arbitrary-precision decimal arithmetic. 
+* [klona](https://github.com/lukeed/klona) is a tiny (366B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more.
 
 ### Dealing with async code
 
