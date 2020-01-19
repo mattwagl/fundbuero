@@ -224,6 +224,8 @@ developing beautiful hybrid mobile apps.
 ### Graphs and Flows
 
 * [flowy](https://github.com/alyssaxuu/flowy) is a minimal javascript library to create flowcharts.
+* [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) is an interactive online platform that visualizes algorithms from code.
+
 
 ### Physics
 
