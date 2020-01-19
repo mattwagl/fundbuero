@@ -220,6 +220,7 @@ developing beautiful hybrid mobile apps.
 * [sparkline](https://github.com/fnando/sparkline) generate SVG sparklines with JavaScript without any external dependency.
 * [muze](https://github.com/chartshq/muze) provides composable data visualisation library for web with a data-first approach.
 * [vega & vega-lite](https://vega.github.io/) Vega is a declarative format for creating, saving, and sharing visualization designs. With Vega, visualizations are described in JSON, and generate interactive views using either HTML5 Canvas or SVG.
+* [reaviz](https://github.com/jask-oss/reaviz) is a data visualization library for React based on D3.
 
 ### Graphs and Flows
 
