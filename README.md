@@ -411,7 +411,6 @@ developing beautiful hybrid mobile apps.
 * [How to build a plugin system on the web and also sleep well at night](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/) is an article by the Figma Team how to build a plugin system using Realms.
 * [realms-shim](https://github.com/Agoric/realms-shim) is a spec-compliant shim for Realms TC39 Proposal.
 
-
 ## Automation
 
 * [hygen](https://github.com/jondot/hygen) is a simple, fast, and scalable code generator that lives in your project.
@@ -422,7 +421,7 @@ developing beautiful hybrid mobile apps.
 * [oboe.js](https://github.com/jimhigson/oboe.js) enables streaming JSON from server to client.
 * [aedes](https://github.com/mcollina/aedes) is a barebone MQTT broker that can run on any stream server, the node way.
 
-## Databases
+## Client-side Databases
 
 * [sql.js](https://github.com/kripken/sql.js) is SQLite compiled to JavaScript through Emscripten.
 * [PouchDB](https://github.com/pouchdb/pouchdb) is a pocket-sized database.
@@ -452,19 +451,11 @@ developing beautiful hybrid mobile apps.
 * [lqip-loader](https://github.com/zouhir/lqip-loader) provides low quality image placeholders (LQIP) for webpack.
 * [error-overlay-webpack-plugin](https://github.com/smooth-code/error-overlay-webpack-plugin) displays an error overlay in your application.
 
-#### webpack.Simplifier
-
-* [webpack-encore](https://github.com/symfony/webpack-encore) provides a simple but powerful API for processing & compiling assets built around Webpack.
-* [jetpack](https://github.com/KidkArolis/jetpack) is webpack made more convenient.
-
-
 ## Browser Testing & Automation 
 
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) provides a high-level API to control headless Chrome.
 * [nightmare](https://github.com/segmentio/nightmare) is a high-level browser automation library.
 * [webdriverio](https://github.com/webdriverio/webdriverio/) is a webdriver (browser automation) module for Node.js.
-* [pixelmatch](https://github.com/mapbox/pixelmatch) is a small, simple and fast JavaScript pixel-level image comparison library.
-
 
 ## Image processing
 
@@ -476,7 +467,14 @@ developing beautiful hybrid mobile apps.
 
 * [fastlane](https://fastlane.tools/) builds and releases mobile apps.
 
-## Machine Learning & AI
+## Static servers
+
+* [http-server](https://github.com/http-party/http-server) is a simple zero-configuration command-line http server.
+* [servor](https://github.com/lukejacksonn/servor/) is a dependency free file server for single page app development.
+
+## Backend
+
+### Machine Learning & AI
 
 * [brain.js](https://github.com/BrainJS/brain.js) provides neural networks in JavaScript.
 
