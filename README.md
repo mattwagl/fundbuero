@@ -259,9 +259,10 @@ developing beautiful hybrid mobile apps.
 
 ### Design Systems
 
-* [seek-style-guide/](http://seek-oss.github.io/seek-style-guide/) is the living style guide for SEEK, powered by React, webpack, CSS Modules and Less. 
+* [seek-style-guide](http://seek-oss.github.io/seek-style-guide/) is the living style guide for SEEK, powered by React, webpack, CSS Modules and Less. 
 * [gestalt](https://github.com/pinterest/gestalt) is a set of components that supports Pinterest’s design language. 
 * [carbon-design-system](https://github.com/carbon-design-system) is the design system for IBM Cloud products.
+* [braid-design-system](https://seek-oss.github.io/braid-design-system/) is the themeable design system for the SEEK Group.
 
 ### React
 
