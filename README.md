@@ -242,7 +242,7 @@ developing beautiful hybrid mobile apps.
 * [p5.js](https://github.com/processing/p5.js) is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing.
 * [pts](https://github.com/williamngan/pts) is a library for visualization and creative-coding.
 * [canvas-sketch](https://github.com/mattdesl/canvas-sketch) is a (beta) framework for making generative artwork in JavaScript and the browser.
-
+* [stage.js](https://github.com/shakiba/stage.js) is a 2D HTML5 rendering and layout engine for game development.
 
 ### UI libraries and frameworks
 
