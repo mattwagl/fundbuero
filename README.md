@@ -506,6 +506,7 @@ developing beautiful hybrid mobile apps.
 * [ngraph.path](https://github.com/anvaka/ngraph.path) provides path finding in a graph.
 * [geo-maps](https://github.com/simonepri/geo-maps) provides high Quality GeoJSON maps programmatically generated.
 * [flatbush](https://github.com/mourner/flatbush) is a very fast static spatial index for 2D points and rectangles in JavaScript.
+* [opentrees](https://github.com/stevage/opentrees) is the front end for opentrees.org, a data visualisation of hundreds of thousands of council-maintained trees.
 
 ## Desktop
 
