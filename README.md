@@ -49,6 +49,10 @@ fundbüro is my personal collection of interesting things from the web.
 * [promise-frites](https://github.com/webPapaya/promise-frites) provides promise utilities.
 * [callbag](https://github.com/staltz/callbag-basics) is a tiny and fast reactive/iterable programming library.
 
+### EventEmitter
+
+* [emittery](https://github.com/sindresorhus/emittery) is a simple and modern async event emitter.
+
 ### Rate limiting and queueing
 
 * [deque](https://github.com/petkaantonov/deque) is an extremely fast double-ended queue implementation.
