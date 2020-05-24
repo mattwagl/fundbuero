@@ -113,6 +113,11 @@ fundbüro is my personal collection of interesting things from the web.
 * [fastdom](https://github.com/wilsonpage/fastdom) eliminates layout thrashing by batching DOM measurement and mutation tasks.
 * [vdom](https://github.com/Matt-Esch/vdom) provides a DOM create and patch algorithm for vtree.
 
+
+### Webworker & "Multi-Threading"
+
+* [comlink](https://github.com/GoogleChromeLabs/comlink) makes WebWorkers enjoyable.
+
 ### Input & Interactions
 
 * [draggabilly](https://github.com/desandro/draggabilly/blob/master/README.md) makes things draggable.
