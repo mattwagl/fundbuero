@@ -233,6 +233,8 @@ developing beautiful hybrid mobile apps.
 * [muze](https://github.com/chartshq/muze) provides composable data visualisation library for web with a data-first approach.
 * [vega & vega-lite](https://vega.github.io/) Vega is a declarative format for creating, saving, and sharing visualization designs. With Vega, visualizations are described in JSON, and generate interactive views using either HTML5 Canvas or SVG.
 * [reaviz](https://github.com/jask-oss/reaviz) is a data visualization library for React based on D3.
+* [d3fc](https://github.com/d3fc/d3fc) is a collection of components that make it easy to build interactive charts with D3 using SVG, Canvas and WebGL.
+
 
 ### Graphs and Flows
 
