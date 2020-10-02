@@ -324,6 +324,11 @@ developing beautiful hybrid mobile apps.
 * [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) is a set of higher-order components to turn any list into an animated, touch-friendly, sortable list. 
 * [react-with-gesture](https://github.com/drcmda/react-with-gesture) is a little helper for component-tied mouse/touch gestures.
 
+
+#### React.Accessibility
+
+* [react-aria](https://react-spectrum.adobe.com/react-aria/index.html) is a library of React Hooks that provides accessible UI primitives for your design system.
+
 #### React.UI-Components
 
 * [belle](https://github.com/nikgraf/belle) is a collection of configurable React Components.
