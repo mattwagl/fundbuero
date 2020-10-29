@@ -175,7 +175,6 @@ fundbüro is my personal collection of interesting things from the web.
 
 ### Webapp Components
 
-
 #### Routers
 
 * [history](https://github.com/ReactTraining/history) manages session history with JavaScript.
@@ -191,7 +190,6 @@ fundbüro is my personal collection of interesting things from the web.
 #### DataGrids
 
 * [ag-grid](https://github.com/ceolter/ag-grid) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components.
-
 
 ### Website Components
 
@@ -235,12 +233,10 @@ developing beautiful hybrid mobile apps.
 * [reaviz](https://github.com/jask-oss/reaviz) is a data visualization library for React based on D3.
 * [d3fc](https://github.com/d3fc/d3fc) is a collection of components that make it easy to build interactive charts with D3 using SVG, Canvas and WebGL.
 
-
 ### Graphs and Flows
 
 * [flowy](https://github.com/alyssaxuu/flowy) is a minimal javascript library to create flowcharts.
 * [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) is an interactive online platform that visualizes algorithms from code.
-
 
 ### Physics
 
@@ -503,7 +499,6 @@ developing beautiful hybrid mobile apps.
 * [insomnia](https://github.com/getinsomnia/insomnia) is a cross-platform REST client, built on top of Electron.
 * [rclone](https://github.com/rclone/rclone) is rsync for cloud storage.
 
-
 ## Storytelling
 
 * [reveal.js](https://github.com/hakimel/reveal.js/) is the HTML Presentation Framework.
@@ -545,7 +540,6 @@ developing beautiful hybrid mobile apps.
 * [dat](https://datproject.org/) is a distributed data community.
 * [simple-peer](https://github.com/feross/simple-peer) provides simple WebRTC video/voice and data channels for the browser and Node.js.
 
-
 ## Language & Speech
 
 * [nlp_compromise](https://github.com/nlp-compromise/nlp_compromise) is a cool way to use natural language in JavaScript.
@@ -560,6 +554,14 @@ developing beautiful hybrid mobile apps.
 * [node_mdns](https://github.com/agnat/node_mdns) enables mdns/zeroconf/bonjour service discovery add-on for Node.js.
 * [tern.js](http://ternjs.net/) is a stand-alone code-analysis engine for JavaScript.
 * [twemoji](https://github.com/twitter/twemoji) provides Twitter Emojis for everyone.
+
+## Services & APIs
+
+### i18n
+
+* [https://locize.com/](https://locize.com/) 
+* [https://phrase.com/](https://phrase.com/)
+
 
 ## CLI
 
