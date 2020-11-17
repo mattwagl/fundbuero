@@ -306,12 +306,15 @@ developing beautiful hybrid mobile apps.
 * [Animated page transitions with React Router 4, ReactTransitionGroup and Animated](https://hackernoon.com/animated-page-transitions-with-react-router-4-reacttransitiongroup-and-animated-1ca17bd97a1a) is an article by Martin Haagensli about animating routes.
 * [react-router-transition](https://github.com/maisano/react-router-transition) are transitions built for react-router, powered by react-motion.
 
+#### React.Data-Fetching
+
+* [swr]( https://github.com/vercel/swr) provides React components for efficiently rendering large lists and tabular data.
+* [react-query](https://github.com/tannerlinsley/react-query) provides hooks for fetching, caching and updating asynchronous data in React.
 
 ### React.Universal-Rendering 
 
-* [Next.js](https://github.com/zeit/next.js/) is a lightweight framework for static and server‑rendered applications. 
+* [Next.js](https://github.com/zeit/next.js/) is a React hooks library for remote data fetching. 
 * [razzle](https://github.com/jaredpalmer/razzle) enables server-rendered universal JavaScript applications with no configuration.
-* [react-pdf](www.github.com/diegomura/react-pdf) creates PDF files using React.
 
 #### React.Interactions
 
@@ -319,7 +322,6 @@ developing beautiful hybrid mobile apps.
 * [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) provides beautiful, accessible drag and drop for lists.
 * [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) is a set of higher-order components to turn any list into an animated, touch-friendly, sortable list. 
 * [react-with-gesture](https://github.com/drcmda/react-with-gesture) is a little helper for component-tied mouse/touch gestures.
-
 
 #### React.Accessibility
 
@@ -333,7 +335,6 @@ developing beautiful hybrid mobile apps.
 * [reactable](https://github.com/glittershark/reactable) provides fast, flexible, and simple data tables.
 * [react-select](https://github.com/jedwatson/react-select) is a flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete and async support.
 * [react-laag](https://github.com/everweij/react-laag) provides primitives to build things like tooltips, dropdown menu's and popovers in React
-
 
 #### React.Animation
 
