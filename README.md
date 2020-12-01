@@ -592,6 +592,10 @@ developing beautiful hybrid mobile apps.
 
 * [https://mux.com/](https://mux.com) 
 
+### User Tersing
+
+* [maze.design](https://maze.design/) is a platform for user testing from first design mockup to a full-fledged product.
+
 ### AI
 
 * [labelbox.com](https://labelbox.com) is a training data platform.
