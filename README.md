@@ -585,6 +585,10 @@ developing beautiful hybrid mobile apps.
 
 * [https://mux.com/](https://mux.com) 
 
+### AI
+
+* [labelbox.com](https://labelbox.com) is a training data platform.
+
 ## CLI
 
 * [ora](https://github.com/sindresorhus/ora) is an elegant terminal spinner.
