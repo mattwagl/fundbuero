@@ -133,7 +133,8 @@ fundbüro is my personal collection of interesting things from the web.
 * [konva.js](https://github.com/konvajs/konva) is a 2d html5 canvas framework for desktop and mobile applications.
 * [Simple Proof-Of-Concept](https://twitter.com/ryanflorence/status/809539837820706818) of a React drawing app by Ryan Florence. https://gist.github.com/ryanflorence/a4cb023508ded9772545948eeaaaecb3
 * [grafijs](http://grafijs.org/) is a JavaScript Image Processing Library.
-* [Rough.js](https://github.com/pshihn/rough) creates graphics with a hand-drawn, sketchy, appearance.
+* [rough](https://github.com/rough-stuff/rough) creates graphics with a hand-drawn, sketchy, appearance.
+* [rough-notation](https://github.com/rough-stuff/rough-notation) creates and animates hand-drawn annotations on a web page.
 * [excalidraw](https://github.com/excalidraw/excalidraw) is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 * [Two.js](https://github.com/jonobr1/two.js) is a renderer agnostic two-dimensional drawing api for the web.
 
