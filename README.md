@@ -557,6 +557,8 @@ developing beautiful hybrid mobile apps.
 * [tesseract.js](https://github.com/naptha/tesseract.js) provides pure Javascript OCR for 62 Languages.
 * [annyang](https://github.com/TalAter/annyang) is a tiny SpeechRecognition library that lets your users control your site with voice commands.
 * [github.com/words](https://github.com/words) is a collection of linguistic javascript modules.
+* [artyom.js](https://github.com/sdkcarlos/artyom.js) is a voice control - voice commands - speech recognition and speech synthesis javascript library.
+
 
 ## Misc
 
