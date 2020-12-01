@@ -181,7 +181,6 @@ fundbüro is my personal collection of interesting things from the web.
 * [history](https://github.com/ReactTraining/history) manages session history with JavaScript.
 * [router5](https://router5.js.org/) is a flexible and powerful universal routing solution.
 
-
 #### Editors
 
 * [slate.js](https://github.com/ianstormtaylor/slate) is a completely customizable framework for building rich text editors.
@@ -221,6 +220,8 @@ developing beautiful hybrid mobile apps.
 
 ### Charting
 
+
+* [datavizcatalogue.com](https://datavizcatalogue.com/) is a handy guide and library of different data visualization techniques.
 * [dc.js](https://github.com/dc-js/dc.js) provides Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js.
 * [epoch](https://github.com/fastly/epoch) is a general purpose, real-time visualization library based on d3.
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/) is a library built on top of D3 that is optimized for visualizing and laying out time-series data.
