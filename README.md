@@ -602,6 +602,9 @@ developing beautiful hybrid mobile apps.
 * [cli-spinners](https://github.com/sindresorhus/cli-spinners) is a collection of spinners for use in the terminal.
 * [oclif](https://github.com/oclif/oclif) is a Node.js Open CLI Framework built by Heroku.
 
+## Package Mangement
+
+* [verdaccio](https://github.com/verdaccio/verdaccio) is a lightweight private npm proxy registry.
 
 ## Print
 
