@@ -576,6 +576,11 @@ developing beautiful hybrid mobile apps.
 
 * [ionic/appflow](https://ionicframework.com/appflow) provides accessible mobile DevOps for all.
 
+### Application Monitoring 
+
+* [appsignal.com](https://appsignal.com)
+* [sentry.io](https://sentry.io)
+
 ### i18n
 
 * [https://locize.com/](https://locize.com) 
