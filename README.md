@@ -566,6 +566,10 @@ developing beautiful hybrid mobile apps.
 * [tern.js](http://ternjs.net/) is a stand-alone code-analysis engine for JavaScript.
 * [twemoji](https://github.com/twitter/twemoji) provides Twitter Emojis for everyone.
 
+## Public Clouds
+
+* [Scaleway Elements](https://www.scaleway.com/en/elements/) is a public cloud with data centers in Paris (France), Amsterdam (Netherlands) and Warsaw (Poland).
+
 ## Services & APIs
 
 ### i18n
@@ -605,4 +609,4 @@ developing beautiful hybrid mobile apps.
 
 # Discussions
 
-* [Interview Algorithm Questions in Javascript()](https://github.com/kennymkchan/interview-questions-in-javascript)
+* [Interview Algorithm Questions in Javascript](https://github.com/kennymkchan/interview-questions-in-javascript)
