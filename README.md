@@ -95,13 +95,10 @@ fundbüro is my personal collection of interesting things from the web.
 
 ### Styling with JS
 
+* [emotion](https://github.com/emotion-js/emotion) is a CSS-in-JS library designed for high performance style composition.
 * [css-in-js](https://github.com/MicheleBertoli/css-in-js) is a CSS in JS techniques comparison.
 * [free-style](https://github.com/blakeembrey/free-style) makes CSS easier and more maintainable by using inline style objects.
-* [glamor](https://github.com/threepointone/glamor) provides inline css for react et al.
-* [glamorous](https://github.com/paypal/glamorous) provides React component styling solved with an elegant (inspired) API, small footprint, and great performance (via glamor).
-* [styled-components](https://github.com/styled-components/styled-components) provide visual primitives for the component age.
 * [jss](http://cssinjs.org/) is an abstraction over CSS.
-* [react-with-styles](https://github.com/airbnb/react-with-styles) let's you use CSS-in-JavaScript with themes for React without being tightly coupled to one implementation.
 * [polished](https://polished.js.org/) provides Sass-style helper functions for writing styles in JavaScript.
  
 ### DOM
@@ -220,7 +217,6 @@ developing beautiful hybrid mobile apps.
 
 ### Charting
 
-
 * [datavizcatalogue.com](https://datavizcatalogue.com/) is a handy guide and library of different data visualization techniques.
 * [dc.js](https://github.com/dc-js/dc.js) provides Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js.
 * [epoch](https://github.com/fastly/epoch) is a general purpose, real-time visualization library based on d3.
@@ -301,6 +297,12 @@ developing beautiful hybrid mobile apps.
 * [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) provides custom scrollbars as React component.
 * [libreact](https://github.com/streamich/libreact) is a collection of useful React components.
 * [the-platform](https://github.com/palmerhq/the-platform) is Web API's turned into React Hooks and Suspense-friendly React components.
+
+#### React.CSS-in-JS
+
+* [emotion](https://github.com/emotion-js/emotion) is a CSS-in-JS library designed for high performance style composition.
+* [styled-components](https://github.com/styled-components/styled-components) provide visual primitives for the component age.
+* [react-with-styles](https://github.com/airbnb/react-with-styles) let's you use CSS-in-JavaScript with themes for React without being tightly coupled to one implementation.
 
 #### React.Routing
 
