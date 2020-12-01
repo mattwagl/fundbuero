@@ -369,12 +369,12 @@ developing beautiful hybrid mobile apps.
 
 #### React.Design-System-Basics
 
-
 * [xstyled](https://xstyled.dev/) provides consistent theme based CSS for styled-components & emotion.
 * [styled-system](https://github.com/styled-system/styled-system) provides style props for rapid UI development .
 
 #### React.UI-Frameworks
 
+* [chakra-ui](https://github.com/chakra-ui/chakra-ui/) provides React Components that Implement Google's Material Design.
 * [material-ui](https://github.com/callemall/material-ui) provides React Components that Implement Google's Material Design.
 * [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) provides React components for building experiences for Office and Office 365.
 * [blueprint](http://blueprintjs.com/) is a React-based UI toolkit for the web.
