@@ -566,17 +566,20 @@ developing beautiful hybrid mobile apps.
 * [tern.js](http://ternjs.net/) is a stand-alone code-analysis engine for JavaScript.
 * [twemoji](https://github.com/twitter/twemoji) provides Twitter Emojis for everyone.
 
-## Public Clouds
+## Services & APIs
+
+### Public Clouds
 
 * [Scaleway Elements](https://www.scaleway.com/en/elements/) is a public cloud with data centers in Paris (France), Amsterdam (Netherlands) and Warsaw (Poland).
 
-## Services & APIs
+### Mobile
+
+* [ionic/appflow](https://ionicframework.com/appflow) provides accessible mobile DevOps for all.
 
 ### i18n
 
 * [https://locize.com/](https://locize.com) 
 * [https://phrase.com/](https://phrase.com)
-
 
 ### Video
 
