@@ -423,6 +423,7 @@ developing beautiful hybrid mobile apps.
 * [gatsby](https://github.com/gatsbyjs/gatsby) is a blazing fast static site generator for React.
 * [react-static](https://github.com/nozzle/react-static) is a progressive static site generator for React.
 * [eleventy](https://github.com/11ty/eleventy/) is a simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML. 
+* [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) A high performance blog template for the 11ty static site generator.
 
 ### Hacks & Tricks
 
