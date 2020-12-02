@@ -2,7 +2,7 @@ name: TOC
 
 on:
   push:
-    branches: [main]
+    branches: [master]
     paths: ['README.md']
 
 jobs:
