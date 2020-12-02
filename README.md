@@ -4,8 +4,7 @@
 
  👉 *fundbüro* [ˈfʊntbyroː] is the German translation for *“Lost and found office”*. 
  
-Table of contents
-=================
+## Table of contents
 
 <!--ts-->
    * [fundbüro [ˈfʊntbyroː]](#-fundb\xC3\xBCro-\xCB\x88f\xCA\x8Antbyro\xCB\x90)
