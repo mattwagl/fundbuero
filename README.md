@@ -1,6 +1,8 @@
-# fundbüro
+# 🧳 fundbüro [ˈfʊntbyroː] 
 
-fundbüro is my personal collection of interesting things from the web.
+**fundbüro** is my personal collection of interesting things.
+
+ 👉 *fundbüro* [ˈfʊntbyroː] is the German translation for *“Lost and found office”*. 
 
 ## Basics & Learning
 
