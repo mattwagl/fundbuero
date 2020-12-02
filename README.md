@@ -3,6 +3,12 @@
 **fundbüro** is my personal collection of interesting things.
 
  👉 *fundbüro* [ˈfʊntbyroː] is the German translation for *“Lost and found office”*. 
+ 
+Table of contents
+=================
+
+<!--ts-->
+<!--te-->
 
 ## Basics & Learning
 
@@ -140,6 +146,7 @@
 * [rough-notation](https://github.com/rough-stuff/rough-notation) creates and animates hand-drawn annotations on a web page.
 * [excalidraw](https://github.com/excalidraw/excalidraw) is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 * [Two.js](https://github.com/jonobr1/two.js) is a renderer agnostic two-dimensional drawing api for the web.
+* [diagram-maker](https://github.com/awslabs/diagram-maker) is a library to display an interactive editor for any graph-like data.
 
 ### Media
 
