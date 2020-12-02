@@ -129,6 +129,7 @@
 
 * [botui](https://github.com/botui/botui) is a JavaScript framework to build UI for your bot.
 * [bottender](https://github.com/Yoctol/bottender) lets you make bots in your way, fast and flexibly.
+* [artyom.js](https://github.com/sdkcarlos/artyom.js) is a voice control - voice commands - speech recognition and speech synthesis javascript library.
 
 ### Drawing & Imaging
 
