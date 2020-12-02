@@ -114,19 +114,33 @@
 
 <!--te-->
 
-# Basics & Learning
+# Basics & Concepts
+
+## JavaScript
+
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) is a book series on JavaScript.
+* [A brief history of prototypes](https://github.com/zkat/talks/blob/master/2017-09-nordicjs/presentation.pdf) is talk by Katerina Marchá about the origins of prototype-based programming.
+* [Understanding the Almighty Reducer](https://css-tricks.com/understanding-the-almighty-reducer/) is an article by Sarah Drasner that beautifully explains the `reduce` function.
+
+## Node.js
+
+* [Help I'm stuck in an event loop](https://www.youtube.com/watch?v=6MXRNXXgP_0&feature=youtu.b) is a talk by Philip Roberts that explains how the JavaScript event loop works.
+* [Do you want a better understanding of Buffer in Node.js?](https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8) is an article by Justice Mba that explains what Buffers are.
+
+## Data Structures & Algorithms
 
 * [Data Structures in JavaScript](http://blog.benoitvallon.com/category/data-structures-in-javascript/) shows how to implement basic data structures plain JavaScript.
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) collects algorithms and data structures implemented in JavaScript with explanations and links to further readings.
-* [Help I'm stuck in an event loop](https://www.youtube.com/watch?v=6MXRNXXgP_0&feature=youtu.b) is a talk by Philip Roberts that explains how the JavaScript event loop works.
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) is a book series on JavaScript.
-* [A brief history of prototypes](https://github.com/zkat/talks/blob/master/2017-09-nordicjs/presentation.pdf) is talk by Katerina Marchá about the origins of prototype-based programming.
-* [Do you want a better understanding of Buffer in Node.js?](https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8) is an article by Justice Mba that explains what Buffers are.
-* [math-as-code](https://github.com/Jam3/math-as-code) is a cheat-sheet for mathematical notation in code form.
 * [blog.yoshuawuyts.com/graphs](https://blog.yoshuawuyts.com/graphs/) is an article by Yoshua Wuyts about the different types of graphs.
+* [math-as-code](https://github.com/Jam3/math-as-code) is a cheat-sheet for mathematical notation in code form.
+
+## Testing
+
 * [Write tests. Not too many. Mostly integration.](https://www.youtube.com/watch?v=Fha2bVoC8SE&list=PLZ66c9_z3umNSrKSb5cmpxdXZcIPNvKGw) is a talk by Kent C. Dodds about testing best practices.
-* [Understanding the Almighty Reducer](https://css-tricks.com/understanding-the-almighty-reducer/) is an article by Sarah Drasner that beautifully explains the `reduce` function.
-* [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1) is an article by Antin Harasymiv that provides a peek under of the Google Photos Web UI.
+
+## Version Control
+
+* [Conventional Commits](https://www.conventionalcommits.org/) is a specification for adding human and machine readable meaning to commit messages.
 
 # Architecture
 
@@ -135,8 +149,11 @@
 * [Lose Koppelung durch Messaging und Domain Events – Teil 1](https://ricofritzsche.wordpress.com/2013/08/04/lose-koppelung-durch-messaging-und-domain-events-teil-1/).
 * [Lose Koppelung durch Messaging und Domain Events – Teil 2](https://ricofritzsche.wordpress.com/2013/08/06/lose-koppelung-durch-messaging-und-domain-events-teil-2/).
 
+# Field Reports from Real Life
 
-# Base libs
+* [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1) is an article by Antin Harasymiv that provides a peek under of the Google Photos Web UI.
+
+# Base Libs
 
 ## General helpers
 
