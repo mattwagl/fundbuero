@@ -299,6 +299,20 @@ developing beautiful hybrid mobile apps.
 * [libreact](https://github.com/streamich/libreact) is a collection of useful React components.
 * [the-platform](https://github.com/palmerhq/the-platform) is Web API's turned into React Hooks and Suspense-friendly React components.
 
+
+### React.Stores-And-State-Container
+
+* [mobx](https://github.com/mobxjs/mobx) provides simple, scalable state management. .
+* [Redux](https://github.com/reactjs/redux) provides predictable state management for JavaScript apps.
+* [immer](https://github.com/mweststrate/immer) creates the next immutable state by mutating the current one.
+* [unistore](https://github.com/developit/unistore) is 350b / 650b state container with component actions for Preact & React.
+* [xstate](https://github.com/davidkpiano/xstate) provides state machines and statecharts for the modern web.
+
+* [PureState](https://github.com/MaiaVictor/PureState) is the stupidest state management library that works.
+* [freezer](https://github.com/arqex/freezer) an immutable tree data structure that is always updated from the root, making easier to think in a reactive way.
+* [scour](https://github.com/rstacruz/scour) is a general-purpose library for dealing with JSON trees.
+* [baobab](https://github.com/Yomguithereal/baobab) is a JavaScript persistent and optionally immutable data tree with cursors.
+
 #### React.CSS-in-JS
 
 * [emotion](https://github.com/emotion-js/emotion) is a CSS-in-JS library designed for high performance style composition.
@@ -398,17 +412,6 @@ developing beautiful hybrid mobile apps.
 #### React.RealWorldApplications
 
 * [dpla-frontend](https://github.com/dpla/dpla-frontend): React application for the Digital Public Library of America website.
-
-### Stores & State Container
-
-* [mobx](https://github.com/mobxjs/mobx) provides simple, scalable state management. .
-* [Redux](https://github.com/reactjs/redux) provides predictable state management for JavaScript apps.
-* [PureState](https://github.com/MaiaVictor/PureState) is the stupidest state management library that works.
-* [freezer](https://github.com/arqex/freezer) an immutable tree data structure that is always updated from the root, making easier to think in a reactive way.
-* [scour](https://github.com/rstacruz/scour) is a general-purpose library for dealing with JSON trees.
-* [baobab](https://github.com/Yomguithereal/baobab) is a JavaScript persistent and optionally immutable data tree with cursors.
-* [immer](https://github.com/mweststrate/immer) creates the next immutable state by mutating the current one.
-* [xstate](https://github.com/davidkpiano/xstate) provides state machines and statecharts for the modern web.
 
 ### Data Fetching
 
