@@ -533,6 +533,8 @@ developing beautiful hybrid mobile apps.
 ### React.Next.js
 
 * [nextjs-prism-markdown](https://github.com/leerob/nextjs-prism-markdown): Example using Prism / Markdown with Next.js including switching syntax highlighting themes.
+* [Markdown/MDX with Next.js](https://nextjs.org/blog/markdown) is a blog article about how to combine MDX with Next.js.
+
 
 ## Data Fetching
 
