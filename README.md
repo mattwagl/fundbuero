@@ -8,7 +8,7 @@
 
 <!--ts-->
    * [fundbüro [ˈfʊntbyroː]](#-fundb\xC3\xBCro-\xCB\x88f\xCA\x8Antbyro\xCB\x90)
-   * [Table of contents](#table-of-contents)
+      * [Table of contents](#table-of-contents)
       * [Basics &amp; Learning](#basics--learning)
       * [Architecture](#architecture)
          * [Domain-Driven Design](#domain-driven-design)
@@ -109,7 +109,7 @@
       * [Typo](#typo)
    * [Discussions](#discussions)
 
-<!-- Added by: runner, at: Wed Dec  2 08:36:18 UTC 2020 -->
+<!-- Added by: runner, at: Wed Dec  2 08:39:25 UTC 2020 -->
 
 <!--te-->
 
