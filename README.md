@@ -113,10 +113,12 @@
    * [Package Mangement](#package-mangement)
    * [Print](#print)
    * [Design](#design)
-      * [Typo](#typo)
+      * [Typography](#typography)
+         * [Fonts](#fonts)
+         * [Tools](#tools-1)
    * [Discussions](#discussions)
 
-<!-- Added by: runner, at: Wed Dec  2 09:23:35 UTC 2020 -->
+<!-- Added by: runner, at: Wed Dec  2 09:26:51 UTC 2020 -->
 
 <!--te-->
 
