@@ -4,7 +4,7 @@
 
  👉 *fundbüro* [ˈfʊntbyroː] is the German translation for *“Lost and found office”*. 
  
-## Table of contents
+# Table of contents
 
 <!--ts-->
    * [fundbüro [ˈfʊntbyroː]](#-fundb\xC3\xBCro-\xCB\x88f\xCA\x8Antbyro\xCB\x90)
@@ -113,7 +113,7 @@
 
 <!--te-->
 
-## Basics & Learning
+# Basics & Learning
 
 * [Data Structures in JavaScript](http://blog.benoitvallon.com/category/data-structures-in-javascript/) shows how to implement basic data structures plain JavaScript.
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) collects algorithms and data structures implemented in JavaScript with explanations and links to further readings.
@@ -127,17 +127,17 @@
 * [Understanding the Almighty Reducer](https://css-tricks.com/understanding-the-almighty-reducer/) is an article by Sarah Drasner that beautifully explains the `reduce` function.
 * [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1) is an article by Antin Harasymiv that provides a peek under of the Google Photos Web UI.
 
-## Architecture
+# Architecture
 
-### Domain-Driven Design
+## Domain-Driven Design
 
 * [Lose Koppelung durch Messaging und Domain Events – Teil 1](https://ricofritzsche.wordpress.com/2013/08/04/lose-koppelung-durch-messaging-und-domain-events-teil-1/).
 * [Lose Koppelung durch Messaging und Domain Events – Teil 2](https://ricofritzsche.wordpress.com/2013/08/06/lose-koppelung-durch-messaging-und-domain-events-teil-2/).
 
 
-## Base libs
+# Base libs
 
-### General helpers
+## General helpers
 
 * [lodash](https://lodash.com/) provides great helpers for dealing with arrays and objects.
 * [i18next](http://i18next.com/) is a full-featured i18n javascript library for translating your webapplication.
@@ -152,7 +152,7 @@
 * [big.js](https://github.com/MikeMcl/big.js) is a small, fast JavaScript library for arbitrary-precision decimal arithmetic. 
 * [klona](https://github.com/lukeed/klona) is a tiny (366B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more.
 
-### Dealing with async code
+## Dealing with async code
 
 * [async](https://github.com/caolan/async) provides async utilities for node and the browser.
 * [asynquence](https://github.com/getify/asynquence) provides promise-style async sequence flow-control.
@@ -160,16 +160,16 @@
 * [promise-frites](https://github.com/webPapaya/promise-frites) provides promise utilities.
 * [callbag](https://github.com/staltz/callbag-basics) is a tiny and fast reactive/iterable programming library.
 
-### EventEmitter
+## EventEmitter
 
 * [emittery](https://github.com/sindresorhus/emittery) is a simple and modern async event emitter.
 
-### Rate limiting and queueing
+## Rate limiting and queueing
 
 * [deque](https://github.com/petkaantonov/deque) is an extremely fast double-ended queue implementation.
 * [async-sema](https://github.com/zeit/async-sema) is a semaphore using `async` and `await`.
 
-### Streams
+## Streams
 
 * [highland.js](https://github.com/caolan/highland) provides High-level streams library for Node.js and the browser.
 * [pull-stream](https://github.com/pull-stream/pull-stream) provides a minimal streams.
@@ -177,21 +177,25 @@
 * [pumpify](https://github.com/mafintosh/pumpify) combines an array of streams into a single duplex stream.
 * [mississippi](https://github.com/mafintosh/pumpify) is a collection of useful stream utility modules for writing better code using streams.
 
-### Dates & Time
+## Dates & Time
 
 * [moment.js](https://github.com/moment/moment/) is a JavaScript date library for parsing, validating, manipulating, and formatting dates.
 * [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) provides a list of date-fns or native functions which you can use to replace moment.js.
 * [date-fns](https://github.com/date-fns/date-fns) provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js.
 * [Day.js](https://github.com/iamkun/dayjs) is a 2KB immutable date library alternative to Moment.js with the same modern API.
 
-## Frontend
+# Frontend
 
-### Styling
+## Basics
+
+* [HEAD](https://github.com/joshbuchea/HEAD) is a list of everything that goes in the head of your document.
+
+## Styling
 
 * [patternbolt](https://github.com/buseca/patternbolt) is a election of SVG pattern background, packed in a single CSS or SCSS file.
 * [Bytesize Icons](https://github.com/danklammer/bytesize-icons) is a tiny style-controlled SVG iconset.
 
-### Styling with CSS
+## Styling with CSS
 
 * [base-files](https://github.com/jonikorpi/base-files) is a plain CSS starter kit.
 * [primercss.io](http://primercss.io/) "The CSS toolkit and guidelines that power GitHub."
@@ -204,7 +208,7 @@
 * [css-gridish](https://github.com/IBM/css-gridish) automatically builds your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension.
 * [Pure CSS scrolling shadows with background-attachment: local](http://lea.verou.me/2012/04/background-attachment-local/) is an article by Ley Verou about creating scroll shadows with CSS only.
 
-### Styling with JS
+## Styling with JS
 
 * [emotion](https://github.com/emotion-js/emotion) is a CSS-in-JS library designed for high performance style composition.
 * [css-in-js](https://github.com/MicheleBertoli/css-in-js) is a CSS in JS techniques comparison.
@@ -212,7 +216,7 @@
 * [jss](http://cssinjs.org/) is an abstraction over CSS.
 * [polished](https://polished.js.org/) provides Sass-style helper functions for writing styles in JavaScript.
  
-### DOM
+## DOM
 
 * [sprint](https://github.com/bendc/sprint) is a tiny, lightning fast jQuery-like library for modern browsers.
 * [zepto.js](https://github.com/madrobby/zepto) is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API .
@@ -221,12 +225,11 @@
 * [fastdom](https://github.com/wilsonpage/fastdom) eliminates layout thrashing by batching DOM measurement and mutation tasks.
 * [vdom](https://github.com/Matt-Esch/vdom) provides a DOM create and patch algorithm for vtree.
 
-
-### Webworker & "Multi-Threading"
+## Webworker & "Multi-Threading"
 
 * [comlink](https://github.com/GoogleChromeLabs/comlink) makes WebWorkers enjoyable.
 
-### Input & Interactions
+## Input & Interactions
 
 * [draggabilly](https://github.com/desandro/draggabilly/blob/master/README.md) makes things draggable.
 * [dragscroll](https://github.com/asvd/dragscroll) is a tiny library for drag-n-drop scrolling style.
@@ -234,13 +237,13 @@
 * [pressure.js](https://github.com/yamartino/pressure) is a JavaScript library for handling both Force Touch and 3D Touch on the web.
 * [zingtouch](https://github.com/zingchart/zingtouch) is a JavaScript touch gesture detection library for the modern web.
 
-### Conversational Interfaces
+## Conversational Interfaces
 
 * [botui](https://github.com/botui/botui) is a JavaScript framework to build UI for your bot.
 * [bottender](https://github.com/Yoctol/bottender) lets you make bots in your way, fast and flexibly.
 * [artyom.js](https://github.com/sdkcarlos/artyom.js) is a voice control - voice commands - speech recognition and speech synthesis javascript library.
 
-### Drawing & Imaging
+## Drawing & Imaging
 
 * [konva.js](https://github.com/konvajs/konva) is a 2d html5 canvas framework for desktop and mobile applications.
 * [Simple Proof-Of-Concept](https://twitter.com/ryanflorence/status/809539837820706818) of a React drawing app by Ryan Florence. https://gist.github.com/ryanflorence/a4cb023508ded9772545948eeaaaecb3
@@ -251,14 +254,14 @@
 * [Two.js](https://github.com/jonobr1/two.js) is a renderer agnostic two-dimensional drawing api for the web.
 * [diagram-maker](https://github.com/awslabs/diagram-maker) is a library to display an interactive editor for any graph-like data.
 
-### Media
+## Media
 
 * [FitVids](https://github.com/davatron5000/FitVids.js) automates the Intrinsic Ratio Method by Thierry Koblentz to achieve fluid width videos in your responsive web design.
 * [howler.js](https://github.com/goldfire/howler.js) is a JavaScript audio library for the modern web.
 * [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) provides navigable waveform built on Web Audio and Canvas.
 * [video.js](https://github.com/videojs/video.js) is an Open Source HTML5 & Flash video player.
 
-### Micro Components
+## Micro Components
 
 * [balloon.css](https://github.com/kazzkiq/balloon.css) provides simple tooltips made of pure CSS.
 * [Slideout.js](https://mango.github.io/slideout/) is a touch slideout navigation menu for your mobile web apps.
@@ -281,40 +284,40 @@
 * [driver.js](https://github.com/kamranahmedse/driver.js) is a light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page.
 * [scroll-into-view-if-needed](https://github.com/stipsan/scroll-into-view-if-needed) is an Element.scrollIntoView ponyfills for things like "if-needed" and "smooth".
 
-### Grid Layouts
+## Grid Layouts
 
 * [muuri](https://github.com/haltu/muuri) provides responsive, sortable, filterable and draggable grid layouts.
 
-### Webapp Components
+## Application Components
 
-#### Routers
+### Routers
 
 * [history](https://github.com/ReactTraining/history) manages session history with JavaScript.
 * [router5](https://router5.js.org/) is a flexible and powerful universal routing solution.
 
-#### Editors
+### Editors
 
 * [slate.js](https://github.com/ianstormtaylor/slate) is a completely customizable framework for building rich text editors.
 * [Draft.js](https://facebook.github.io/draft-js/) is a rich Text Editor Framework for React.
 * [mobiledoc-kit](https://github.com/bustle/mobiledoc-kit) is a toolkit for building WYSIWYG editors with Mobiledoc.
 
-#### DataGrids
+### DataGrids
 
 * [ag-grid](https://github.com/ceolter/ag-grid) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components.
 
-### Website Components
+## Website Components
 
 * [PhotoSwipe](https://github.com/dimsemenov/photoswipe) is an image gallery for mobile and desktop, modular, framework independent.
 * [okayNav](https://github.com/VPenkov/okayNav) is a responsive navigation plugin für jQuery.
 * [bootstrap-easy-sidebar](https://github.com/GroundXaero/bootstrap-easy-sidebar) is sidebar for bootstrap designed around theme integration and flexibility.
 
-### Mobile UI Components
+## Mobile Components
 
 * [ionic](http://ionicframework.com/) is a beautiful, open source front-end SDK for developing amazing mobile apps with web technologies.
 * [TouchstoneJS](http://touchstonejs.io/) is a React.js powered UI framework for
 developing beautiful hybrid mobile apps.
 
-### Animation
+## Animation
 
 * [Velocity.js](http://julian.com/research/velocity/) is an accelerated animation engine with the same API as jQuery's $.animate().
   * [velocity-react](https://github.com/twitter-fabric/velocity-react) React components for Velocity.js.
@@ -329,7 +332,7 @@ developing beautiful hybrid mobile apps.
 * [loaders](http://connoratherton.com/loaders) "Delightful and performance-focused pure css loading animations."
 * [granim.js](https://github.com/sarcadass/granim.js) creates fluid and interactive gradients animations.
 
-### Charting
+## Charting
 
 * [datavizcatalogue.com](https://datavizcatalogue.com/) is a handy guide and library of different data visualization techniques.
 * [dc.js](https://github.com/dc-js/dc.js) provides Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js.
@@ -345,17 +348,17 @@ developing beautiful hybrid mobile apps.
 * [reaviz](https://github.com/jask-oss/reaviz) is a data visualization library for React based on D3.
 * [d3fc](https://github.com/d3fc/d3fc) is a collection of components that make it easy to build interactive charts with D3 using SVG, Canvas and WebGL.
 
-### Graphs and Flows
+## Graphs and Flows
 
 * [flowy](https://github.com/alyssaxuu/flowy) is a minimal javascript library to create flowcharts.
 * [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) is an interactive online platform that visualizes algorithms from code.
 
-### Physics
+## Physics
 
 * [TremulaJS](https://github.com/garris/TremulaJS) Picture Streams + Momentum Engine + Bézier Paths + Multi-Device.
 * [Proton](https://github.com/a-jie/Proton) is a particle engine for JavaScript.
 
-### Gaming, Drawing and Creative Coding
+## Gaming, Drawing and Creative Coding
 
 * [Pixi.js](https://github.com/pixijs/pixi.js) is a super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
 * [p5.js](https://github.com/processing/p5.js) is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing.
@@ -363,7 +366,7 @@ developing beautiful hybrid mobile apps.
 * [canvas-sketch](https://github.com/mattdesl/canvas-sketch) is a (beta) framework for making generative artwork in JavaScript and the browser.
 * [stage.js](https://github.com/shakiba/stage.js) is a 2D HTML5 rendering and layout engine for game development.
 
-### UI libraries and frameworks
+## UI libraries and frameworks
 
 * [React](https://github.com/facebook/react) is a view layer based upon the concept of a virtual DOM.
 * [vue.js](https://github.com/vuejs/vue/) is a simple yet powerful library for building modern web interfaces.
@@ -372,33 +375,33 @@ developing beautiful hybrid mobile apps.
 * [hyperHTML](https://github.com/WebReflection/hyperHTML) is a fast & light virtual DOM alternative. 
 * [heresy](https://github.com/WebReflection/heresy) provides React-like Custom Elements via V1 API builtin extends. 
 
-### Design Systems
+## Design Systems
 
 * [seek-style-guide](http://seek-oss.github.io/seek-style-guide/) is the living style guide for SEEK, powered by React, webpack, CSS Modules and Less. 
 * [gestalt](https://github.com/pinterest/gestalt) is a set of components that supports Pinterest’s design language. 
 * [carbon-design-system](https://github.com/carbon-design-system) is the design system for IBM Cloud products.
 * [braid-design-system](https://seek-oss.github.io/braid-design-system/) is the themeable design system for the SEEK Group.
 
-### React
+## React
 
-#### React.Misc
+### React.Misc
 
 * [Wrapping DOM libs](https://github.com/ryanflorence/react-training/blob/gh-pages/lessons/05-wrapping-dom-libs.md) explains how to make React work with traditional DOM libs.
 * [react-awesome-components](https://github.com/brillout/awesome-react-components/) is catalog of React components.
 * [react-sketchapp](https://github.com/airbnb/react-sketchapp/) renders React components to Sketch.
 
-#### React.Basics
+### React.Basics
 
 * [Interarctive React lifecycle diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) by [github.com/wojtekmaj](https://github.com/wojtekmaj)
 * [Beautfiul React lifecycle diagram](https://twitter.com/dceddia/status/999670221165203457) by [@dceddia](https://twitter.com/dceddia)
 
-#### React.Concepts
+### React.Concepts
 
 * [server-side-rendering](https://github.com/dimaip/server-side-rendering) is an interactive guide to server-side rendering with Webpack, React, React.
 * [react-bits](https://github.com/vasanthk/react-bits/) is a compilation of React Patterns, techniques, tips and tricks.
 * [Send Props to Children in React](https://jaketrent.com/post/send-props-to-children-react/) explains how to iterate over children to send props to them.
 
-#### React.Helpers
+### React.Helpers
 
 * [recompose](https://github.com/acdlite/recompose) is a React utility belt for function components and higher-order components.
 * [react-helmet](https://github.com/nfl/react-helmet) is a document head manager for React.
@@ -426,20 +429,20 @@ developing beautiful hybrid mobile apps.
 * [scour](https://github.com/rstacruz/scour) is a general-purpose library for dealing with JSON trees.
 * [baobab](https://github.com/Yomguithereal/baobab) is a JavaScript persistent and optionally immutable data tree with cursors.
 
-#### React.CSS-in-JS
+### React.CSS-in-JS
 
 * [emotion](https://github.com/emotion-js/emotion) is a CSS-in-JS library designed for high performance style composition.
 * [styled-components](https://github.com/styled-components/styled-components) provide visual primitives for the component age.
 * [react-with-styles](https://github.com/airbnb/react-with-styles) let's you use CSS-in-JavaScript with themes for React without being tightly coupled to one implementation.
 * [@compiled/css-in-js](https://github.com/atlassian-labs/compiled) provides the CSS in JS authoring experience we love without the runtime cost.
 
-#### React.Routing
+### React.Routing
 
 * [react-router](https://github.com/ReactTraining/react-router) provides declarative routing for React.
 * [Animated page transitions with React Router 4, ReactTransitionGroup and Animated](https://hackernoon.com/animated-page-transitions-with-react-router-4-reacttransitiongroup-and-animated-1ca17bd97a1a) is an article by Martin Haagensli about animating routes.
 * [react-router-transition](https://github.com/maisano/react-router-transition) are transitions built for react-router, powered by react-motion.
 
-#### React.Data-Fetching
+### React.Data-Fetching
 
 * [swr]( https://github.com/vercel/swr) provides React components for efficiently rendering large lists and tabular data.
 * [react-query](https://github.com/tannerlinsley/react-query) provides hooks for fetching, caching and updating asynchronous data in React.
@@ -449,18 +452,18 @@ developing beautiful hybrid mobile apps.
 * [Next.js](https://github.com/zeit/next.js/) is a React hooks library for remote data fetching. 
 * [razzle](https://github.com/jaredpalmer/razzle) enables server-rendered universal JavaScript applications with no configuration.
 
-#### React.Interactions
+### React.Interactions
 
 * [react-draggable](https://github.com/mzabriskie/react-draggable) is a draggable component.
 * [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) provides beautiful, accessible drag and drop for lists.
 * [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) is a set of higher-order components to turn any list into an animated, touch-friendly, sortable list. 
 * [react-with-gesture](https://github.com/drcmda/react-with-gesture) is a little helper for component-tied mouse/touch gestures.
 
-#### React.Accessibility
+### React.Accessibility
 
 * [react-aria](https://react-spectrum.adobe.com/react-aria/index.html) is a library of React Hooks that provides accessible UI primitives for your design system.
 
-#### React.UI-Components
+### React.UI-Components
 
 * [belle](https://github.com/nikgraf/belle) is a collection of configurable React Components.
 * [react-dates](https://github.com/airbnb/react-dates) is an accessible, easily internationalizable, mobile-friendly datepicker library for the web
@@ -469,13 +472,13 @@ developing beautiful hybrid mobile apps.
 * [react-select](https://github.com/jedwatson/react-select) is a flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete and async support.
 * [react-laag](https://github.com/everweij/react-laag) provides primitives to build things like tooltips, dropdown menu's and popovers in React
 
-#### React.Animation
+### React.Animation
 
 * [react-motion](https://github.com/chenglou/react-motion) is a spring that solves your animation problems.
 * [react-spring](https://github.com/drcmda/react-spring) is helping react-motion and animated to become best friends.
 * [react-move](https://github.com/react-tools/react-move) provides beautiful, data-driven animations for React.
 
-#### React.Meta-Components
+### React.Meta-Components
 
 * [boron](https://github.com/yuanyan/boron) is a collection of dialog animations with React.js.
 * [react-game-kit](https://github.com/FormidableLabs/react-game-kit) is a component library for making games with React & React Native.
@@ -483,12 +486,12 @@ developing beautiful hybrid mobile apps.
 * [react-content-loader](http://danilowoz.com/react-content-loader/) uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded.
 * [react-powerplug](https://github.com/renatorib/react-powerplug) is a set of pluggable renderless components and helpers that provides different types of state and logics so you can use with your dumb components. 
 
-#### React.Windowing
+### React.Windowing
 
 * [react-virtualized]( https://bvaughn.github.io/react-virtualized/) provides React components for efficiently rendering large lists and tabular data.
 * [react-window](https://github.com/bvaughn/react-window/) provides React components for efficiently rendering large lists and tabular data.
 
-#### React.Forms
+### React.Forms
 
 * [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) is a React component for building Web forms from JSONSchema.
 * [formsy-react](https://github.com/christianalfoni/formsy-react#how-to-use) is a form input builder and validator for React.
@@ -496,12 +499,12 @@ developing beautiful hybrid mobile apps.
 * [formstate](https://github.com/formstate/formstate) provides form state so simple that you will fall in love.
 * [formik](https://github.com/jaredpalmer/formik) provides forms in React, without tears.
 
-#### React.Design-System-Basics
+### React.Design-System-Basics
 
 * [xstyled](https://xstyled.dev/) provides consistent theme based CSS for styled-components & emotion.
 * [styled-system](https://github.com/styled-system/styled-system) provides style props for rapid UI development .
 
-#### React.UI-Frameworks
+### React.UI-Frameworks
 
 * [chakra-ui](https://github.com/chakra-ui/chakra-ui/) provides React Components that Implement Google's Material Design.
 * [material-ui](https://github.com/callemall/material-ui) provides React Components that Implement Google's Material Design.
@@ -513,59 +516,27 @@ developing beautiful hybrid mobile apps.
 * [evergreen](https://github.com/segmentio/evergreen) is a React UI Framework by Segment.
 * [react-ui-kits](https://github.com/lucianomlima/react-ui-kits) is a list of UI Kits available for React and React Native.
 
-#### React.Performance
+### React.Performance
 
 * [Creating More Efficient React Views with Windowing](https://www.youtube.com/watch?v=t4tuhg7b50I&app=desktop) is a talk by Brian Vaughn about performance optimizations and the windowing technique.
 * [Debugging React performance with React 16 and Chrome Devtools](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad) Ben Schwarz
 
-#### React.Testing
+### React.Testing
 
 * [enzyme](https://github.com/airbnb/enzyme/) provides JavaScript Testing utilities for React.
 
-#### React.RealWorldApplications
+### React.RealWorldApplications
 
 * [dpla-frontend](https://github.com/dpla/dpla-frontend): React application for the Digital Public Library of America website.
 
-#### Next.js
+### React.Next.js
 
 * [nextjs-prism-markdown](https://github.com/leerob/nextjs-prism-markdown): Example using Prism / Markdown with Next.js including switching syntax highlighting themes.
 
-### Data Fetching
+## Data Fetching
 
 * [ladda](https://github.com/ladda-js/ladda) is a JavaScript data fetching layer with caching.
 * [sheetsee.js](http://jlord.us/sheetsee.js/) is a client-side library for connecting Google Spreadsheets to a website and visualizing the information in tables and maps.
-
-### Static site generators
-
-* [gatsby](https://github.com/gatsbyjs/gatsby) is a blazing fast static site generator for React.
-* [react-static](https://github.com/nozzle/react-static) is a progressive static site generator for React.
-* [eleventy](https://github.com/11ty/eleventy/) is a simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML. 
-* [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) A high performance blog template for the 11ty static site generator.
-
-### Hacks & Tricks
-
-* [Preventing body scroll for modals in iOS](https://benfrain.com/preventing-body-scroll-for-modals-in-ios/)
-* [Animate stroke-dasharray in Edge](https://github.com/MicrosoftEdge/Status/issues/117#issuecomment-177585291)
-
-### Inspiration
-
-* [Codrops: Creative Gooey Effects](http://tympanus.net/Tutorials/SVGLoaderGSAP/index6.html) "A set of examples that use a gooey SVG filter for creating a variety of different effects for all kinds of website components."
-* [Codrops: Loaders](http://tympanus.net/codrops/2015/03/10/creative-gooey-effects/) "Playful loaders using animation with SVG and GSAP."
-
-## Sandboxing
-
-* [How to build a plugin system on the web and also sleep well at night](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/) is an article by the Figma Team how to build a plugin system using Realms.
-* [realms-shim](https://github.com/Agoric/realms-shim) is a spec-compliant shim for Realms TC39 Proposal.
-
-## Automation
-
-* [hygen](https://github.com/jondot/hygen) is a simple, fast, and scalable code generator that lives in your project.
-
-## Frontend-Backend-Communication
-
-* [socket.io](http://socket.io/) enables real-time bidirectional event-based communication.
-* [oboe.js](https://github.com/jimhigson/oboe.js) enables streaming JSON from server to client.
-* [aedes](https://github.com/mcollina/aedes) is a barebone MQTT broker that can run on any stream server, the node way.
 
 ## Client-side Databases
 
@@ -575,9 +546,41 @@ developing beautiful hybrid mobile apps.
 * [Yjs](https://github.com/y-js/yjs) is a framework for real-time p2p shared editing on any data.
 * [Nano-SQL](https://github.com/ClickSimply/Nano-SQL) is a universal database layer for the client, server & mobile devices.
 
-## Building and Bundling
+## Static site generators
 
-### Bundler & Compiler
+* [gatsby](https://github.com/gatsbyjs/gatsby) is a blazing fast static site generator for React.
+* [react-static](https://github.com/nozzle/react-static) is a progressive static site generator for React.
+* [eleventy](https://github.com/11ty/eleventy/) is a simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML. 
+* [eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) A high performance blog template for the 11ty static site generator.
+
+## Hacks & Tricks
+
+* [Preventing body scroll for modals in iOS](https://benfrain.com/preventing-body-scroll-for-modals-in-ios/)
+* [Animate stroke-dasharray in Edge](https://github.com/MicrosoftEdge/Status/issues/117#issuecomment-177585291)
+
+## Inspiration
+
+* [Codrops: Creative Gooey Effects](http://tympanus.net/Tutorials/SVGLoaderGSAP/index6.html) "A set of examples that use a gooey SVG filter for creating a variety of different effects for all kinds of website components."
+* [Codrops: Loaders](http://tympanus.net/codrops/2015/03/10/creative-gooey-effects/) "Playful loaders using animation with SVG and GSAP."
+
+## Sandboxing
+
+* [How to build a plugin system on the web and also sleep well at night](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/) is an article by the Figma Team how to build a plugin system using Realms.
+* [realms-shim](https://github.com/Agoric/realms-shim) is a spec-compliant shim for Realms TC39 Proposal.
+
+# Automation
+
+* [hygen](https://github.com/jondot/hygen) is a simple, fast, and scalable code generator that lives in your project.
+
+# Frontend-Backend-Communication
+
+* [socket.io](http://socket.io/) enables real-time bidirectional event-based communication.
+* [oboe.js](https://github.com/jimhigson/oboe.js) enables streaming JSON from server to client.
+* [aedes](https://github.com/mcollina/aedes) is a barebone MQTT broker that can run on any stream server, the node way.
+
+# Building and Bundling
+
+## Bundler & Compiler
 
 * [webpack](https://github.com/webpack/webpack) is a bundler for JavaScript and friends.
 * [rollup](https://github.com/rollup/rollup) is a module bundler for JavaScript for libraries.
@@ -586,13 +589,13 @@ developing beautiful hybrid mobile apps.
 * [budo](https://github.com/mattdesl/budo) is a dev server for rapid prototyping.
 * [bankai](https://github.com/yoshuawuyts/bankai) is a streaming {js,html,css} compiler.
 
-### Optimize & Minify
+## Optimize & Minify
 
 * [autoprefixer](https://github.com/postcss/autoprefixer) parses CSS and adds vendor prefixes to rules.
 * [uncss](https://github.com/giakki/uncss) removes unused styles from CSS.
 * [imagemin](https://github.com/imagemin/imagemin) minifies PNG, JPEG, GIF and SVG images.
 
-### webpack
+## webpack
 
 * [lqip-loader](https://github.com/zouhir/lqip-loader) provides low quality image placeholders (LQIP) for webpack.
 * [error-overlay-webpack-plugin](https://github.com/smooth-code/error-overlay-webpack-plugin) displays an error overlay in your application.
@@ -618,13 +621,13 @@ developing beautiful hybrid mobile apps.
 * [http-server](https://github.com/http-party/http-server) is a simple zero-configuration command-line http server.
 * [servor](https://github.com/lukejacksonn/servor/) is a dependency free file server for single page app development.
 
-## Backend
+# Backend
 
-### Machine Learning & AI
+## Machine Learning & AI
 
 * [brain.js](https://github.com/BrainJS/brain.js) provides neural networks in JavaScript.
 
-## Tools
+# Tools
 
 * [ai2html](http://ai2html.org/) is a script for Adobe Illustrator that converts your Illustrator document into html and css.
 * [wzrd](https://github.com/maxogden/wzrd) is a super minimal browserify development server.
@@ -632,7 +635,7 @@ developing beautiful hybrid mobile apps.
 * [insomnia](https://github.com/getinsomnia/insomnia) is a cross-platform REST client, built on top of Electron.
 * [rclone](https://github.com/rclone/rclone) is rsync for cloud storage.
 
-## Storytelling
+# Storytelling
 
 * [reveal.js](https://github.com/hakimel/reveal.js/) is the HTML Presentation Framework.
 * [Spectacle](https://github.com/FormidableLabs/spectacle) is a React based Presentation Library.
@@ -640,7 +643,7 @@ developing beautiful hybrid mobile apps.
 * [lagom.js](https://github.com/reimertz/lagom) is a simplistic presentation generator.
 * [mdx-deck](https://github.com/jxnblk/mdx-deck) enables MDX-based presentation decks.
 
-## Mapping
+# Mapping
 
 * [turf.js](https://github.com/Turfjs/turf) is a modular geospatial engine written in JavaScript.
 * [ngraph.path](https://github.com/anvaka/ngraph.path) provides path finding in a graph.
@@ -658,14 +661,14 @@ developing beautiful hybrid mobile apps.
 * [menubar](https://github.com/maxogden/menubar) is a high level way to create menubar desktop applications with electron.
 * [nw.js](https://github.com/nwjs/nw.js) "Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies."
 
-## Tracing / Profiling / Debugging
+# Tracing / Profiling / Debugging
 * [vector](https://github.com/Netflix/vector) is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser.
 * [statsd](https://github.com/etsy/statsd) is a simple daemon for easy stats aggregation.
 
-## IoT
+# IoT
 * [awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) is a curated list of awesome open source IoT frameworks, libraries and software.
 
-## P2P / WebRTC 
+# P2P / WebRTC 
 
 * [hypercore](https://github.com/mafintosh/hypercore) is a secure, distributed append-only log.
 * [hyperdrive](https://github.com/mafintosh/hyperdrive) is a secure, real time distributed file system.
@@ -673,7 +676,7 @@ developing beautiful hybrid mobile apps.
 * [dat](https://datproject.org/) is a distributed data community.
 * [simple-peer](https://github.com/feross/simple-peer) provides simple WebRTC video/voice and data channels for the browser and Node.js.
 
-## Language & Speech
+# Language & Speech
 
 * [nlp_compromise](https://github.com/nlp-compromise/nlp_compromise) is a cool way to use natural language in JavaScript.
 * [tesseract.js](https://github.com/naptha/tesseract.js) provides pure Javascript OCR for 62 Languages.
@@ -681,58 +684,56 @@ developing beautiful hybrid mobile apps.
 * [github.com/words](https://github.com/words) is a collection of linguistic javascript modules.
 * [artyom.js](https://github.com/sdkcarlos/artyom.js) is a voice control - voice commands - speech recognition and speech synthesis javascript library.
 
+# Misc
 
-## Misc
-
-* [HEAD](https://github.com/joshbuchea/HEAD) is a list of everything that goes in the head of your document.
 * [airpaste](https://github.com/mafintosh/airpaste) is a 1-1 network pipe that auto discovers other peers using mdns.
 * [node_mdns](https://github.com/agnat/node_mdns) enables mdns/zeroconf/bonjour service discovery add-on for Node.js.
 * [tern.js](http://ternjs.net/) is a stand-alone code-analysis engine for JavaScript.
 * [twemoji](https://github.com/twitter/twemoji) provides Twitter Emojis for everyone.
 
-## Services & APIs
+# Services & APIs
 
-### Public Clouds
+## Public Clouds
 
 * [Scaleway Elements](https://www.scaleway.com/en/elements/) is a public cloud with data centers in Paris (France), Amsterdam (Netherlands) and Warsaw (Poland).
 
-### Mobile
+## Mobile
 
 * [ionic/appflow](https://ionicframework.com/appflow) provides accessible mobile DevOps for all.
 
-### Application Monitoring 
+## Application Monitoring 
 
 * [appsignal.com](https://appsignal.com)
 * [sentry.io](https://sentry.io)
 
-### i18n
+## i18n
 
 * [https://locize.com/](https://locize.com) 
 * [https://phrase.com/](https://phrase.com)
 
-### Video
+## Video
 
 * [https://mux.com/](https://mux.com) 
 
-### User Tersing
+## User Testing
 
 * [maze.design](https://maze.design/) is a platform for user testing from first design mockup to a full-fledged product.
 
-### AI
+## AI
 
 * [labelbox.com](https://labelbox.com) is a training data platform.
 
-## CLI
+# CLI
 
 * [ora](https://github.com/sindresorhus/ora) is an elegant terminal spinner.
 * [cli-spinners](https://github.com/sindresorhus/cli-spinners) is a collection of spinners for use in the terminal.
 * [oclif](https://github.com/oclif/oclif) is a Node.js Open CLI Framework built by Heroku.
 
-## Package Mangement
+# Package Mangement
 
 * [verdaccio](https://github.com/verdaccio/verdaccio) is a lightweight private npm proxy registry.
 
-## Print
+# Print
 
 * [Gutenberg](https://github.com/BafS/Gutenberg) is a modern framework to print the web correctly.
 * [pdfmake](https://github.com/bpampuch/pdfmake) provides client/server side PDF printing in pure JavaScript.
