@@ -769,13 +769,19 @@ developing beautiful hybrid mobile apps.
 * [awesome-design](https://github.com/gztchan/awesome-design) is a collection of UI/UX design resources for developers & designers.
 * [webgradients.com]https://webgradients.com/) is a free collection of 180 linear gradients that you can use as content backdrops.
 
-## Typo
+## Typography
 
-* [Asap](https://fonts.google.com/specimen/Asap)  is a contemporary sans-serif family with subtle rounded corners.
+### Fonts
+
+* [Asap](https://fonts.google.com/specimen/Asap) is a contemporary sans-serif family with subtle rounded corners.
 * [hack](http://sourcefoundry.org/hack/) is a typeface designed for source code.
 * [Cairo](https://fonts.google.com/specimen/Cairo) is a contemporary Arabic and Latin typeface family.
 * [Maven Pro](https://fonts.google.com/specimen/Maven+Pro) is a sans-serif typeface with unique curvature and flowing rhythm.
 * [Titillium](https://fonts.google.com/specimen/Titillium+Web) was born inside the Accademia di Belle Arti di Urbino as a didactic project Course Type design of the Master of Visual Design Campi Visivi.
+
+### Tools
+
+* [capsize](https://seek-oss.github.io/capsize) is flipping how we define typography in CSS.
 
 # Discussions
 
