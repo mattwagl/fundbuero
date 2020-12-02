@@ -278,7 +278,8 @@ developing beautiful hybrid mobile apps.
 
 ### React
 
-* [nwb](https://github.com/insin/nwb) provides a toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration.
+#### React.Misc
+
 * [Wrapping DOM libs](https://github.com/ryanflorence/react-training/blob/gh-pages/lessons/05-wrapping-dom-libs.md) explains how to make React work with traditional DOM libs.
 * [react-awesome-components](https://github.com/brillout/awesome-react-components/) is catalog of React components.
 * [react-sketchapp](https://github.com/airbnb/react-sketchapp/) renders React components to Sketch.
@@ -308,7 +309,6 @@ developing beautiful hybrid mobile apps.
 * [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) provides custom scrollbars as React component.
 * [libreact](https://github.com/streamich/libreact) is a collection of useful React components.
 * [the-platform](https://github.com/palmerhq/the-platform) is Web API's turned into React Hooks and Suspense-friendly React components.
-
 
 ### React.Stores-And-State-Container
 
@@ -422,6 +422,10 @@ developing beautiful hybrid mobile apps.
 #### React.RealWorldApplications
 
 * [dpla-frontend](https://github.com/dpla/dpla-frontend): React application for the Digital Public Library of America website.
+
+#### Next.js
+
+* [nextjs-prism-markdown](https://github.com/leerob/nextjs-prism-markdown): Example using Prism / Markdown with Next.js including switching syntax highlighting themes.
 
 ### Data Fetching
 
