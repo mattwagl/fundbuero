@@ -9,10 +9,16 @@
 <!--ts-->
    * [fundbüro [ˈfʊntbyroː]](#-fundb\xC3\xBCro-\xCB\x88f\xCA\x8Antbyro\xCB\x90)
    * [Table of contents](#table-of-contents)
-   * [Basics &amp; Learning](#basics--learning)
+   * [Basics &amp; Concepts](#basics--concepts)
+      * [JavaScript](#javascript)
+      * [Node.js](#nodejs)
+      * [Data Structures &amp; Algorithms](#data-structures--algorithms)
+      * [Testing](#testing)
+      * [Version Control](#version-control)
    * [Architecture](#architecture)
       * [Domain-Driven Design](#domain-driven-design)
-   * [Base libs](#base-libs)
+   * [Field Reports from Real Life](#field-reports-from-real-life)
+   * [Base Libs](#base-libs)
       * [General helpers](#general-helpers)
       * [Dealing with async code](#dealing-with-async-code)
       * [EventEmitter](#eventemitter)
@@ -110,7 +116,7 @@
       * [Typo](#typo)
    * [Discussions](#discussions)
 
-<!-- Added by: runner, at: Wed Dec  2 09:14:16 UTC 2020 -->
+<!-- Added by: runner, at: Wed Dec  2 09:23:35 UTC 2020 -->
 
 <!--te-->
 
