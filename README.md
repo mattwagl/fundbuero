@@ -158,9 +158,10 @@
 * [Lose Koppelung durch Messaging und Domain Events – Teil 1](https://ricofritzsche.wordpress.com/2013/08/04/lose-koppelung-durch-messaging-und-domain-events-teil-1/).
 * [Lose Koppelung durch Messaging und Domain Events – Teil 2](https://ricofritzsche.wordpress.com/2013/08/06/lose-koppelung-durch-messaging-und-domain-events-teil-2/).
 
-# Field Reports from Real Life
+# Field Reports & Product Analysis
 
 * [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1) is an article by Antin Harasymiv that provides a peek under of the Google Photos Web UI.
+* [CSS Findings From The New Facebook Design](https://ishadeed.com/article/new-facebook-css/) is blog article by Ahmad Shadeed about little but very interesting technical details of a Facebook design relaunch.
 
 # Base Libs
 
