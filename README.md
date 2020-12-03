@@ -55,6 +55,7 @@
          * [React.Misc](#reactmisc)
          * [React.Basics](#reactbasics)
          * [React.Concepts](#reactconcepts)
+         * [React.TypeScript](#reacttypescript)
          * [React.Helpers](#reacthelpers)
          * [React.Stores-And-State-Container](#reactstores-and-state-container)
          * [React.CSS-in-JS](#reactcss-in-js)
@@ -118,7 +119,7 @@
          * [Tools](#tools-1)
    * [Discussions](#discussions)
 
-<!-- Added by: runner, at: Wed Dec  2 09:26:51 UTC 2020 -->
+<!-- Added by: runner, at: Thu Dec  3 07:59:13 UTC 2020 -->
 
 <!--te-->
 
