@@ -427,6 +427,12 @@ developing beautiful hybrid mobile apps.
 * [react-bits](https://github.com/vasanthk/react-bits/) is a compilation of React Patterns, techniques, tips and tricks.
 * [Send Props to Children in React](https://jaketrent.com/post/send-props-to-children-react/) explains how to iterate over children to send props to them.
 
+
+### React.TypeScript
+
+* [Conditional React props with TypeScript](https://www.benmvp.com/blog/conditional-react-props-typescript/) is a blog article on using TypeScript to only allow a React prop to be set when another has a specific value.
+* [Polymorphic React Components in TypeScript](https://www.benmvp.com/blog/polymorphic-react-components-typescript/) is a blog article on how to define strongly-typed React components that can inherit props from arbitrary HTML elements.
+
 ### React.Helpers
 
 * [recompose](https://github.com/acdlite/recompose) is a React utility belt for function components and higher-order components.
