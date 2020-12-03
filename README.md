@@ -162,6 +162,7 @@
 
 * [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1) is an article by Antin Harasymiv that provides a peek under of the Google Photos Web UI.
 * [CSS Findings From The New Facebook Design](https://ishadeed.com/article/new-facebook-css/) is blog article by Ahmad Shadeed about little but very interesting technical details of a Facebook design relaunch.
+* [How Apple reinvented the cursor for iPad](https://techcrunch.com/2020/05/06/how-apple-reinvented-the-cursor-for-ipad/) is an in-depth analysis of the mouse cursor redesign for the iPad.
 
 # Base Libs
 
