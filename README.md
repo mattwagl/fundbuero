@@ -17,7 +17,7 @@
       * [Version Control](#version-control)
    * [Architecture](#architecture)
       * [Domain-Driven Design](#domain-driven-design)
-   * [Field Reports from Real Life](#field-reports-from-real-life)
+   * [Field Reports &amp; Product Analysis](#field-reports--product-analysis)
    * [Base Libs](#base-libs)
       * [General helpers](#general-helpers)
       * [Dealing with async code](#dealing-with-async-code)
@@ -119,7 +119,7 @@
          * [Tools](#tools-1)
    * [Discussions](#discussions)
 
-<!-- Added by: runner, at: Thu Dec  3 07:59:13 UTC 2020 -->
+<!-- Added by: runner, at: Thu Dec  3 08:20:39 UTC 2020 -->
 
 <!--te-->
 
