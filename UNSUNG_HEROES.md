@@ -10,6 +10,12 @@ He died on a "Round-the-World Fact-Finding Tour" in Mongolia where had been capt
 engineered by the Soviet NKVD, as revenge for the embarrassment he had caused the Soviet regime.
 <br />– Sources: [Wikipedia](https://en.wikipedia.org/wiki/Gareth_Jones_(journalist)) | [Bloodlands](https://en.wikipedia.org/wiki/Bloodlands)
 
+## Music
+
+- [Lee "Scratch" Perry](https://en.wikipedia.org/wiki/Lee_%22Scratch%22_Perry) is a Jamaican record producer and singer noted for his innovative studio 
+techniques and production style. For example in 1970, Perry produced and released the Wailers track "Mr. Brown" with its unusual use of studio effects and eerie opening highlighting his unique approach to production. 
+<br />– Sources: [Wikipedia](https://en.wikipedia.org/wiki/Lee_%22Scratch%22_Perry)
+
 ## Technology
 
 - [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) was an American engineer and inventor, and an early computer and Internet pioneer. He is best known for his work on founding the field of human–computer interaction, which resulted in creation of the computer mouse, and the development of hypertext, networked computers, and precursors to graphical user interfaces.
