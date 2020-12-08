@@ -1,4 +1,4 @@
-# Unsung Heroes
+# (Unsung) Heroes
 
 ## History & Journalism
 
@@ -9,3 +9,8 @@ tumultuous acclamation in that city. He wrote in the Welsh Western Mail that if 
 He died on a "Round-the-World Fact-Finding Tour" in Mongolia where had been captured and murdered by bandits. There was a suspicion that his murder had been 
 engineered by the Soviet NKVD, as revenge for the embarrassment he had caused the Soviet regime.
 <br />– Sources: [Wikipedia](https://en.wikipedia.org/wiki/Gareth_Jones_(journalist)) | [Bloodlands](https://en.wikipedia.org/wiki/Bloodlands)
+
+## Technology
+
+- [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) was an American engineer and inventor, and an early computer and Internet pioneer. He is best known for his work on founding the field of human–computer interaction, which resulted in creation of the computer mouse, and the development of hypertext, networked computers, and precursors to graphical user interfaces.
+<br />– Sources: [Wikipedia](https://en.wikipedia.org/wiki/Douglas_Engelbart)
