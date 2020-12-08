@@ -1,0 +1,11 @@
+# Unsung Heroes
+
+## History & Journalism
+
+- [Gareth Jones](https://en.wikipedia.org/wiki/Gareth_Jones_(journalist)) was a Welsh journalist who in March 1933 first reported in the Western world, 
+without equivocation and under his own name, the existence of the Soviet famine of 1932–33, including the Holodomor. Jones also became one of the first 
+foreign journalists to fly with Hitler as he accompanied Hitler and Joseph Goebbels to Frankfurt where he reported for the Western Mail on the new Chancellor's 
+tumultuous acclamation in that city. He wrote in the Welsh Western Mail that if the Richthofen had crashed the history of Europe would have changed. 
+He died on a "Round-the-World Fact-Finding Tour" in Mongolia where had been captured and murdered by bandits. There was a suspicion that his murder had been 
+engineered by the Soviet NKVD, as revenge for the embarrassment he had caused the Soviet regime.
+<br />– Sources: [Wikipedia](https://en.wikipedia.org/wiki/Gareth_Jones_(journalist)) | [Bloodlands](https://en.wikipedia.org/wiki/Bloodlands)
