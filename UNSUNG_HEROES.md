@@ -13,10 +13,8 @@ engineered by the Soviet NKVD, as revenge for the embarrassment he had caused th
 ## Music
 
 - [Lee "Scratch" Perry](https://en.wikipedia.org/wiki/Lee_%22Scratch%22_Perry) is a Jamaican record producer and singer noted for his innovative studio 
-techniques and production style. For example in 1970, Perry produced and released the Wailers track "Mr. Brown" with its unusual use of studio effects and eerie opening highlighting his unique approach to production. 
-<br />– Sources: [Wikipedia](https://en.wikipedia.org/wiki/Lee_%22Scratch%22_Perry)
-- [Funk Brothers](https://en.wikipedia.org/wiki/The_Funk_Brothers) were a group of Detroit-based session musicians who performed the backing to most Motown recordings from 1959 until the company moved to Los Angeles in 1972.  
-<br />– Sources: [Wikipedia](https://en.wikipedia.org/wiki/The_Funk_Brothers)
+techniques and production style. For example in 1970, Perry produced and released the Wailers track "Mr. Brown" with its unusual use of studio effects and eerie opening highlighting his unique approach to production. <br />– Sources: [Wikipedia](https://en.wikipedia.org/wiki/Lee_%22Scratch%22_Perry)
+- [Funk Brothers](https://en.wikipedia.org/wiki/The_Funk_Brothers) were a group of Detroit-based session musicians who performed the backing to most Motown recordings from 1959 until the company moved to Los Angeles in 1972.<br />– Sources: [Wikipedia](https://en.wikipedia.org/wiki/The_Funk_Brothers)
 
 ## Technology
 
