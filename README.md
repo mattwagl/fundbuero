@@ -699,10 +699,12 @@ developing beautiful hybrid mobile apps.
 * [nw.js](https://github.com/nwjs/nw.js) "Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies."
 
 # Tracing / Profiling / Debugging
+
 * [vector](https://github.com/Netflix/vector) is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser.
 * [statsd](https://github.com/etsy/statsd) is a simple daemon for easy stats aggregation.
 
 # IoT
+
 * [awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) is a curated list of awesome open source IoT frameworks, libraries and software.
 
 # P2P / WebRTC 
@@ -752,9 +754,10 @@ developing beautiful hybrid mobile apps.
 
 * [https://mux.com/](https://mux.com) 
 
-## User Testing
+## Testing
 
 * [maze.design](https://maze.design/) is a platform for user testing from first design mockup to a full-fledged product.
+* [applitools.com](https://applitools.com/) is a test automation platform powered by Visual AI.
 
 ## AI
 
