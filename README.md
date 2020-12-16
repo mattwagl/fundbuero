@@ -25,6 +25,7 @@
       * [Rate limiting and queueing](#rate-limiting-and-queueing)
       * [Streams](#streams)
       * [Dates &amp; Time](#dates--time)
+      * [Search](#search)
    * [Frontend](#frontend)
       * [Basics](#basics)
       * [Styling](#styling)
@@ -119,7 +120,7 @@
          * [Tools](#tools-1)
    * [Discussions](#discussions)
 
-<!-- Added by: runner, at: Thu Dec 10 20:54:32 UTC 2020 -->
+<!-- Added by: runner, at: Wed Dec 16 09:56:18 UTC 2020 -->
 
 <!--te-->
 
