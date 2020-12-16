@@ -749,6 +749,7 @@ developing beautiful hybrid mobile apps.
 
 * [appsignal.com](https://appsignal.com)
 * [sentry.io](https://sentry.io)
+* [checklyhq.com](https://www.checklyhq.com/) is an API & E2E monitoring/testing platform.
 
 ## i18n
 
@@ -763,6 +764,7 @@ developing beautiful hybrid mobile apps.
 
 * [maze.design](https://maze.design/) is a platform for user testing from first design mockup to a full-fledged product.
 * [applitools.com](https://applitools.com/) is a test automation platform powered by Visual AI.
+* [checklyhq.com](https://www.checklyhq.com/) is an API & E2E monitoring/testing platform.
 
 ## AI
 
