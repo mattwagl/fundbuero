@@ -223,6 +223,8 @@
 ## Basics
 
 * [HEAD](https://github.com/joshbuchea/HEAD) is a list of everything that goes in the head of your document.
+* [How to Favicon in 2021: Six files that fit most needs](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
+
 
 ## Styling
 
