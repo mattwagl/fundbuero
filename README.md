@@ -465,7 +465,6 @@ developing beautiful hybrid mobile apps.
 * [immer](https://github.com/mweststrate/immer) creates the next immutable state by mutating the current one.
 * [unistore](https://github.com/developit/unistore) is 350b / 650b state container with component actions for Preact & React.
 * [xstate](https://github.com/davidkpiano/xstate) provides state machines and statecharts for the modern web.
-
 * [PureState](https://github.com/MaiaVictor/PureState) is the stupidest state management library that works.
 * [freezer](https://github.com/arqex/freezer) an immutable tree data structure that is always updated from the root, making easier to think in a reactive way.
 * [scour](https://github.com/rstacruz/scour) is a general-purpose library for dealing with JSON trees.
@@ -557,6 +556,12 @@ developing beautiful hybrid mobile apps.
 * [reakit](https://github.com/reakit/reakit) is a toolkit for building interactive UIs with React.
 * [evergreen](https://github.com/segmentio/evergreen) is a React UI Framework by Segment.
 * [react-ui-kits](https://github.com/lucianomlima/react-ui-kits) is a list of UI Kits available for React and React Native.
+
+### React.Live-Coding-WYSIWYG
+
+* [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) is a syntax highlighting component for react with prismjs or highlightjs ast using inline styles.
+* [react-live](https://github.com/FormidableLabs/react-live) provides a flexible playground for live editing React components.
+* [jarle](https://github.com/jquense/jarle) is Just Another React Live Editor.
 
 ### React.Performance
 
