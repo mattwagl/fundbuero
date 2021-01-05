@@ -516,6 +516,7 @@ developing beautiful hybrid mobile apps.
 
 ### React.Animation
 
+* [framer/motion](https://github.com/framer/motion) is an open source, production-ready animation and gesture library for React.
 * [react-motion](https://github.com/chenglou/react-motion) is a spring that solves your animation problems.
 * [react-spring](https://github.com/drcmda/react-spring) is helping react-motion and animated to become best friends.
 * [react-move](https://github.com/react-tools/react-move) provides beautiful, data-driven animations for React.
