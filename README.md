@@ -457,6 +457,7 @@ developing beautiful hybrid mobile apps.
 * [exenv](https://github.com/JedWatson/exenv) provides React's ExecutionEnvironment module extracted for use in other packages & components.
 * [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) provides custom scrollbars as React component.
 * [libreact](https://github.com/streamich/libreact) is a collection of useful React components.
+* [react-use](https://github.com/streamich/react-use) Collection of essential React Hooks (Port of libreact).
 * [the-platform](https://github.com/palmerhq/the-platform) is Web API's turned into React Hooks and Suspense-friendly React components.
 
 ### React.Stores-And-State-Container
