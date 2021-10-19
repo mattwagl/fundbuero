@@ -215,6 +215,10 @@
 * [date-fns](https://github.com/date-fns/date-fns) provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js.
 * [Day.js](https://github.com/iamkun/dayjs) is a 2KB immutable date library alternative to Moment.js with the same modern API.
 
+## Validation
+
+* [iodine](https://github.com/mattkingshott/iodine) is a micro client-side validation library.
+
 ## Search
 
 * [fuzzysearch](https://github.com/bevacqua/fuzzysearch) is a iny and blazing-fast fuzzy search in JavaScript.
