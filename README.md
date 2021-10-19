@@ -490,6 +490,7 @@ developing beautiful hybrid mobile apps.
 * [react-router](https://github.com/ReactTraining/react-router) provides declarative routing for React.
 * [Animated page transitions with React Router 4, ReactTransitionGroup and Animated](https://hackernoon.com/animated-page-transitions-with-react-router-4-reacttransitiongroup-and-animated-1ca17bd97a1a) is an article by Martin Haagensli about animating routes.
 * [react-router-transition](https://github.com/maisano/react-router-transition) are transitions built for react-router, powered by react-motion.
+* [wouter](https://github.com/molefrog/wouter) is a tiny router for modern React and Preact apps that relies on Hooks. 
 
 ### React.Data-Fetching
 
