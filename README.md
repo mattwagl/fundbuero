@@ -270,6 +270,7 @@
 ## Webworker & "Multi-Threading"
 
 * [comlink](https://github.com/GoogleChromeLabs/comlink) makes WebWorkers enjoyable.
+* [partytown](https://github.com/BuilderIO/partytown) relocates resource intensive third-party scripts off of the main thread and into a web worker. 
 
 ## Input & Interactions
 
