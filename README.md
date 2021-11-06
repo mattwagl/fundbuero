@@ -257,7 +257,8 @@
 * [free-style](https://github.com/blakeembrey/free-style) makes CSS easier and more maintainable by using inline style objects.
 * [jss](http://cssinjs.org/) is an abstraction over CSS.
 * [polished](https://polished.js.org/) provides Sass-style helper functions for writing styles in JavaScript.
- 
+* [stitches](https://github.com/modulz/stitches) provides CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
+
 ## DOM
 
 * [sprint](https://github.com/bendc/sprint) is a tiny, lightning fast jQuery-like library for modern browsers.
