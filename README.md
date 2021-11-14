@@ -327,6 +327,7 @@
 * [scrollama](https://github.com/russellgoldenberg/scrollama) is a helper for Scrollytelling with IntersectionObserver.
 * [driver.js](https://github.com/kamranahmedse/driver.js) is a light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page.
 * [scroll-into-view-if-needed](https://github.com/stipsan/scroll-into-view-if-needed) is an Element.scrollIntoView ponyfills for things like "if-needed" and "smooth".
+* [WinBox](https://github.com/nextapps-de/winbox) is an HTML5 window manager for the web: lightweight, no dependencies, fully customizable. 
 
 ## Grid Layouts
 
