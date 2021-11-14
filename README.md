@@ -267,6 +267,7 @@
 * [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery) provides examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.  
 * [fastdom](https://github.com/wilsonpage/fastdom) eliminates layout thrashing by batching DOM measurement and mutation tasks.
 * [vdom](https://github.com/Matt-Esch/vdom) provides a DOM create and patch algorithm for vtree.
+* [cash](https://github.com/fabiospampinato/cash) is an absurdly small jQuery alternative for modern browsers. 
 
 ## Webworker & "Multi-Threading"
 
