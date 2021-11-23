@@ -789,6 +789,10 @@ developing beautiful hybrid mobile apps.
 * [applitools.com](https://applitools.com/) is a test automation platform powered by Visual AI.
 * [checklyhq.com](https://www.checklyhq.com/) is an API & E2E monitoring/testing platform.
 
+## Data Exploration & Data Science
+
+* [datasette.io](https://datasette.io/) is an open source multi-tool for exploring and publishing data.
+
 ## AI
 
 * [labelbox.com](https://labelbox.com) is a training data platform.
