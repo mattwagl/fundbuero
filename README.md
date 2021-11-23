@@ -112,6 +112,7 @@
    * [i18n](#i18n)
    * [Video](#video)
    * [Testing](#testing-1)
+   * [Data Exploration &amp; Data Science](#data-exploration--data-science)
    * [AI](#ai)
 * [CLI](#cli)
 * [Package Mangement](#package-mangement)
@@ -122,7 +123,7 @@
       * [Tools](#tools-1)
 * [Discussions](#discussions)
 
-<!-- Added by: runner, at: Sun Nov 14 17:23:30 UTC 2021 -->
+<!-- Added by: runner, at: Tue Nov 23 15:43:15 UTC 2021 -->
 
 <!--te-->
 
