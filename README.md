@@ -96,6 +96,7 @@
    * [Static servers](#static-servers)
 * [Backend](#backend)
    * [Databases](#databases)
+   * [Deployment](#deployment-1)
    * [Machine Learning &amp; AI](#machine-learning--ai)
 * [Tools](#tools)
 * [Storytelling](#storytelling)
@@ -124,7 +125,7 @@
       * [Tools](#tools-1)
 * [Discussions](#discussions)
 
-<!-- Added by: runner, at: Tue Jan  4 16:35:51 UTC 2022 -->
+<!-- Added by: runner, at: Tue Jan  4 16:51:36 UTC 2022 -->
 
 <!--te-->
 
