@@ -827,6 +827,7 @@ developing beautiful hybrid mobile apps.
 * [Cairo](https://fonts.google.com/specimen/Cairo) is a contemporary Arabic and Latin typeface family.
 * [Maven Pro](https://fonts.google.com/specimen/Maven+Pro) is a sans-serif typeface with unique curvature and flowing rhythm.
 * [Titillium](https://fonts.google.com/specimen/Titillium+Web) was born inside the Accademia di Belle Arti di Urbino as a didactic project Course Type design of the Master of Visual Design Campi Visivi.
+* [Cal Sans](https://github.com/calendso/font) is the geometric sans-serif typeface to adorn the headlines and interfaces of Cal.com.
 
 ### Tools
 
