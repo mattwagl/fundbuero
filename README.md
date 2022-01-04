@@ -695,6 +695,9 @@ developing beautiful hybrid mobile apps.
 
 * [ElectroDB](https://github.com/tywalch/electrodb) is a DynamoDB library to ease the use of modeling complex hierarchical relationships and implementing a Single Table Design while keeping your query code readable.
 
+## Deployment
+
+* [fly.io](https://fly.io/) runs your full stack apps (and databases!) all over the world. No ops required. 
 
 ## Machine Learning & AI
 
