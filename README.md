@@ -318,6 +318,7 @@
 * [Jets.js](http://nexts.github.io/Jets.js/) is a native CSS search engine.
 * [tether.js](http://github.hubspot.com/tether/) is a library for efficiently making an absolutely positioned element stay next to another element on the page.
 * [popper.js](https://github.com/FezVrasta/popper.js) is a positioning engine, its purpose is to calculate the position of an element.
+* [floating-ui](https://github.com/floating-ui/floating-ui) is a low-level toolkit to position floating elements while intelligently keeping them in view. Tooltips, popovers, dropdowns, menus, and more .
 * [clipboard.js](https://github.com/zenorocha/clipboard.js) provides modern copy to clipboard. No Flash.
 * [in-view](https://github.com/camwiegert/in-view) notifies you when a DOM element enters or exits the viewport.
 * [localForage](https://github.com/localForage/localForage) provides offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
