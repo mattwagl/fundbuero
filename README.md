@@ -690,6 +690,11 @@ developing beautiful hybrid mobile apps.
 
 # Backend
 
+## Databases
+
+* [ElectroDB](https://github.com/tywalch/electrodb) is a DynamoDB library to ease the use of modeling complex hierarchical relationships and implementing a Single Table Design while keeping your query code readable.
+
+
 ## Machine Learning & AI
 
 * [brain.js](https://github.com/BrainJS/brain.js) provides neural networks in JavaScript.
