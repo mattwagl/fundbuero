@@ -226,6 +226,8 @@
 ## Search
 
 * [fuzzysearch](https://github.com/bevacqua/fuzzysearch) is a iny and blazing-fast fuzzy search in JavaScript.
+* [Fuse](https://github.com/krisk/Fuse) provides lightweight fuzzy-search, in JavaScript.
+
 
 # Frontend
 
