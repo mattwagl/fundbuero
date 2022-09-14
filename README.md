@@ -264,7 +264,8 @@
 * [jss](http://cssinjs.org/) is an abstraction over CSS.
 * [polished](https://polished.js.org/) provides Sass-style helper functions for writing styles in JavaScript.
 * [stitches](https://github.com/modulz/stitches) provides CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
-
+* [twind](https://github.com/tw-in-js/twind) is the smallest, fastest, most feature complete Tailwind-in-JS solution in existence. 
+* 
 ## DOM
 
 * [sprint](https://github.com/bendc/sprint) is a tiny, lightning fast jQuery-like library for modern browsers.
