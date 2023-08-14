@@ -29,6 +29,7 @@
    * [Search](#search)
 * [Frontend](#frontend)
    * [Basics](#basics)
+   * [Icons](#icons)
    * [Styling](#styling)
    * [Styling with CSS](#styling-with-css)
    * [Styling with JS](#styling-with-js)
@@ -126,7 +127,7 @@
 * [Discussions](#discussions)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
-<!-- Added by: runner, at: Wed Sep 14 07:33:18 UTC 2022 -->
+<!-- Added by: runner, at: Mon Aug 14 13:03:11 UTC 2023 -->
 
 <!--te-->
 
