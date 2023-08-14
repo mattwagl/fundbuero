@@ -237,11 +237,14 @@
 * [HEAD](https://github.com/joshbuchea/HEAD) is a list of everything that goes in the head of your document.
 * [How to Favicon in 2021: Six files that fit most needs](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
 
+## Icons
+
+* [Bytesize Icons](https://github.com/danklammer/bytesize-icons) is a tiny style-controlled SVG iconset.
+* [iconify](https://github.com/iconify/iconify) is universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons).
 
 ## Styling
 
 * [patternbolt](https://github.com/buseca/patternbolt) is a election of SVG pattern background, packed in a single CSS or SCSS file.
-* [Bytesize Icons](https://github.com/danklammer/bytesize-icons) is a tiny style-controlled SVG iconset.
 
 ## Styling with CSS
 
